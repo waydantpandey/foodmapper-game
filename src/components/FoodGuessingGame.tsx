@@ -4611,9 +4611,10 @@ export default function FoodGuessingGame() {
                   title="Your Guess"
                   animation={undefined}
                   icon={{
-                    url: avatarOptions[selectedAvatarIndex] ? createPinSVG(avatarOptions[selectedAvatarIndex], 36) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
+                    url: avatarImages[selectedAvatarIndex] ? createPinSVG(avatarImages[selectedAvatarIndex], 36) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
                       <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <circle cx="18" cy="18" r="17" fill="none" stroke="white" stroke-width="2"/>
+                        <circle cx="18" cy="18" r="17" fill="#6e73ff" stroke="white" stroke-width="2"/>
+                        <text x="18" y="22" text-anchor="middle" fill="white" font-size="14" font-family="Arial">?</text>
                       </svg>
                     `),
                     scaledSize: new google.maps.Size(36, 36),
