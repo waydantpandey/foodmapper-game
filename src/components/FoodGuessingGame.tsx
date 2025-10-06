@@ -1317,6 +1317,12 @@ export default function FoodGuessingGame() {
 
   // Helper function to filter foods with real images
   const filterFoodsWithRealImages = useCallback((foodsData: Food[]) => {
+    // Check if foodsData is valid
+    if (!Array.isArray(foodsData)) {
+      console.error('filterFoodsWithRealImages: foodsData is not an array:', foodsData);
+      return [];
+    }
+    
     const demoImageUrls = [
       'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800',
       'https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800',
@@ -1377,6 +1383,12 @@ export default function FoodGuessingGame() {
       try {
         const response = await fetch('/api/foods');
         const data = await response.json();
+        
+        // Check if data is an array and not an error
+        if (!Array.isArray(data)) {
+          console.error('API returned non-array data:', data);
+          return;
+        }
         
         // Filter out dishes that only have demo/placeholder images
         const foodsWithRealImages = filterFoodsWithRealImages(data);

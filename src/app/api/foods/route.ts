@@ -14,13 +14,12 @@ export async function GET() {
         id,
         name,
         description,
-        origin_city,
-        origin_country,
-        latitude,
-        longitude,
+        fact,
+        country_id,
+        city_id,
         category_id,
         countries(name),
-        cities(name)
+        cities(name, latitude, longitude)
       `);
 
     if (error) {
@@ -37,13 +36,12 @@ export async function GET() {
       id: dish.id,
       name: dish.name,
       description: dish.description,
-      origin_city: dish.origin_city,
-      origin_country: dish.origin_country,
-      latitude: dish.latitude,
-      longitude: dish.longitude,
-      category_id: dish.category_id,
-      country_name: dish.countries?.name || dish.origin_country,
-      city_name: dish.cities?.name || dish.origin_city,
+      fact: dish.fact,
+      lat: dish.cities?.latitude || 0,
+      lng: dish.cities?.longitude || 0,
+      location: dish.cities?.name || 'Unknown',
+      city: dish.cities?.name || 'Unknown',
+      country: dish.countries?.name || 'Unknown',
       images: [] // We'll add Cloudinary images later
     }));
 
