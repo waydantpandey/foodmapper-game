@@ -2664,6 +2664,17 @@ export default function FoodGuessingGame() {
         
         // Clear preloaded image after use
         setPreloadedImage('');
+        
+        // Start game screen music for new game
+        if (gameScreenMusic) {
+          console.log('Starting game screen music from handlePlayAgain - restarting from beginning');
+          // Always restart game music from the beginning for new games
+          if (currentBgMusic && currentBgMusic !== gameScreenMusic) {
+            stopCurrentMusic(currentBgMusic);
+          }
+          setCurrentBgMusic(gameScreenMusic);
+          playMusic(gameScreenMusic, 0); // Always start from beginning
+        }
       }
     }
   };
@@ -4184,9 +4195,10 @@ export default function FoodGuessingGame() {
               title="Your Guess"
                 animation={undefined}
               icon={{
-                    url: avatarOptions[selectedAvatarIndex] ? createPinSVG(avatarOptions[selectedAvatarIndex], 32) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
+                    url: avatarImages[selectedAvatarIndex] ? createPinSVG(avatarImages[selectedAvatarIndex], 32) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
                       <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <circle cx="16" cy="16" r="15" fill="none" stroke="white" stroke-width="2"/>
+                        <circle cx="16" cy="16" r="15" fill="#6e73ff" stroke="white" stroke-width="2"/>
+                        <text x="16" y="20" text-anchor="middle" fill="white" font-size="12" font-family="Arial">?</text>
                   </svg>
                 `),
                     scaledSize: new google.maps.Size(32, 32),
