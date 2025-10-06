@@ -1390,8 +1390,8 @@ export default function FoodGuessingGame() {
           return;
         }
         
-        // Filter out dishes that only have demo/placeholder images
-        const foodsWithRealImages = filterFoodsWithRealImages(data);
+        // Use all dishes for now (temporarily disable filtering)
+        const foodsWithRealImages = data;
         
         console.log(`📊 Loaded ${data.length} total dishes, ${foodsWithRealImages.length} with real images`);
         
@@ -1440,7 +1440,7 @@ export default function FoodGuessingGame() {
     
     // Preload the image
     setIsPreloading(true);
-    const img = new Image();
+    const img = new window.Image();
     img.onload = () => {
       setPreloadedImage(selectedImage);
       setIsPreloading(false);
@@ -4116,7 +4116,7 @@ export default function FoodGuessingGame() {
               title="Your Guess"
                 animation={undefined}
               icon={{
-                    url: avatarImages[selectedAvatarIndex] ? createPinSVG(avatarImages[selectedAvatarIndex], 32) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
+                    url: avatarOptions[selectedAvatarIndex] ? createPinSVG(avatarOptions[selectedAvatarIndex], 32) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
                       <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="16" cy="16" r="15" fill="none" stroke="white" stroke-width="2"/>
                   </svg>
@@ -4531,7 +4531,7 @@ export default function FoodGuessingGame() {
                   title="Your Guess"
                   animation={undefined}
                   icon={{
-                    url: avatarImages[selectedAvatarIndex] ? createPinSVG(avatarImages[selectedAvatarIndex], 36) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
+                    url: avatarOptions[selectedAvatarIndex] ? createPinSVG(avatarOptions[selectedAvatarIndex], 36) : 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(`
                       <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="18" cy="18" r="17" fill="none" stroke="white" stroke-width="2"/>
                       </svg>
