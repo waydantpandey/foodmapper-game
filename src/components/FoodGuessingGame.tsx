@@ -1738,7 +1738,6 @@ export default function FoodGuessingGame() {
     }
 
     // Save username and avatar to cookies
-    console.log('💾 Saving user preferences:', { username: finalNickname, avatarIndex: selectedAvatarIndex });
     CookieManager.saveUserPreferences(finalNickname, selectedAvatarIndex);
     
     // Reset 10-second sound flag when starting the game
