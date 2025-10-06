@@ -1313,12 +1313,19 @@ export default function FoodGuessingGame() {
   // Load saved username and avatar on page load
   useEffect(() => {
     const sessionData = CookieManager.getSessionData();
+    console.log('🍪 Loading session data:', sessionData);
     if (sessionData.username) {
+      console.log('✅ Found saved username:', sessionData.username);
       setNicknameInput(sessionData.username);
       setNickname(sessionData.username);
+    } else {
+      console.log('❌ No saved username found');
     }
     if (sessionData.avatarIndex > 0) {
+      console.log('✅ Found saved avatar index:', sessionData.avatarIndex);
       setSelectedAvatarIndex(sessionData.avatarIndex);
+    } else {
+      console.log('❌ No saved avatar index found');
     }
     setShowNicknameScreen(true);
   }, []);
@@ -1738,6 +1745,7 @@ export default function FoodGuessingGame() {
     }
 
     // Save username and avatar to cookies
+    console.log('💾 Saving user preferences:', { username: finalNickname, avatarIndex: selectedAvatarIndex });
     CookieManager.saveUserPreferences(finalNickname, selectedAvatarIndex);
     
     // Reset 10-second sound flag when starting the game

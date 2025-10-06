@@ -135,6 +135,7 @@ export class CookieManager {
     const sessionData = this.getSessionData();
     sessionData.username = username;
     sessionData.avatarIndex = avatarIndex;
+    console.log('🍪 CookieManager: Saving session data:', sessionData);
     this.saveSessionData(sessionData);
   }
 
