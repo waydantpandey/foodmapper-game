@@ -14,6 +14,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/logo.png" type="image/png" sizes="32x32" />
+        <link rel="icon" href="/logo.png" type="image/png" sizes="16x16" />
+        <link rel="shortcut icon" href="/logo.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/logo.png" sizes="180x180" />
+        <link rel="manifest" href="/manifest.json" />
         <link
           rel="preload"
           href="/fonts/AlanSans-Regular.woff2"
