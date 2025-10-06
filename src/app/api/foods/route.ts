@@ -31,7 +31,7 @@ export async function GET() {
       return NextResponse.json({ error: 'No dishes found' }, { status: 404 });
     }
 
-    // Cloudinary images mapping
+    // Cloudinary images mapping - Add fallback images for all dishes
     const cloudinaryImages: { [key: string]: string[] } = {
       'Asado': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348514/food-guessing-game/argentina/asado/asado_1.jpg.jpg'],
       'Empanadas': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348491/food-guessing-game/argentina/empanadas/empanadas_1.jpg.jpg'],
@@ -39,14 +39,14 @@ export async function GET() {
       'Lamington': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348880/food-guessing-game/australia/lamington/lamington_1.jpg.jpg'],
       'Meat Pie': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348900/food-guessing-game/australia/meat-pie/meat_pie_1.jpg.jpg'],
       'Witchetty Grub': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348859/food-guessing-game/australia/witchetty-grub/witchetty_grub_1.jpg.jpg'],
-      'Buchada De Bode': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759349004/food-guessing-game/brazil/buchada-de-bode/buchada_de_bode_1.jpg.jpg'],
-      'Feijoada': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759349065/food-guessing-game/brazil/feijoada/feijoada_1.jpg.jpg'],
-      'P O De Queijo': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759349041/food-guessing-game/brazil/p%C3%A3o-de-queijo/p_o_de_queijo_1.jpg.jpg'],
       'Poutine': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759349162/food-guessing-game/canada/poutine/poutine_1.jpg.jpg'],
-      'Chow Mein': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759350038/food-guessing-game/china/chow-mein/chow_mein_1.jpg.jpg'],
-      'Dim Sum': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759350129/food-guessing-game/china/dim-sum/dim_sum_1.jpg.jpg'],
-      'Fortune Cookies': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759350011/food-guessing-game/china/fortune-cookies/fortune_cookies_1.jpg.jpg'],
-      'Mooncakes': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759350062/food-guessing-game/china/mooncakes/mooncakes_1.jpg.jpg']
+      'Gado-gado': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759347652/food-guessing-game/indonesia/gado-gado/gado_gado_1.jpg.jpg'],
+      'Hormigas Culonas': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348312/food-guessing-game/colombia/hormigas-culonas/hormigas_culonas_1.jpg.jpg'],
+      'Ajiaco': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759348335/food-guessing-game/colombia/ajiaco/ajiaco_1.jpg.jpg'],
+      'Jiggs Dinner': ['https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800'],
+      'Butter Tart': ['https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800'],
+      'Bánh Mì': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759349358/food-guessing-game/vietnam/b%C3%A1nh-m%C3%AC/b_nh_m__1.jpg.jpg'],
+      'Phở': ['https://res.cloudinary.com/dwav84wrk/image/upload/v1759349381/food-guessing-game/vietnam/ph%E1%BB%9F/ph__1.jpg.jpg']
     };
 
     // Transform the data to match the expected format
@@ -60,9 +60,9 @@ export async function GET() {
       location: dish.cities?.name || 'Unknown',
       city: dish.cities?.name || 'Unknown',
       country: dish.countries?.name || 'Unknown',
-      images: cloudinaryImages[dish.name] || []
+      images: cloudinaryImages[dish.name] || ['https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800']
     }));
-
+    
     return NextResponse.json(transformedData);
   } catch (error) {
     console.error('Error loading foods data:', error);
