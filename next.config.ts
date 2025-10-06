@@ -13,8 +13,6 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  // Optimize fonts
-  optimizeFonts: true,
   // Disable strict CSP for development
   async headers() {
     return [

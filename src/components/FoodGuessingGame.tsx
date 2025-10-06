@@ -921,7 +921,7 @@ export default function FoodGuessingGame() {
   // Load images as base64
   const loadImageAsBase64 = (src: string): Promise<string> => {
     return new Promise((resolve, reject) => {
-      const img = new window.Image();
+      const img = document.createElement('img');
       img.crossOrigin = 'anonymous';
       img.onload = () => {
         const canvas = document.createElement('canvas');
