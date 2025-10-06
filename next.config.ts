@@ -4,6 +4,8 @@ const nextConfig: NextConfig = {
   images: {
     domains: ['res.cloudinary.com', 'images.unsplash.com'],
   },
+  // Optimize fonts
+  optimizeFonts: true,
   // Disable strict CSP for development
   async headers() {
     return [

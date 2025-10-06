@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { GoogleMap, useJsApiLoader, Marker, Polyline } from '@react-google-maps/api';
 import { getDistance } from 'geolib';
 import { CookieManager } from '../utils/cookieManager';
+import Image from 'next/image';
 
 interface Food {
   name: string;
@@ -2830,12 +2831,13 @@ export default function FoodGuessingGame() {
             justifyContent: 'center',
             marginBottom: '1rem'
           }}>
-            <img 
+            <Image 
               src="/logo.png" 
               alt="FoodMapper.io Logo" 
+              width={80}
+              height={80}
+              priority
               style={{
-                width: '5rem',
-                height: '5rem',
                 objectFit: 'contain',
                 marginBottom: '0.5rem'
               }}
@@ -3533,12 +3535,12 @@ export default function FoodGuessingGame() {
               color: 'white',
               textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)'
             }}>
-              <img 
+              <Image 
                 src="/logo.png" 
                 alt="FoodMapper.io Logo" 
+                width={40}
+                height={40}
                 style={{
-                  width: 'min(2.5rem, 6vw)',
-                  height: 'min(2.5rem, 6vw)',
                   objectFit: 'contain',
                   filter: 'drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5))'
                 }}
