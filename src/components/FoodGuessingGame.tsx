@@ -921,7 +921,7 @@ export default function FoodGuessingGame() {
   // Load images as base64
   const loadImageAsBase64 = (src: string): Promise<string> => {
     return new Promise((resolve, reject) => {
-      const img = new Image();
+      const img = new window.Image();
       img.crossOrigin = 'anonymous';
       img.onload = () => {
         const canvas = document.createElement('canvas');
@@ -1381,13 +1381,64 @@ export default function FoodGuessingGame() {
     if (!showNicknameScreen && nickname) {
     const loadFoods = async () => {
       try {
-        const response = await fetch('/api/foods');
-        const data = await response.json();
+        console.log('🔄 Loading foods data...');
         
-        // Check if data is an array and not an error
-        if (!Array.isArray(data)) {
-          console.error('API returned non-array data:', data);
-          return;
+        // Try API first, fall back to static data
+        let data;
+        try {
+          const response = await fetch('/api/foods');
+          
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          
+          data = await response.json();
+          
+          // Check if data is an array and not an error
+          if (!Array.isArray(data)) {
+            throw new Error('API returned non-array data');
+          }
+        } catch (apiError) {
+          console.warn('API failed, using fallback data:', apiError);
+          // Fallback to static data
+          data = [
+            {
+              id: 'pizza-1',
+              name: 'Pizza',
+              description: 'Traditional Italian flatbread with toppings',
+              fact: 'Pizza was invented in Naples, Italy in the 18th century',
+              lat: 40.8518,
+              lng: 14.2681,
+              location: 'Italy',
+              city: 'Naples',
+              country: 'Italy',
+              images: ['https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800']
+            },
+            {
+              id: 'sushi-1',
+              name: 'Sushi',
+              description: 'Japanese dish with vinegared rice and seafood',
+              fact: 'Sushi originated in Southeast Asia as a method of preserving fish',
+              lat: 35.6762,
+              lng: 139.6503,
+              location: 'Japan',
+              city: 'Tokyo',
+              country: 'Japan',
+              images: ['https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800']
+            },
+            {
+              id: 'tacos-1',
+              name: 'Tacos',
+              description: 'Mexican dish with tortillas and various fillings',
+              fact: 'Tacos originated in Mexico and are now popular worldwide',
+              lat: 19.4326,
+              lng: -99.1332,
+              location: 'Mexico',
+              city: 'Mexico City',
+              country: 'Mexico',
+              images: ['https://images.unsplash.com/photo-1565299585323-38174c4a4a0a?w=800']
+            }
+          ];
         }
         
         // Use all dishes for now (temporarily disable filtering)
@@ -1411,6 +1462,7 @@ export default function FoodGuessingGame() {
         }
       } catch (error) {
         console.error('Error loading foods:', error);
+        // You could add a retry mechanism or show an error message to the user here
       }
     };
 
@@ -2784,10 +2836,10 @@ export default function FoodGuessingGame() {
           <div style={{
             width: '100%',
             height: '100%',
-            backgroundImage: 'url(/assets/backgrounds/bg1.jpg)',
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-            backgroundRepeat: 'no-repeat',
+            backgroundImage: 'url(/assets/backgrounds/bg1.jpg), linear-gradient(135deg, #222453 0%, #1a1d3a 100%)',
+            backgroundSize: 'cover, cover',
+            backgroundPosition: 'center, center',
+            backgroundRepeat: 'no-repeat, no-repeat',
             opacity: 1,
             transition: 'opacity 0.5s ease-in-out',
             animation: 'backgroundRotate2 2s infinite'
@@ -2798,10 +2850,10 @@ export default function FoodGuessingGame() {
             left: 0,
             width: '100%',
             height: '100%',
-            backgroundImage: 'url(/assets/backgrounds/bg2.jpg)',
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-            backgroundRepeat: 'no-repeat',
+            backgroundImage: 'url(/assets/backgrounds/bg2.jpg), linear-gradient(135deg, #1a1d3a 0%, #222453 100%)',
+            backgroundSize: 'cover, cover',
+            backgroundPosition: 'center, center',
+            backgroundRepeat: 'no-repeat, no-repeat',
             opacity: 0,
             transition: 'opacity 0.5s ease-in-out',
             animation: 'backgroundRotate2 2s infinite 1s'
@@ -3496,13 +3548,29 @@ export default function FoodGuessingGame() {
     return (
       <div style={{ 
         display: 'flex', 
+        flexDirection: 'column',
         alignItems: 'center', 
         justifyContent: 'center', 
         height: '100vh', 
         width: '100vw',
-        backgroundColor: '#1a1a2e'
+        backgroundColor: '#1a1a2e',
+        gap: '1rem'
       }}>
         <div style={{ fontSize: '1.5rem', color: 'white', fontWeight: '600' }}>Loading game...</div>
+        <div style={{ 
+          width: '40px', 
+          height: '40px', 
+          border: '4px solid #333', 
+          borderTop: '4px solid #fff', 
+          borderRadius: '50%', 
+          animation: 'spin 1s linear infinite' 
+        }}></div>
+        <style jsx>{`
+          @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+          }
+        `}</style>
       </div>
     );
   }
