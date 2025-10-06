@@ -168,3 +168,4 @@ async function createProperFolderStructure() {
 // Run the script
 createProperFolderStructure();
 
+

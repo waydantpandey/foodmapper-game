@@ -10,6 +10,8 @@ export interface GameSession {
   totalSessions: number;
   recentDishes: number[]; // Recently played dish indices (last 2-3 games)
   lastGameDishes: number[]; // Dishes from the most recent completed game
+  username: string; // User's last entered nickname
+  avatarIndex: number; // User's last selected avatar index
 }
 
 export class CookieManager {
@@ -28,7 +30,9 @@ export class CookieManager {
         lastPlayed: 0,
         totalSessions: 0,
         recentDishes: [],
-        lastGameDishes: []
+        lastGameDishes: [],
+        username: '',
+        avatarIndex: 0
       };
     }
 
@@ -42,7 +46,9 @@ export class CookieManager {
           lastPlayed: parsed.lastPlayed || 0,
           totalSessions: parsed.totalSessions || 0,
           recentDishes: parsed.recentDishes || [],
-          lastGameDishes: parsed.lastGameDishes || []
+          lastGameDishes: parsed.lastGameDishes || [],
+          username: parsed.username || '',
+          avatarIndex: parsed.avatarIndex || 0
         };
       }
     } catch (error) {
@@ -55,7 +61,9 @@ export class CookieManager {
       lastPlayed: 0,
       totalSessions: 0,
       recentDishes: [],
-      lastGameDishes: []
+      lastGameDishes: [],
+      username: '',
+      avatarIndex: 0
     };
   }
 
@@ -117,6 +125,16 @@ export class CookieManager {
       sessionData.recentDishes = sessionData.recentDishes.slice(-maxRecentDishes);
     }
     
+    this.saveSessionData(sessionData);
+  }
+
+  /**
+   * Save user preferences (username and avatar)
+   */
+  static saveUserPreferences(username: string, avatarIndex: number): void {
+    const sessionData = this.getSessionData();
+    sessionData.username = username;
+    sessionData.avatarIndex = avatarIndex;
     this.saveSessionData(sessionData);
   }
 
@@ -224,7 +242,9 @@ export class CookieManager {
       lastPlayed: Date.now(),
       totalSessions: 0,
       recentDishes: [],
-      lastGameDishes: []
+      lastGameDishes: [],
+      username: '',
+      avatarIndex: 0
     };
     this.saveSessionData(sessionData);
   }

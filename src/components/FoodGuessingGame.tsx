@@ -1310,8 +1310,16 @@ export default function FoodGuessingGame() {
     googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || '',
   });
 
-  // Always show nickname screen on refresh
+  // Load saved username and avatar on page load
   useEffect(() => {
+    const sessionData = CookieManager.getSessionData();
+    if (sessionData.username) {
+      setNicknameInput(sessionData.username);
+      setNickname(sessionData.username);
+    }
+    if (sessionData.avatarIndex > 0) {
+      setSelectedAvatarIndex(sessionData.avatarIndex);
+    }
     setShowNicknameScreen(true);
   }, []);
 
@@ -1728,6 +1736,9 @@ export default function FoodGuessingGame() {
     if (selectedAvatarIndex === 0 && nicknameInput.trim().length === 0) {
       setSelectedAvatarIndex(Math.floor(Math.random() * avatarOptions.length));
     }
+
+    // Save username and avatar to cookies
+    CookieManager.saveUserPreferences(finalNickname, selectedAvatarIndex);
     
     // Reset 10-second sound flag when starting the game
     setHasPlayedTenSecondsSound(false);
@@ -2758,6 +2769,9 @@ export default function FoodGuessingGame() {
     setShowNicknameScreen(true);
     setNickname('');
     setNicknameInput('');
+    
+    // Clear saved username and avatar for fresh start
+    CookieManager.saveUserPreferences('', 0);
   };
 
   // Safe number formatting function
