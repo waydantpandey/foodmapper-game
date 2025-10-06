@@ -3807,8 +3807,8 @@ export default function FoodGuessingGame() {
         </button>
       </div>
 
-      {/* Debug Panel */}
-      {showDebugPanel && (
+      {/* Debug Panel - Only show in development */}
+      {process.env.NODE_ENV === 'development' && showDebugPanel && (
         <div style={{
           position: 'absolute',
           top: '4rem',
@@ -3879,7 +3879,8 @@ export default function FoodGuessingGame() {
         </div>
       )}
 
-      {/* Debug Toggle Button */}
+      {/* Debug Toggle Button - Only show in development */}
+      {process.env.NODE_ENV === 'development' && (
       <button
         onClick={() => {
           setShowDebugPanel(!showDebugPanel);
@@ -3906,6 +3907,7 @@ export default function FoodGuessingGame() {
       >
         🐛
       </button>
+      )}
 
       {/* Full-screen Food Image Background - Only this part zooms */}
       <div 
