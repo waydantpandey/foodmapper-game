@@ -81,4 +81,4 @@ export async function GET() {
     console.error('Error loading foods data:', error);
     return NextResponse.json({ error: 'Failed to load foods data' }, { status: 500 });
   }
-}
+}// Force deployment Tue Oct  7 01:38:05 IST 2025
