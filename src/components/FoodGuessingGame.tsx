@@ -1263,7 +1263,9 @@ export default function FoodGuessingGame() {
     if (resultsScreenMusic) {
       resultsScreenMusic.volume = musicVolume;
     }
-  }, [musicVolume, gameScreenMusic, resultsScreenMusic]);
+    // Save music preferences to cookies
+    CookieManager.saveMusicPreferences(musicVolume, effectVolume, soundOn);
+  }, [musicVolume, effectVolume, soundOn, gameScreenMusic, resultsScreenMusic]);
 
   // Update bell sound volume when setting changes
   useEffect(() => {
@@ -1277,7 +1279,9 @@ export default function FoodGuessingGame() {
     if (finalRoundResultsSound) {
       finalRoundResultsSound.volume = effectVolume;
     }
-  }, [effectVolume, bellSound, bell1Sound, finalRoundResultsSound]);
+    // Save music preferences to cookies
+    CookieManager.saveMusicPreferences(musicVolume, effectVolume, soundOn);
+  }, [effectVolume, musicVolume, soundOn, bellSound, bell1Sound, finalRoundResultsSound]);
 
   // Stop all sounds when sound is turned off, resume when turned on
   useEffect(() => {
@@ -1303,14 +1307,16 @@ export default function FoodGuessingGame() {
         currentBgMusic.play().catch(console.log);
       }
     }
-  }, [soundOn, gameScreenMusic, resultsScreenMusic, bellSound, bell1Sound, finalRoundResultsSound, currentBgMusic]);
+    // Save music preferences to cookies
+    CookieManager.saveMusicPreferences(musicVolume, effectVolume, soundOn);
+  }, [soundOn, musicVolume, effectVolume, gameScreenMusic, resultsScreenMusic, bellSound, bell1Sound, finalRoundResultsSound, currentBgMusic]);
 
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
     googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || '',
   });
 
-  // Load saved username and avatar on page load
+  // Load saved username, avatar, and music preferences on page load
   useEffect(() => {
     const sessionData = CookieManager.getSessionData();
     if (sessionData.username) {
@@ -1320,6 +1326,10 @@ export default function FoodGuessingGame() {
     if (sessionData.avatarIndex > 0) {
       setSelectedAvatarIndex(sessionData.avatarIndex);
     }
+    // Load music preferences
+    setMusicVolume(sessionData.musicVolume);
+    setEffectVolume(sessionData.effectVolume);
+    setSoundOn(sessionData.soundOn);
     setShowNicknameScreen(true);
   }, []);
 

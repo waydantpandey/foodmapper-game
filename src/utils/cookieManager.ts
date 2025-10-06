@@ -12,6 +12,9 @@ export interface GameSession {
   lastGameDishes: number[]; // Dishes from the most recent completed game
   username: string; // User's last entered nickname
   avatarIndex: number; // User's last selected avatar index
+  musicVolume: number; // User's music volume preference (0-1)
+  effectVolume: number; // User's effect volume preference (0-1)
+  soundOn: boolean; // User's sound on/off preference
 }
 
 export class CookieManager {
@@ -32,7 +35,10 @@ export class CookieManager {
         recentDishes: [],
         lastGameDishes: [],
         username: '',
-        avatarIndex: 0
+        avatarIndex: 0,
+        musicVolume: 0.3,
+        effectVolume: 0.7,
+        soundOn: true
       };
     }
 
@@ -48,7 +54,10 @@ export class CookieManager {
           recentDishes: parsed.recentDishes || [],
           lastGameDishes: parsed.lastGameDishes || [],
           username: parsed.username || '',
-          avatarIndex: parsed.avatarIndex || 0
+          avatarIndex: parsed.avatarIndex || 0,
+          musicVolume: parsed.musicVolume !== undefined ? parsed.musicVolume : 0.3,
+          effectVolume: parsed.effectVolume !== undefined ? parsed.effectVolume : 0.7,
+          soundOn: parsed.soundOn !== undefined ? parsed.soundOn : true
         };
       }
     } catch (error) {
@@ -63,7 +72,10 @@ export class CookieManager {
       recentDishes: [],
       lastGameDishes: [],
       username: '',
-      avatarIndex: 0
+      avatarIndex: 0,
+      musicVolume: 0.3,
+      effectVolume: 0.7,
+      soundOn: true
     };
   }
 
@@ -135,6 +147,17 @@ export class CookieManager {
     const sessionData = this.getSessionData();
     sessionData.username = username;
     sessionData.avatarIndex = avatarIndex;
+    this.saveSessionData(sessionData);
+  }
+
+  /**
+   * Save music/sound preferences
+   */
+  static saveMusicPreferences(musicVolume: number, effectVolume: number, soundOn: boolean): void {
+    const sessionData = this.getSessionData();
+    sessionData.musicVolume = musicVolume;
+    sessionData.effectVolume = effectVolume;
+    sessionData.soundOn = soundOn;
     this.saveSessionData(sessionData);
   }
 
@@ -244,7 +267,10 @@ export class CookieManager {
       recentDishes: [],
       lastGameDishes: [],
       username: '',
-      avatarIndex: 0
+      avatarIndex: 0,
+      musicVolume: 0.3,
+      effectVolume: 0.7,
+      soundOn: true
     };
     this.saveSessionData(sessionData);
   }
