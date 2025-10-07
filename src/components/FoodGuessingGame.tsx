@@ -98,7 +98,7 @@ export default function FoodGuessingGame() {
     guessPosition: null,
     correctPosition: null,
     distance: null,
-    timeLeft: 30,
+    timeLeft: 60,
     gamePhase: 'playing',
     score: 0,
     round: 0,
@@ -179,7 +179,7 @@ export default function FoodGuessingGame() {
   // Bell sound for countdown
   const [bellSound, setBellSound] = useState<HTMLAudioElement | null>(null);
   
-  // Bell sound for 30-second timer
+  // Bell sound for 60-second timer
   const [bell1Sound, setBell1Sound] = useState<HTMLAudioElement | null>(null);
   
   // Individual countdown sounds for 3, 2, 1
@@ -333,7 +333,7 @@ export default function FoodGuessingGame() {
       });
       setBellSound(bell);
 
-      // Load bell-1 sound for 30-second timer
+      // Load bell-1 sound for 60-second timer
       const bell1 = new Audio('/sounds/bell-1.mp3');
       bell1.volume = 0.5; // Same volume as bell sound
       bell1.addEventListener('canplaythrough', () => {
@@ -433,7 +433,7 @@ export default function FoodGuessingGame() {
     return Promise.resolve();
   }, [bellSound, soundOn, effectVolume]);
 
-  // Play bell-1 sound for 30-second timer
+  // Play bell-1 sound for 60-second timer
   const playBell1Sound = useCallback(() => {
     if (bell1Sound && soundOn) {
       console.log('Playing bell-1 sound');
@@ -2169,7 +2169,7 @@ export default function FoodGuessingGame() {
       guessPosition: null,
       correctPosition: null,
       distance: null,
-      timeLeft: 30,
+      timeLeft: 60,
       gamePhase: 'playing',
       round: prev.round + 1,
       usedFoods: [...prev.usedFoods, foodIndex],
@@ -2644,7 +2644,7 @@ export default function FoodGuessingGame() {
       guessPosition: null,
       correctPosition: null,
       distance: null,
-      timeLeft: 30,
+      timeLeft: 60,
       gamePhase: 'playing' as const,
       score: 0,
       round: 0,
@@ -2699,7 +2699,7 @@ export default function FoodGuessingGame() {
           guessPosition: null,
           correctPosition: null,
           distance: null,
-          timeLeft: 30,
+          timeLeft: 60,
           gamePhase: 'playing',
           round: 1,
           usedFoods: [foodIndex],
@@ -2784,7 +2784,7 @@ export default function FoodGuessingGame() {
       guessPosition: null,
       correctPosition: null,
       distance: null,
-      timeLeft: 30,
+      timeLeft: 60,
       gamePhase: 'playing',
       score: 0,
       round: 0,
