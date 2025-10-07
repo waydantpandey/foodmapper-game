@@ -264,8 +264,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831963/food-guessing-game/brazil/po-de-queijo/po-de-queijo-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -14.235,
-    "lng": -51.9253
+    "lat": -18.5122,
+    "lng": -44.555,
+    "originCity": "Minas Gerais",
+    "city": "Minas Gerais",
+    "location": "Brazil",
+    "description": "These 'cheese breads' are a popular snack and breakfast food from the state of Minas Gerais. They are small, baked cheese rolls made from tapioca flour, making them naturally gluten-free with a chewy texture."
   },
   {
     "id": 17,
@@ -583,8 +587,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832339/food-guessing-game/france/crpes/crpes-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 46.2276,
-    "lng": 2.2137
+    "lat": 48.202,
+    "lng": -2.9326,
+    "originCity": "Brittany",
+    "city": "Brittany",
+    "location": "France",
+    "description": "A very thin pancake originating from the Brittany region. Crêpes can be served sweet (crêpes sucrées) with fillings like chocolate or fruit, or savory (crêpes salées) with fillings like cheese, ham, and eggs."
   },
   {
     "id": 36,
@@ -953,8 +961,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831130/food-guessing-game/indonesia/gadogado/gadogado-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -0.7893,
-    "lng": 113.9213
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "originCity": "Jakarta",
+    "city": "Jakarta",
+    "location": "Indonesia",
+    "description": "Meaning 'mix-mix,' this is an Indonesian salad of slightly boiled or steamed vegetables, hard-boiled eggs, tofu, and tempeh, all served with a rich and flavorful peanut sauce dressing."
   },
   {
     "id": 58,
@@ -2154,8 +2166,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832237/food-guessing-game/spain/tortilla-espaola/tortilla-espaola-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 40.4637,
-    "lng": -3.7492
+    "lat": 39.1671,
+    "lng": -6.3725,
+    "originCity": "Extremadura",
+    "city": "Extremadura",
+    "location": "Spain",
+    "description": "A staple of Spanish cuisine, this is a thick omelet made with slow-cooked potatoes and eggs, often including onions. It's served as a tapa, a light meal, or a sandwich filling."
   },
   {
     "id": 129,
