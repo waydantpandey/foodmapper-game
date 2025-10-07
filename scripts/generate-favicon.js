@@ -16,7 +16,7 @@ async function generateFavicon() {
     console.log('Generating favicon from logo...');
     
     // Create multiple sizes for the favicon
-    const sizes = [16, 32, 48, 64, 128, 256];
+    const sizes = [16, 32, 48, 64, 128, 256, 512, 1024];
     const buffers = [];
     
     for (const size of sizes) {

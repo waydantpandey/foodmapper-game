@@ -20,8 +20,10 @@ export default function RootLayout({
         <link rel="icon" href="/favicon-64x64.png" type="image/png" sizes="64x64" />
         <link rel="icon" href="/favicon-128x128.png" type="image/png" sizes="128x128" />
         <link rel="icon" href="/favicon-256x256.png" type="image/png" sizes="256x256" />
+        <link rel="icon" href="/favicon-512x512.png" type="image/png" sizes="512x512" />
+        <link rel="icon" href="/favicon-1024x1024.png" type="image/png" sizes="1024x1024" />
         <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="apple-touch-icon" href="/logo.png" sizes="180x180" />
+        <link rel="apple-touch-icon" href="/favicon-1024x1024.png" sizes="1024x1024" />
         <link rel="manifest" href="/manifest.json" />
         <link
           rel="preload"
