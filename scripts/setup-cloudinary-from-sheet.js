@@ -11,9 +11,9 @@ cloudinary.config({
   api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
-// Configuration - Update these with your actual IDs
-const GOOGLE_SHEET_ID = 'YOUR_SHEET_ID_HERE'; // Update this
-const GOOGLE_DRIVE_FOLDER_ID = 'YOUR_FOLDER_ID_HERE'; // Update this
+// Configuration
+const GOOGLE_SHEET_ID = '1c7RSCiILvoCg3cxRfhCmuPW5sEbMeFzTwTKCyL5EscY';
+const GOOGLE_DRIVE_FOLDER_ID = '1Pb8d2TrAldcd0oq9huT7hzLaN7Elf_Zw';
 
 async function setupCloudinaryFromSheet() {
   try {
@@ -52,7 +52,7 @@ async function setupCloudinaryFromSheet() {
         }
       });
       
-      if (food.name || food.Name || food.food_name) {
+      if (food['Dish Name'] || food['Country']) {
         foods.push(food);
       }
     }
@@ -62,7 +62,7 @@ async function setupCloudinaryFromSheet() {
     // Group foods by country
     const foodsByCountry = {};
     foods.forEach(food => {
-      const country = food.country || food.Country || food.location || food.Location || 'Unknown';
+      const country = food['Country'] || 'Unknown';
       if (!foodsByCountry[country]) {
         foodsByCountry[country] = [];
       }
@@ -79,7 +79,7 @@ async function setupCloudinaryFromSheet() {
       const countryFolder = `food-guessing-game/${country.toLowerCase().replace(/\s+/g, '-')}`;
       
       for (const food of countryFoods) {
-        const foodName = food.name || food.Name || food.food_name;
+        const foodName = food['Dish Name'];
         const foodFolder = `${countryFolder}/${foodName.toLowerCase().replace(/\s+/g, '-')}`;
         
         console.log(`  🍽️ Processing food: ${foodName}`);

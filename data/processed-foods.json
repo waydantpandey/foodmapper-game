@@ -1,0 +1,1682 @@
+[
+  {
+    "Country": "India",
+    "Dish Name": "Butter Chicken",
+    "Origin City": "Delhi",
+    "Origin City Latitude": "28.6139",
+    "Origin City Longitude": "77.209",
+    "Description": "Invented somewhat by accident in the 1950s at the Moti Mahal restaurant in Delhi, this world-famous dish features tandoori chicken simmered in a rich, mildly spiced tomato and butter (makhan) gravy."
+  },
+  {
+    "Country": "India",
+    "Dish Name": "Biryani",
+    "Origin City": "Hyderabad",
+    "Origin City Latitude": "17.385",
+    "Origin City Longitude": "78.4867",
+    "Description": "While its origins are traced to the Mughal Empire, Hyderabadi Biryani is iconic. It's a magnificent one-pot dish of fragrant basmati rice and marinated meat, slow-cooked with saffron, herbs, and spices."
+  },
+  {
+    "Country": "India",
+    "Dish Name": "Samosa",
+    "Origin City": "Uttar Pradesh",
+    "Origin City Latitude": "26.8467",
+    "Origin City Longitude": "80.9462",
+    "Description": "This beloved triangular pastry, with origins in the Middle East, is a quintessential Indian snack. It's typically stuffed with a savory mixture of spiced potatoes, onions, and peas before being deep-fried to golden perfection."
+  },
+  {
+    "Country": "India",
+    "Dish Name": "Paneer Tikka",
+    "Origin City": "Punjab",
+    "Origin City Latitude": "31.1471",
+    "Origin City Longitude": "75.3412",
+    "Description": "A vegetarian delight, this dish consists of chunks of paneer (Indian cheese) marinated in spices and yogurt, then threaded onto skewers with vegetables and grilled in a tandoor oven."
+  },
+  {
+    "Country": "India",
+    "Dish Name": "Masala Dosa",
+    "Origin City": "Udupi, Karnataka",
+    "Origin City Latitude": "13.3409",
+    "Origin City Longitude": "74.7421",
+    "Description": "A staple from Southern India, the Masala Dosa is a thin, crispy crepe made from fermented rice and lentil batter, filled with a savory spiced potato mixture and served with chutney and sambar."
+  },
+  {
+    "Country": "India",
+    "Dish Name": "Chole Bhature",
+    "Origin City": "Delhi",
+    "Origin City Latitude": "28.6139",
+    "Origin City Longitude": "77.209",
+    "Description": "A classic Punjabi dish especially popular in Delhi, this is a hearty combination of a spicy chickpea curry (Chole) served with a fluffy, deep-fried bread called Bhature."
+  },
+  {
+    "Country": "Italy",
+    "Dish Name": "Pizza",
+    "Origin City": "Naples",
+    "Origin City Latitude": "40.8518",
+    "Origin City Longitude": "14.2681",
+    "Description": "Originating in Naples as a simple, affordable food for the working class, pizza has become a global phenomenon. The Neapolitan style, with its soft, chewy crust, is protected by UNESCO as a cultural heritage item."
+  },
+  {
+    "Country": "Italy",
+    "Dish Name": "Pasta Carbonara",
+    "Origin City": "Rome",
+    "Origin City Latitude": "41.9028",
+    "Origin City Longitude": "12.4964",
+    "Description": "A classic Roman pasta dish, its name is believed to come from 'carbonaro' (charcoal burner). It gets its creamy texture not from cream, but from a rich sauce of raw eggs, Pecorino Romano cheese, black pepper, and cured pork (guanciale)."
+  },
+  {
+    "Country": "Italy",
+    "Dish Name": "Lasagna",
+    "Origin City": "Emilia-Romagna",
+    "Origin City Latitude": "44.4949",
+    "Origin City Longitude": "11.3426",
+    "Description": "Dating back to the Middle Ages, this beloved baked dish from the Emilia-Romagna region consists of wide, flat pasta sheets layered with ragù (a slow-cooked meat sauce), Béchamel sauce, and Parmesan cheese."
+  },
+  {
+    "Country": "Italy",
+    "Dish Name": "Risotto",
+    "Origin City": "Lombardy",
+    "Origin City Latitude": "45.4642",
+    "Origin City Longitude": "9.19",
+    "Description": "A northern Italian rice dish cooked in broth to a creamy consistency. The famous Risotto alla Milanese is known for its distinct yellow color, which comes from the addition of saffron."
+  },
+  {
+    "Country": "Italy",
+    "Dish Name": "Gelato",
+    "Origin City": "Florence",
+    "Origin City Latitude": "43.7696",
+    "Origin City Longitude": "11.2558",
+    "Description": "Italian ice cream, which was popularized by Bernardo Buontalenti in Florence during the Renaissance. Gelato has a lower fat content and is served at a warmer temperature than regular ice cream, giving it a denser, more intense flavor."
+  },
+  {
+    "Country": "Italy",
+    "Dish Name": "Tiramisu",
+    "Origin City": "Veneto",
+    "Origin City Latitude": "45.4408",
+    "Origin City Longitude": "12.3155",
+    "Description": "Meaning 'pick me up,' this famous coffee-flavored dessert was invented in the 1960s. It consists of ladyfinger biscuits dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, and dusted with cocoa."
+  },
+  {
+    "Country": "USA",
+    "Dish Name": "Burger",
+    "Origin City": "New Haven, CT",
+    "Origin City Latitude": "41.3083",
+    "Origin City Longitude": "-72.9279",
+    "Description": "While its exact origin is debated, the modern American hamburger is a global icon of fast food. It's a simple concept of a ground meat patty served in a sliced bun, allowing for endless variations and toppings."
+  },
+  {
+    "Country": "USA",
+    "Dish Name": "Hot Dog",
+    "Origin City": "New York City, NY",
+    "Origin City Latitude": "40.7128",
+    "Origin City Longitude": "-74.006",
+    "Description": "Popularized by German immigrants in New York in the 19th century, the hot dog is a cooked sausage served in a sliced bun. It's a staple at American sporting events and backyard cookouts."
+  },
+  {
+    "Country": "USA",
+    "Dish Name": "Fried Chicken",
+    "Origin City": "Southern USA",
+    "Origin City Latitude": "33.749",
+    "Origin City Longitude": "-84.388",
+    "Description": "While frying chicken has ancient roots, the Southern American style, seasoned with a unique blend of spices and known for its crispy coating, was developed by both Scottish immigrants and enslaved African-Americans in the colonial era."
+  },
+  {
+    "Country": "USA",
+    "Dish Name": "BBQ Ribs",
+    "Origin City": "Memphis, TN",
+    "Origin City Latitude": "35.1495",
+    "Origin City Longitude": "-90.049",
+    "Description": "Barbecue is a serious tradition in the American South. Memphis-style ribs are famous for being slow-cooked until tender and can be served 'wet' with a tangy tomato-based sauce or 'dry' with just a flavorful spice rub."
+  },
+  {
+    "Country": "USA",
+    "Dish Name": "Mac and Cheese",
+    "Origin City": "Philadelphia, PA",
+    "Origin City Latitude": "39.9526",
+    "Origin City Longitude": "-75.1652",
+    "Description": "Though an old European dish, its popularity in the US can be traced to Thomas Jefferson, who served it at a state dinner. It's a classic comfort food made with macaroni pasta and a rich cheese sauce."
+  },
+  {
+    "Country": "USA",
+    "Dish Name": "Apple Pie",
+    "Origin City": "New England",
+    "Origin City Latitude": "42.4072",
+    "Origin City Longitude": "-71.3824",
+    "Description": "Despite the saying 'as American as apple pie,' the dish originated in Europe. However, it became a symbol of American prosperity and pride, with a flaky pastry crust and a filling of sliced, spiced apples."
+  },
+  {
+    "Country": "Mexico",
+    "Dish Name": "Tacos",
+    "Origin City": "Mexico City",
+    "Origin City Latitude": "19.4326",
+    "Origin City Longitude": "-99.1332",
+    "Description": "Dating back to Mexican silver miners who needed a simple, portable meal, tacos are the heart of Mexican street food. A small corn tortilla is folded around a filling, which can range from grilled meat to fish or vegetables."
+  },
+  {
+    "Country": "Mexico",
+    "Dish Name": "Burrito",
+    "Origin City": "Chihuahua",
+    "Origin City Latitude": "28.6329",
+    "Origin City Longitude": "-106.0691",
+    "Description": "A popular dish from Northern Mexico, the name means 'little donkey.' It consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients, most commonly a savory filling of meat, beans, and rice."
+  },
+  {
+    "Country": "Mexico",
+    "Dish Name": "Quesadilla",
+    "Origin City": "Central Mexico",
+    "Origin City Latitude": "19.4326",
+    "Origin City Longitude": "-99.1332",
+    "Description": "A simple yet satisfying dish, its name means 'little cheesy thing.' A corn or flour tortilla is filled with cheese, folded in half, and cooked on a griddle until the cheese is melted and the tortilla is crispy."
+  },
+  {
+    "Country": "Mexico",
+    "Dish Name": "Guacamole",
+    "Origin City": "Michoacán",
+    "Origin City Latitude": "19.7028",
+    "Origin City Longitude": "-101.1923",
+    "Description": "This iconic dip has Aztec origins. It's made from mashed ripe avocados and typically mixed with chopped onion, tomatoes, cilantro, lime juice, and chili peppers."
+  },
+  {
+    "Country": "Mexico",
+    "Dish Name": "Churros",
+    "Origin City": "Mexico City",
+    "Origin City Latitude": "19.4326",
+    "Origin City Longitude": "-99.1332",
+    "Description": "Though originating in Spain and Portugal, churros are an immensely popular treat in Mexico. The fried dough pastry is often coated in cinnamon sugar and served with dipping sauces like chocolate or dulce de leche."
+  },
+  {
+    "Country": "Mexico",
+    "Dish Name": "Enchiladas",
+    "Origin City": "Oaxaca",
+    "Origin City Latitude": "17.0732",
+    "Origin City Longitude": "-96.7266",
+    "Description": "A traditional dish with Mayan roots, enchiladas are corn tortillas that are rolled around a filling and covered with a savory chili pepper sauce (salsa). Toppings often include cheese, sour cream, and onions."
+  },
+  {
+    "Country": "China",
+    "Dish Name": "Kung Pao Chicken",
+    "Origin City": "Sichuan",
+    "Origin City Latitude": "30.6572",
+    "Origin City Longitude": "104.0658",
+    "Description": "A classic spicy, stir-fried dish from Sichuan province. It features diced chicken, peanuts, vegetables, and chili peppers, all tossed in a sauce that balances salty, sweet, and Sichuan peppercorn's unique numbing spiciness."
+  },
+  {
+    "Country": "China",
+    "Dish Name": "Peking Duck",
+    "Origin City": "Beijing",
+    "Origin City Latitude": "39.9042",
+    "Origin City Longitude": "116.4074",
+    "Description": "A famous dish from Beijing that was once reserved for emperors. It's prized for its thin, crispy skin, which is achieved through a meticulous preparation process before roasting. It's typically served with pancakes and hoisin sauce."
+  },
+  {
+    "Country": "China",
+    "Dish Name": "Dim Sum",
+    "Origin City": "Guangzhou",
+    "Origin City Latitude": "23.1291",
+    "Origin City Longitude": "113.2644",
+    "Description": "A Cantonese style of brunch involving small, bite-sized portions of food served in steamer baskets or on small plates. It's a social occasion meant for sharing a wide variety of dumplings, buns, and rolls."
+  },
+  {
+    "Country": "China",
+    "Dish Name": "Sweet and Sour Pork",
+    "Origin City": "Guangdong",
+    "Origin City Latitude": "23.1291",
+    "Origin City Longitude": "113.2644",
+    "Description": "A classic Cantonese dish that has become a staple in Chinese restaurants worldwide. It consists of deep-fried pork pieces tossed in a bright sauce made from sugar, ketchup, white vinegar, and soy sauce."
+  },
+  {
+    "Country": "China",
+    "Dish Name": "Fried Rice",
+    "Origin City": "Yangzhou",
+    "Origin City Latitude": "32.3944",
+    "Origin City Longitude": "119.4217",
+    "Description": "An ancient dish born from the need to use leftover rice. Yangzhou fried rice is one of the most famous varieties, featuring a mix of ingredients like shrimp, scrambled egg, and diced meats all stir-fried together."
+  },
+  {
+    "Country": "China",
+    "Dish Name": "Spring Rolls",
+    "Origin City": "Fujian",
+    "Origin City Latitude": "26.0745",
+    "Origin City Longitude": "119.2965",
+    "Description": "A traditional appetizer for the Chinese New Year, symbolizing wealth and prosperity. These are savory rolls filled with shredded vegetables and sometimes meat, wrapped in a thin pastry and fried until golden and crispy."
+  },
+  {
+    "Country": "Japan",
+    "Dish Name": "Sushi",
+    "Origin City": "Tokyo (Edo)",
+    "Origin City Latitude": "35.6895",
+    "Origin City Longitude": "139.6917",
+    "Description": "Originating as a way to preserve fish in fermented rice, sushi evolved in Edo-period Japan into a culinary art. It refers to dishes made with vinegared rice, often paired with raw seafood and other ingredients."
+  },
+  {
+    "Country": "Japan",
+    "Dish Name": "Ramen",
+    "Origin City": "Yokohama",
+    "Origin City Latitude": "35.4437",
+    "Origin City Longitude": "139.638",
+    "Description": "A noodle soup dish adapted from Chinese cuisine that has become a Japanese obsession. It consists of Chinese-style wheat noodles served in a rich broth, often flavored with soy sauce or miso, and topped with various ingredients."
+  },
+  {
+    "Country": "Japan",
+    "Dish Name": "Tempura",
+    "Origin City": "Nagasaki",
+    "Origin City Latitude": "32.7503",
+    "Origin City Longitude": "129.8779",
+    "Description": "A dish of lightly battered and deep-fried seafood and vegetables, introduced to Japan by Portuguese missionaries in the 16th century. The batter is kept light and cold to create a distinctively crispy texture."
+  },
+  {
+    "Country": "Japan",
+    "Dish Name": "Udon",
+    "Origin City": "Kagawa",
+    "Origin City Latitude": "34.3402",
+    "Origin City Longitude": "134.0434",
+    "Description": "A type of thick, chewy noodle made from wheat flour. Udon can be served in many ways, from hot in a savory broth to chilled with a dipping sauce, making it a versatile and comforting meal."
+  },
+  {
+    "Country": "Japan",
+    "Dish Name": "Miso Soup",
+    "Origin City": "Kamakura",
+    "Origin City Latitude": "35.3197",
+    "Origin City Longitude": "139.5491",
+    "Description": "An essential part of a traditional Japanese meal, this soup is made from a stock called 'dashi' into which softened miso paste is mixed. Tofu, seaweed, and other seasonal ingredients are often added."
+  },
+  {
+    "Country": "Japan",
+    "Dish Name": "Okonomiyaki",
+    "Origin City": "Osaka",
+    "Origin City Latitude": "34.6937",
+    "Origin City Longitude": "135.5023",
+    "Description": "A savory Japanese pancake, its name means 'grilled as you like it.' It's made from a wheat-flour batter mixed with cabbage and other ingredients, cooked on a griddle, and topped with a special sauce, mayonnaise, and bonito flakes."
+  },
+  {
+    "Country": "France",
+    "Dish Name": "Croissant",
+    "Origin City": "Paris",
+    "Origin City Latitude": "48.8566",
+    "Origin City Longitude": "2.3522",
+    "Description": "Though it has roots in Vienna, Austria (the kipferl), this buttery, flaky pastry was perfected in Paris. It's a viennoiserie pastry made from a layered yeast-leavened dough, creating its signature crescent shape."
+  },
+  {
+    "Country": "France",
+    "Dish Name": "Baguette",
+    "Origin City": "Paris",
+    "Origin City Latitude": "48.8566",
+    "Origin City Longitude": "2.3522",
+    "Description": "A long, thin loaf of French bread that is an icon of French culture. Its crispy crust and soft, chewy interior are the result of a simple recipe of flour, water, yeast, and salt, with its quality protected by French law."
+  },
+  {
+    "Country": "France",
+    "Dish Name": "Crêpes",
+    "Origin City": "Brittany",
+    "Origin City Latitude": "48.202",
+    "Origin City Longitude": "-2.9326",
+    "Description": "A very thin pancake originating from the Brittany region. Crêpes can be served sweet (crêpes sucrées) with fillings like chocolate or fruit, or savory (crêpes salées) with fillings like cheese, ham, and eggs."
+  },
+  {
+    "Country": "France",
+    "Dish Name": "Ratatouille",
+    "Origin City": "Nice",
+    "Origin City Latitude": "43.7102",
+    "Origin City Longitude": "7.262",
+    "Description": "A rustic vegetable stew from the Provence region, famously associated with Nice. It's a bright and flavorful dish made with tomatoes, zucchini, eggplant, bell peppers, and onions, all slow-cooked in olive oil."
+  },
+  {
+    "Country": "France",
+    "Dish Name": "Coq au Vin",
+    "Origin City": "Burgundy",
+    "Origin City Latitude": "47.1392",
+    "Origin City Longitude": "4.8436",
+    "Description": "A classic French stew meaning 'rooster in wine.' It involves slow-braising chicken (traditionally a tough old rooster) in red wine, usually Burgundy, with mushrooms, onions, and lardons (bacon)."
+  },
+  {
+    "Country": "France",
+    "Dish Name": "Macarons",
+    "Origin City": "Paris",
+    "Origin City Latitude": "48.8566",
+    "Origin City Longitude": "2.3522",
+    "Description": "A sweet meringue-based confection made with egg white, icing sugar, granulated sugar, and almond powder. The Parisian-style macaron consists of two cookies filled with ganache or buttercream, popularized by the bakery Ladurée."
+  },
+  {
+    "Country": "Spain",
+    "Dish Name": "Paella",
+    "Origin City": "Valencia",
+    "Origin City Latitude": "39.4699",
+    "Origin City Longitude": "-0.3763",
+    "Description": "Spain's most famous rice dish, originating as a farmer's lunch in the fields of Valencia. The authentic 'Paella Valenciana' is made with rabbit, chicken, and local beans, cooked in a wide, shallow pan."
+  },
+  {
+    "Country": "Spain",
+    "Dish Name": "Churros",
+    "Origin City": "Madrid",
+    "Origin City Latitude": "40.4168",
+    "Origin City Longitude": "-3.7038",
+    "Description": "A popular breakfast or snack, especially in Madrid where they are dipped in thick hot chocolate. These are fried-dough pastries, typically extruded into long, ridged sticks and sprinkled with sugar."
+  },
+  {
+    "Country": "Spain",
+    "Dish Name": "Tortilla Española",
+    "Origin City": "Extremadura",
+    "Origin City Latitude": "39.1671",
+    "Origin City Longitude": "-6.3725",
+    "Description": "A staple of Spanish cuisine, this is a thick omelet made with slow-cooked potatoes and eggs, often including onions. It's served as a tapa, a light meal, or a sandwich filling."
+  },
+  {
+    "Country": "Spain",
+    "Dish Name": "Gazpacho",
+    "Origin City": "Andalusia",
+    "Origin City Latitude": "37.3891",
+    "Origin City Longitude": "-5.9845",
+    "Description": "A refreshing cold soup from the southern region of Andalusia, perfect for hot summers. It's made from a purée of raw, blended vegetables, primarily tomato, peppers, cucumber, garlic, and onion."
+  },
+  {
+    "Country": "Spain",
+    "Dish Name": "Patatas Bravas",
+    "Origin City": "Madrid",
+    "Origin City Latitude": "40.4168",
+    "Origin City Longitude": "-3.7038",
+    "Description": "A classic Spanish tapa dish. It consists of white potatoes that have been cut into chunks, fried in oil, and served warm with a spicy tomato-based sauce (salsa brava)."
+  },
+  {
+    "Country": "Spain",
+    "Dish Name": "Croquetas",
+    "Origin City": "Madrid",
+    "Origin City Latitude": "40.4168",
+    "Origin City Longitude": "-3.7038",
+    "Description": "A staple in every tapas bar in Spain, croquetas are small, lightly breaded and fried rolls with a creamy béchamel sauce filling. While originating in France, Spain perfected them into a national treasure. The most classic filling is diced jamón (cured ham), but you can find them made with chicken, cod, or mushrooms. They are the ultimate comfort food—crispy on the outside and rich and gooey on the inside."
+  },
+  {
+    "Country": "Thailand",
+    "Dish Name": "Pad Thai",
+    "Origin City": "Bangkok",
+    "Origin City Latitude": "13.7563",
+    "Origin City Longitude": "100.5018",
+    "Description": "Thailand's national stir-fried noodle dish. It's a delightful mix of rice noodles, shrimp or tofu, bean sprouts, and eggs, all tossed in a sweet, sour, and salty tamarind-based sauce."
+  },
+  {
+    "Country": "Thailand",
+    "Dish Name": "Green Curry",
+    "Origin City": "Central Thailand",
+    "Origin City Latitude": "15.87",
+    "Origin City Longitude": "100.9925",
+    "Description": "Known as 'Gaeng Keow Wan,' this is a central Thai curry. Its signature green color comes from fresh green chilies, and it's typically sweeter than red curries, with a coconut milk base and Thai basil."
+  },
+  {
+    "Country": "Thailand",
+    "Dish Name": "Tom Yum Soup",
+    "Origin City": "Central Thailand",
+    "Origin City Latitude": "15.87",
+    "Origin City Longitude": "100.9925",
+    "Description": "A famous hot and sour soup, its name literally means 'boiling' and 'mixed.' The fragrant broth is a symphony of lemongrass, galangal, kaffir lime leaves, lime juice, and chili peppers."
+  },
+  {
+    "Country": "Thailand",
+    "Dish Name": "Mango Sticky Rice",
+    "Origin City": "Bangkok",
+    "Origin City Latitude": "13.7563",
+    "Origin City Longitude": "100.5018",
+    "Description": "A classic Thai dessert made from glutinous rice, fresh mango, and coconut milk. The sticky rice is steamed and then soaked in sweetened coconut milk, served alongside slices of ripe mango."
+  },
+  {
+    "Country": "Thailand",
+    "Dish Name": "Satay",
+    "Origin City": "Ayutthaya",
+    "Origin City Latitude": "14.3548",
+    "Origin City Longitude": "100.5693",
+    "Description": "While found across Southeast Asia, Thai satay features smaller skewers of marinated meat (usually pork or chicken). It's grilled and served with a distinctive peanut sauce and a cucumber relish."
+  },
+  {
+    "Country": "Thailand",
+    "Dish Name": "Som Tum",
+    "Origin City": "Isan",
+    "Origin City Latitude": "16.0371",
+    "Origin City Longitude": "103.5434",
+    "Description": "A spicy green papaya salad from the Isan region of northeastern Thailand. It's a flavor explosion, pounding shredded unripe papaya with chilies, garlic, lime juice, and fish sauce in a mortar and pestle."
+  },
+  {
+    "Country": "Greece",
+    "Dish Name": "Moussaka",
+    "Origin City": "Crete",
+    "Origin City Latitude": "35.2401",
+    "Origin City Longitude": "24.8093",
+    "Description": "The iconic Greek baked dish, though its modern version was created in the 1920s. It consists of layers of savory minced lamb, sautéed eggplant or potato, and a rich tomato sauce, all topped with a creamy Béchamel sauce."
+  },
+  {
+    "Country": "Greece",
+    "Dish Name": "Souvlaki",
+    "Origin City": "Athens",
+    "Origin City Latitude": "37.9838",
+    "Origin City Longitude": "23.7275",
+    "Description": "A popular Greek fast food consisting of small pieces of meat, and sometimes vegetables, grilled on a skewer. It can be eaten directly off the skewer or served in a pita wrap with toppings and tzatziki sauce."
+  },
+  {
+    "Country": "Greece",
+    "Dish Name": "Greek Salad",
+    "Origin City": "Plaka, Athens",
+    "Origin City Latitude": "37.9725",
+    "Origin City Longitude": "23.7292",
+    "Description": "Known in Greece as 'Horiatiki' (village salad), the authentic version consists of tomatoes, cucumbers, onions, feta cheese, and olives, typically seasoned with salt and oregano and dressed with olive oil."
+  },
+  {
+    "Country": "Greece",
+    "Dish Name": "Tzatziki",
+    "Origin City": "Thessaly",
+    "Origin City Latitude": "39.5559",
+    "Origin City Longitude": "21.9333",
+    "Description": "A creamy and refreshing dip or sauce made from salted strained yogurt mixed with cucumbers, garlic, olive oil, salt, and usually a touch of vinegar or lemon juice. It's an essential part of Greek meze."
+  },
+  {
+    "Country": "Greece",
+    "Dish Name": "Baklava",
+    "Origin City": "Macedonia (Greek)",
+    "Origin City Latitude": "40.8236",
+    "Origin City Longitude": "22.4277",
+    "Description": "While part of a shared Ottoman heritage, Greek baklava is distinct. It's typically made with a honey-based syrup scented with cinnamon and cloves, and the filling is often rich with walnuts."
+  },
+  {
+    "Country": "Greece",
+    "Dish Name": "Gyro",
+    "Origin City": "Thessaloniki",
+    "Origin City Latitude": "40.6401",
+    "Origin City Longitude": "22.9444",
+    "Description": "Similar to the Turkish Döner kebab, a gyro is meat (usually pork or chicken in Greece) cooked on a vertical rotisserie. The meat is sliced off and served wrapped in a pita with tomato, onion, and tzatziki sauce."
+  },
+  {
+    "Country": "Brazil",
+    "Dish Name": "Feijoada",
+    "Origin City": "Rio de Janeiro",
+    "Origin City Latitude": "-22.9068",
+    "Origin City Longitude": "-43.1729",
+    "Description": "Considered Brazil's national dish, Feijoada is a rich stew of black beans with a variety of salted and smoked pork and beef products. It's a hearty, celebratory meal often served with rice and collard greens."
+  },
+  {
+    "Country": "Brazil",
+    "Dish Name": "Pão de Queijo",
+    "Origin City": "Minas Gerais",
+    "Origin City Latitude": "-18.5122",
+    "Origin City Longitude": "-44.555",
+    "Description": "These 'cheese breads' are a popular snack and breakfast food from the state of Minas Gerais. They are small, baked cheese rolls made from tapioca flour, making them naturally gluten-free with a chewy texture."
+  },
+  {
+    "Country": "Brazil",
+    "Dish Name": "Coxinha",
+    "Origin City": "São Paulo",
+    "Origin City Latitude": "-23.5505",
+    "Origin City Longitude": "-46.6333",
+    "Description": "A popular Brazilian street food, this is a savory dough, shaped into a chicken leg, which is battered and fried. It's filled with shredded, seasoned chicken meat and sometimes creamy catupiry cheese."
+  },
+  {
+    "Country": "Brazil",
+    "Dish Name": "Brigadeiro",
+    "Origin City": "Rio de Janeiro",
+    "Origin City Latitude": "-22.9068",
+    "Origin City Longitude": "-43.1729",
+    "Description": "Brazil's favorite homemade treat, created in the 1940s. These are simple chocolate truffles made by simmering condensed milk, cocoa powder, and butter, then rolled into balls and covered in chocolate sprinkles."
+  },
+  {
+    "Country": "Brazil",
+    "Dish Name": "Moqueca",
+    "Origin City": "Bahia",
+    "Origin City Latitude": "-12.9777",
+    "Origin City Longitude": "-38.5016",
+    "Description": "A vibrant and fragrant fish stew from the Bahia region. Its distinctive flavor comes from slowly cooking fish or seafood in a coconut milk and palm oil (dendê) base with tomatoes, onions, and peppers."
+  },
+  {
+    "Country": "Brazil",
+    "Dish Name": "Churrasco",
+    "Origin City": "Rio Grande do Sul",
+    "Origin City Latitude": "-30.0346",
+    "Origin City Longitude": "-51.2177",
+    "Description": "The Brazilian style of barbecue, originating with the gaúchos (cowboys) of Southern Brazil. It involves grilling various cuts of meat on long skewers over hot coals, often seasoned with just coarse salt to let the meat's flavor shine."
+  },
+  {
+    "Country": "Turkey",
+    "Dish Name": "Kebabs",
+    "Origin City": "Adana",
+    "Origin City Latitude": "37",
+    "Origin City Longitude": "35.3213",
+    "Description": "While 'kebab' just means cooked meat, Turkish kebabs are world-famous. The Adana kebab is a long, hand-minced meat kebab mounted on a wide skewer and grilled, known for its spicy flavor from red peppers."
+  },
+  {
+    "Country": "Turkey",
+    "Dish Name": "Baklava",
+    "Origin City": "Gaziantep",
+    "Origin City Latitude": "37.0662",
+    "Origin City Longitude": "37.3833",
+    "Description": "Gaziantep is considered the home of the world's best baklava. This sweet pastry is made of layers of filo filled with chopped pistachios (for which the region is famous) and sweetened with a light sugar syrup."
+  },
+  {
+    "Country": "Turkey",
+    "Dish Name": "Meze",
+    "Origin City": "Istanbul",
+    "Origin City Latitude": "41.0082",
+    "Origin City Longitude": "28.9784",
+    "Description": "Meze is a style of dining, similar to Spanish tapas, involving a selection of small dishes served as an appetizer. Common Turkish meze include dips like hummus, stuffed vine leaves, and salads."
+  },
+  {
+    "Country": "Turkey",
+    "Dish Name": "Lahmacun",
+    "Origin City": "?anl?urfa",
+    "Origin City Latitude": "37.1583",
+    "Origin City Longitude": "38.7917",
+    "Description": "Often called 'Turkish pizza,' Lahmacun is a thin, crispy piece of round dough topped with minced meat (most commonly beef or lamb), minced vegetables, and herbs, then baked."
+  },
+  {
+    "Country": "Turkey",
+    "Dish Name": "Turkish Delight",
+    "Origin City": "Istanbul",
+    "Origin City Latitude": "41.0082",
+    "Origin City Longitude": "28.9784",
+    "Description": "Known as 'Lokum,' this is a family of confections based on a gel of starch and sugar. Premium varieties consist of chopped dates, pistachios, or hazelnuts bound by the gel, often flavored with rosewater or lemon."
+  },
+  {
+    "Country": "Turkey",
+    "Dish Name": "Pide",
+    "Origin City": "Black Sea Region",
+    "Origin City Latitude": "40.9767",
+    "Origin City Longitude": "39.7167",
+    "Description": "A boat-shaped Turkish flatbread that is baked in a stone oven. The dough is topped with a variety of ingredients, with the most popular being 'sucuklu' (with spicy sausage) and 'k?ymal?' (with minced meat)."
+  },
+  {
+    "Country": "Germany",
+    "Dish Name": "Schnitzel",
+    "Origin City": "Vienna, Austria",
+    "Origin City Latitude": "48.2082",
+    "Origin City Longitude": "16.3738",
+    "Description": "While Wiener Schnitzel is Austrian, the concept of a breaded meat cutlet is a staple in Germany. A German Schnitzel is typically made with pork, pounded thin, breaded, and fried until golden."
+  },
+  {
+    "Country": "Germany",
+    "Dish Name": "Pretzel",
+    "Origin City": "Bavaria",
+    "Origin City Latitude": "48.1351",
+    "Origin City Longitude": "11.582",
+    "Description": "A baked pastry made from dough that is commonly shaped into a knot. The traditional German pretzel has a distinctive chewy texture and is often sprinkled with coarse salt."
+  },
+  {
+    "Country": "Germany",
+    "Dish Name": "Bratwurst",
+    "Origin City": "Nuremberg",
+    "Origin City Latitude": "49.4521",
+    "Origin City Longitude": "11.0767",
+    "Description": "A type of German sausage made from veal, beef, or most commonly pork. The small, thin Nürnberger Rostbratwurst, seasoned with marjoram, is a famous regional variety."
+  },
+  {
+    "Country": "Germany",
+    "Dish Name": "Sauerkraut",
+    "Origin City": "Baden-Württemberg",
+    "Origin City Latitude": "48.7758",
+    "Origin City Longitude": "9.1829",
+    "Description": "Meaning 'sour cabbage,' this is finely cut raw cabbage that has been fermented by lactic acid bacteria. It's a traditional side dish, often served with pork dishes and sausages."
+  },
+  {
+    "Country": "Germany",
+    "Dish Name": "Black Forest Cake",
+    "Origin City": "Baden-Württemberg",
+    "Origin City Latitude": "48.7758",
+    "Origin City Longitude": "9.1829",
+    "Description": "A famous German dessert, its name is 'Schwarzwälder Kirschtorte.' It consists of several layers of chocolate sponge cake with whipped cream and cherries, decorated with more cream, maraschino cherries, and chocolate shavings."
+  },
+  {
+    "Country": "Germany",
+    "Dish Name": "Kartoffelsalat",
+    "Origin City": "Swabia",
+    "Origin City Latitude": "48.5262",
+    "Origin City Longitude": "9.9489",
+    "Description": "German potato salad. Unlike the mayonnaise-based American version, the Southern German style (Schwäbischer Kartoffelsalat) is typically served warm and dressed with a vinaigrette made of vinegar, oil, and beef broth."
+  },
+  {
+    "Country": "UK",
+    "Dish Name": "Fish and Chips",
+    "Origin City": "London",
+    "Origin City Latitude": "51.5074",
+    "Origin City Longitude": "-0.1278",
+    "Description": "A quintessential British takeaway meal that emerged in the 1860s. It consists of battered and deep-fried fish (traditionally cod or haddock) served with hot, thick-cut fries (chips)."
+  },
+  {
+    "Country": "UK",
+    "Dish Name": "Sunday Roast",
+    "Origin City": "Yorkshire",
+    "Origin City Latitude": "53.959",
+    "Origin City Longitude": "-1.0815",
+    "Description": "A traditional British main meal that is served on Sundays. It consists of roasted meat, roast potatoes, and accompaniments such as Yorkshire pudding, stuffing, vegetables, and gravy."
+  },
+  {
+    "Country": "UK",
+    "Dish Name": "Full English Breakfast",
+    "Origin City": "London",
+    "Origin City Latitude": "51.5074",
+    "Origin City Longitude": "-0.1278",
+    "Description": "A hearty, traditional breakfast, often called a 'fry-up.' It typically includes bacon, sausages, eggs, black pudding, baked beans, tomatoes, mushrooms, and fried bread or toast."
+  },
+  {
+    "Country": "UK",
+    "Dish Name": "Chicken Tikka Masala",
+    "Origin City": "Glasgow, Scotland",
+    "Origin City Latitude": "55.8642",
+    "Origin City Longitude": "-4.2518",
+    "Description": "Often called \"Britain's true national dish,\" Chicken Tikka Masala is a fantastic example of the country's multicultural cuisine. Legend says it was invented in Glasgow in the 1970s when a chef improvised a sauce using tomato soup and spices for a customer who found his chicken tikka too dry. It consists of roasted chunks of marinated chicken in a creamy, spiced curry sauce."
+  },
+  {
+    "Country": "UK",
+    "Dish Name": "Scones",
+    "Origin City": "Devon",
+    "Origin City Latitude": "50.7153",
+    "Origin City Longitude": "-3.5293",
+    "Description": "A single-serving baked good, usually made of wheat or oatmeal. It's a key component of a cream tea, famously served with clotted cream and jam. The Devon vs. Cornwall debate is about which is applied first!"
+  },
+  {
+    "Country": "UK",
+    "Dish Name": "Yorkshire Pudding",
+    "Origin City": "Yorkshire",
+    "Origin City Latitude": "53.959",
+    "Origin City Longitude": "-1.0815",
+    "Description": "A common British side dish, this is a baked pudding made from a batter of eggs, flour, and milk or water. It's an essential part of a Sunday Roast, often served with beef and gravy."
+  },
+  {
+    "Country": "Russia",
+    "Dish Name": "Borscht",
+    "Origin City": "Kyiv, Ukraine",
+    "Origin City Latitude": "50.4501",
+    "Origin City Longitude": "30.5234",
+    "Description": "While strongly associated with Russia, this sour soup is of Ukrainian origin and popular across Eastern Europe. The most famous variety is made with beetroot as the main ingredient, giving it a deep red color."
+  },
+  {
+    "Country": "Russia",
+    "Dish Name": "Pelmeni",
+    "Origin City": "Siberia",
+    "Origin City Latitude": "55.0301",
+    "Origin City Longitude": "82.9204",
+    "Description": "Heart-shaped dumplings from Siberia, traditionally filled with minced meat. They are a beloved comfort food, often served boiled and topped with sour cream or butter."
+  },
+  {
+    "Country": "Russia",
+    "Dish Name": "Blini",
+    "Origin City": "Moscow",
+    "Origin City Latitude": "55.7558",
+    "Origin City Longitude": "37.6173",
+    "Description": "Russian-style pancakes or crepes, with a history dating back to pre-Christian times. They can be served simply with butter, or elaborately with sour cream, jam, or savory toppings like caviar."
+  },
+  {
+    "Country": "Russia",
+    "Dish Name": "Shashlik",
+    "Origin City": "Caucasus Mountains",
+    "Origin City Latitude": "43.3552",
+    "Origin City Longitude": "42.4395",
+    "Description": "A form of shish kebab popular in Russia and former Soviet countries, with roots in the Caucasus region. It consists of cubes of marinated meat grilled on skewers over a charcoal fire."
+  },
+  {
+    "Country": "Russia",
+    "Dish Name": "Pirozhki",
+    "Origin City": "Moscow",
+    "Origin City Latitude": "55.7558",
+    "Origin City Longitude": "37.6173",
+    "Description": "Small baked or fried buns stuffed with a variety of fillings, from meat and potatoes to cabbage or fruit. They are a common homemade snack and street food."
+  },
+  {
+    "Country": "Russia",
+    "Dish Name": "Syrniki",
+    "Origin City": "Moscow",
+    "Origin City Latitude": "55.7558",
+    "Origin City Longitude": "37.6173",
+    "Description": "A beloved comfort food for breakfast or dessert across Russia, Syrniki are small, sweet pancakes made from quark (a fresh, creamy cheese). The name comes from the old Slavic word for cheese, \"syr.\" They are pan-fried until golden and have a texture that is wonderfully soft on the inside and slightly crisp on the outside. They are almost always served with sour cream (smetana), jam, or honey."
+  },
+  {
+    "Country": "Korea",
+    "Dish Name": "Kimchi",
+    "Origin City": "Seoul",
+    "Origin City Latitude": "37.5665",
+    "Origin City Longitude": "126.978",
+    "Description": "The national dish of Korea, kimchi is a traditional side of salted and fermented vegetables, most famously napa cabbage and Korean radishes, seasoned with spices like gochugaru (chili powder)."
+  },
+  {
+    "Country": "Korea",
+    "Dish Name": "Bibimbap",
+    "Origin City": "Jeonju",
+    "Origin City Latitude": "35.8242",
+    "Origin City Longitude": "127.1489",
+    "Description": "Meaning 'mixed rice,' this is a vibrant and healthy Korean dish. It's a bowl of warm rice topped with an array of seasoned vegetables, chili paste, a fried egg, and sliced meat, meant to be mixed together before eating."
+  },
+  {
+    "Country": "Korea",
+    "Dish Name": "Bulgogi",
+    "Origin City": "Pyongyang, North Korea",
+    "Origin City Latitude": "39.0392",
+    "Origin City Longitude": "125.7625",
+    "Description": "Meaning 'fire meat,' bulgogi is made of thin, marinated slices of beef or pork grilled on a barbecue. The marinade is typically a sweet and savory mixture of soy sauce, sugar, and pear juice."
+  },
+  {
+    "Country": "Korea",
+    "Dish Name": "Tteokbokki",
+    "Origin City": "Seoul",
+    "Origin City Latitude": "37.5665",
+    "Origin City Longitude": "126.978",
+    "Description": "A popular Korean street food made from small, cylindrical rice cakes (tteok). They are stir-fried in a fiery gochujang (chili paste) sauce, often with fish cakes and scallions."
+  },
+  {
+    "Country": "Korea",
+    "Dish Name": "Japchae",
+    "Origin City": "Seoul",
+    "Origin City Latitude": "37.5665",
+    "Origin City Longitude": "126.978",
+    "Description": "A savory and slightly sweet dish of stir-fried glass noodles and vegetables that is popular at Korean celebrations. The noodles are made from sweet potato starch, giving them a distinctively chewy texture."
+  },
+  {
+    "Country": "Korea",
+    "Dish Name": "Samgyeopsal",
+    "Origin City": "Kaesong, North Korea",
+    "Origin City Latitude": "37.9705",
+    "Origin City Longitude": "126.5539",
+    "Description": "A popular Korean BBQ dish, its name means 'three-layer flesh,' referring to the layers of fat and meat in pork belly. Slices of pork belly are grilled at the diner's table and eaten with various dipping sauces and sides."
+  },
+  {
+    "Country": "Vietnam",
+    "Dish Name": "Pho",
+    "Origin City": "Nam Dinh",
+    "Origin City Latitude": "20.4344",
+    "Origin City Longitude": "106.1681",
+    "Description": "Vietnam's national dish, this is a noodle soup consisting of a rich, aromatic broth, rice noodles, herbs, and meat (usually beef or chicken). Its complex flavor comes from simmering bones and spices for hours."
+  },
+  {
+    "Country": "Vietnam",
+    "Dish Name": "Banh Mi",
+    "Origin City": "Saigon (Ho Chi Minh City)",
+    "Origin City Latitude": "10.8231",
+    "Origin City Longitude": "106.6297",
+    "Description": "A delicious legacy of French colonialism, the Banh Mi is a Vietnamese sandwich. It's served in a crispy baguette and filled with a fusion of flavors: savory meats, pickled vegetables, cilantro, and chili."
+  },
+  {
+    "Country": "Vietnam",
+    "Dish Name": "Spring Rolls",
+    "Origin City": "Saigon (Ho Chi Minh City)",
+    "Origin City Latitude": "10.8231",
+    "Origin City Longitude": "106.6297",
+    "Description": "In Southern Vietnam, these are typically the fresh 'G?i cu?n' or summer rolls. Rice paper is wrapped around pork, shrimp, herbs, and vermicelli noodles, and served chilled with a peanut dipping sauce."
+  },
+  {
+    "Country": "Vietnam",
+    "Dish Name": "Bun Cha",
+    "Origin City": "Hanoi",
+    "Origin City Latitude": "21.0285",
+    "Origin City Longitude": "105.8542",
+    "Description": "A specialty of the Vietnamese capital, this dish features grilled fatty pork patties and slices served in a bowl of tangy dipping sauce with a side of rice vermicelli noodles and fresh herbs."
+  },
+  {
+    "Country": "Vietnam",
+    "Dish Name": "Egg Coffee",
+    "Origin City": "Hanoi",
+    "Origin City Latitude": "21.0285",
+    "Origin City Longitude": "105.8542",
+    "Description": "Invented in the 1940s due to a milk shortage, this is a Hanoi specialty. Vietnamese robusta coffee is topped with a thick, creamy, meringue-like froth made from egg yolks whipped with sugar and condensed milk."
+  },
+  {
+    "Country": "Vietnam",
+    "Dish Name": "Com Tam",
+    "Origin City": "Saigon (Ho Chi Minh City)",
+    "Origin City Latitude": "10.8231",
+    "Origin City Longitude": "106.6297",
+    "Description": "Meaning 'broken rice,' this was traditionally a cheaper grade of rice eaten by farmers. It's a popular dish from Southern Vietnam, served with various toppings like grilled pork chops, shredded pork skin, and a steamed egg meatloaf."
+  },
+  {
+    "Country": "Indonesia",
+    "Dish Name": "Nasi Goreng",
+    "Origin City": "Jakarta",
+    "Origin City Latitude": "-6.2088",
+    "Origin City Longitude": "106.8456",
+    "Description": "Indonesia's national dish, meaning 'fried rice.' It's a flavorful and smoky version of fried rice, distinguished by its use of sweet soy sauce (kecap manis), shrimp paste, and various garnishes like a fried egg and pickled vegetables."
+  },
+  {
+    "Country": "Indonesia",
+    "Dish Name": "Satay",
+    "Origin City": "Java",
+    "Origin City Latitude": "-7.2575",
+    "Origin City Longitude": "112.7521",
+    "Description": "While satay is found everywhere, it's believed to have originated on the island of Java. Skewered and grilled meats are served with a spicy peanut sauce, and each region has its own unique variation."
+  },
+  {
+    "Country": "Indonesia",
+    "Dish Name": "Rendang",
+    "Origin City": "West Sumatra",
+    "Origin City Latitude": "-0.9384",
+    "Origin City Longitude": "100.3644",
+    "Description": "Originating from the Minangkabau people, Rendang is a rich and aromatic slow-cooked meat dish. Beef is braised for hours in coconut milk and a complex spice paste until the liquid evaporates and the meat is tender."
+  },
+  {
+    "Country": "Indonesia",
+    "Dish Name": "Gado-Gado",
+    "Origin City": "Jakarta",
+    "Origin City Latitude": "-6.2088",
+    "Origin City Longitude": "106.8456",
+    "Description": "Meaning 'mix-mix,' this is an Indonesian salad of slightly boiled or steamed vegetables, hard-boiled eggs, tofu, and tempeh, all served with a rich and flavorful peanut sauce dressing."
+  },
+  {
+    "Country": "Indonesia",
+    "Dish Name": "Bakso",
+    "Origin City": "Malang, East Java",
+    "Origin City Latitude": "-7.9666",
+    "Origin City Longitude": "112.6326",
+    "Description": "A popular Indonesian meatball soup, famously sold from street carts. The meatballs are made from ground beef and tapioca flour, giving them a firm, bouncy texture, and are served in a hot broth with noodles and vegetables."
+  },
+  {
+    "Country": "Indonesia",
+    "Dish Name": "Soto",
+    "Origin City": "Semarang, Central Java",
+    "Origin City Latitude": "-6.9667",
+    "Origin City Longitude": "110.4381",
+    "Description": "A traditional Indonesian soup composed of broth, meat, and vegetables. There are countless regional variations, with Soto Ayam (chicken soto) being one of the most popular, often served with rice cakes and a hard-boiled egg."
+  },
+  {
+    "Country": "Egypt",
+    "Dish Name": "Koshari",
+    "Origin City": "Cairo",
+    "Origin City Latitude": "30.0444",
+    "Origin City Longitude": "31.2357",
+    "Description": "Egypt's national dish and a beloved street food. It's a unique and hearty mix of rice, macaroni, and lentils, topped with a spicy tomato sauce, garlic vinegar, chickpeas, and crispy fried onions."
+  },
+  {
+    "Country": "Egypt",
+    "Dish Name": "Falafel",
+    "Origin City": "Alexandria",
+    "Origin City Latitude": "31.2001",
+    "Origin City Longitude": "29.9187",
+    "Description": "In Egypt, falafel is known as 'Ta'ameya' and is distinctly made from fava beans rather than chickpeas. This gives it a lighter, fluffier texture and a green interior. It's a staple breakfast food."
+  },
+  {
+    "Country": "Egypt",
+    "Dish Name": "Shawarma",
+    "Origin City": "Cairo",
+    "Origin City Latitude": "30.0444",
+    "Origin City Longitude": "31.2357",
+    "Description": "Though Levantine in origin, shawarma is an extremely popular street food in Egypt. Meat is stacked on a vertical spit and slow-roasted, with thin slices shaved off and served in a flatbread."
+  },
+  {
+    "Country": "Egypt",
+    "Dish Name": "Mulukhia",
+    "Origin City": "Cairo",
+    "Origin City Latitude": "30.0444",
+    "Origin City Longitude": "31.2357",
+    "Description": "A traditional dish made from the leaves of the jute plant, which are chopped and cooked into a thick, somewhat slimy green soup or stew. It's an ancient dish often served with rice or bread."
+  },
+  {
+    "Country": "Egypt",
+    "Dish Name": "Fattah",
+    "Origin City": "Cairo",
+    "Origin City Latitude": "30.0444",
+    "Origin City Longitude": "31.2357",
+    "Description": "A celebratory dish, especially for Eid al-Adha. It consists of layers of toasted flatbread, rice, and a tomato or vinegar-based sauce, often topped with pieces of boiled lamb or beef."
+  },
+  {
+    "Country": "Egypt",
+    "Dish Name": "Baklava",
+    "Origin City": "Cairo",
+    "Origin City Latitude": "30.0444",
+    "Origin City Longitude": "31.2357",
+    "Description": "Popular throughout the former Ottoman territories, Egyptian baklava, often called 'gollash,' is typically filled with a simple nut mixture and soaked in a fragrant sugar syrup ('attar')."
+  },
+  {
+    "Country": "South Africa",
+    "Dish Name": "Biltong",
+    "Origin City": "Cape Town",
+    "Origin City Latitude": "-33.9249",
+    "Origin City Longitude": "18.4241",
+    "Description": "A form of dried, cured meat that originated with Dutch settlers in the 17th century. It's typically made from beef or game, and its unique flavor comes from being cured in vinegar, salt, and spices like coriander."
+  },
+  {
+    "Country": "South Africa",
+    "Dish Name": "Braai",
+    "Origin City": "Cape Town",
+    "Origin City Latitude": "-33.9249",
+    "Origin City Longitude": "18.4241",
+    "Description": "A braai is a South African outdoor barbecue tradition and social custom where meat, fish, and vegetables are grilled over an open fire or coals. Beyond a meal, it is a significant cultural experience, embodying a way of life centered around community, fellowship, and the distinctive flavors imparted by cooking with wood. "
+  },
+  {
+    "Country": "South Africa",
+    "Dish Name": "Boerewors",
+    "Origin City": "Free State",
+    "Origin City Latitude": "-28.4542",
+    "Origin City Longitude": "26.7524",
+    "Description": "Meaning 'farmer's sausage,' this is a traditional South African sausage that must contain at least 90% meat. It's typically formed into a continuous coil and cooked on a 'braai' (barbecue)."
+  },
+  {
+    "Country": "South Africa",
+    "Dish Name": "Bobotie",
+    "Origin City": "Cape Town",
+    "Origin City Latitude": "-33.9249",
+    "Origin City Longitude": "18.4241",
+    "Description": "A classic Cape Malay dish, now considered a national dish. It's a delicious mixture of curried minced meat and fruit, baked with a creamy, golden egg-based topping."
+  },
+  {
+    "Country": "South Africa",
+    "Dish Name": "Chakalaka",
+    "Origin City": "Johannesburg",
+    "Origin City Latitude": "-26.2041",
+    "Origin City Longitude": "28.0473",
+    "Description": "A spicy vegetable relish that can be served hot or cold. It's a staple at braais and may have originated among mineworkers in Johannesburg. It typically includes tomatoes, onions, peppers, and beans."
+  },
+  {
+    "Country": "South Africa",
+    "Dish Name": "Milk Tart",
+    "Origin City": "Cape Town",
+    "Origin City Latitude": "-33.9249",
+    "Origin City Longitude": "18.4241",
+    "Description": "Known as 'Melktert,' this is a beloved dessert with Dutch origins. It consists of a sweet pastry crust filled with a creamy custard made from milk, flour, sugar, and eggs, often dusted with cinnamon."
+  },
+  {
+    "Country": "Argentina",
+    "Dish Name": "Asado",
+    "Origin City": "La Pampa",
+    "Origin City Latitude": "-36.6167",
+    "Origin City Longitude": "-64.2833",
+    "Description": "More than just a barbecue, Asado is the heart of Argentine social life. It involves slow-cooking various cuts of beef and sausages over hot coals on a grill called a 'parrilla'."
+  },
+  {
+    "Country": "Argentina",
+    "Dish Name": "Empanadas",
+    "Origin City": "Salta",
+    "Origin City Latitude": "-24.7821",
+    "Origin City Longitude": "-65.4232",
+    "Description": "These stuffed pastries are a staple across the country, with each province having its own signature version. Salta is famous for its small, juicy, and flavorful baked empanadas."
+  },
+  {
+    "Country": "Argentina",
+    "Dish Name": "Milanesa",
+    "Origin City": "Buenos Aires",
+    "Origin City Latitude": "-34.6037",
+    "Origin City Longitude": "-58.3816",
+    "Description": "A thin slice of beef that is breaded and fried. The 'Milanesa a la Napolitana' is a popular variation, topped with ham, tomato sauce, and melted mozzarella cheese."
+  },
+  {
+    "Country": "Argentina",
+    "Dish Name": "Chimichurri",
+    "Origin City": "Buenos Aires",
+    "Origin City Latitude": "-34.6037",
+    "Origin City Longitude": "-58.3816",
+    "Description": "An uncooked, herb-based sauce that is the essential accompaniment to an Asado. It's made of finely chopped parsley, minced garlic, olive oil, oregano, and red wine vinegar."
+  },
+  {
+    "Country": "Argentina",
+    "Dish Name": "Provoleta",
+    "Origin City": "Buenos Aires",
+    "Origin City Latitude": "-34.6037",
+    "Origin City Longitude": "-58.3816",
+    "Description": "A popular appetizer at an Asado, this is Argentina's version of grilled provolone cheese. A thick slice of cheese is cooked on the grill until it's crispy on the outside and melted on the inside, then seasoned with herbs."
+  },
+  {
+    "Country": "Argentina",
+    "Dish Name": "Dulce de Leche",
+    "Origin City": "Cañuelas",
+    "Origin City Latitude": "-35.0531",
+    "Origin City Longitude": "-58.7592",
+    "Description": "A thick, sweet, caramel-like sauce made by slowly heating sweetened milk. It's a national obsession, used as a spread for toast and a filling for countless desserts and pastries."
+  },
+  {
+    "Country": "Australia",
+    "Dish Name": "Meat Pie",
+    "Origin City": "Sydney",
+    "Origin City Latitude": "-33.8688",
+    "Origin City Longitude": "151.2093",
+    "Description": "An iconic Australian food, this hand-sized pie is filled with minced meat and gravy. It's a staple at sporting events and is often enjoyed with a generous dollop of tomato sauce (ketchup)."
+  },
+  {
+    "Country": "Australia",
+    "Dish Name": "Lamingtons",
+    "Origin City": "Brisbane",
+    "Origin City Latitude": "-27.4698",
+    "Origin City Longitude": "153.0251",
+    "Description": "A classic Australian cake, believed to be named after Lord Lamington, a former Governor of Queensland. It's a square of sponge cake coated in a layer of chocolate icing and rolled in desiccated coconut."
+  },
+  {
+    "Country": "Australia",
+    "Dish Name": "Pavlova",
+    "Origin City": "Perth",
+    "Origin City Latitude": "-31.9523",
+    "Origin City Longitude": "115.8613",
+    "Description": "The subject of a long-standing culinary debate with New Zealand, Pavlova is a meringue dessert with a crisp crust and soft, marshmallowy inside, topped with whipped cream and fruit."
+  },
+  {
+    "Country": "Australia",
+    "Dish Name": "Barramundi",
+    "Origin City": "Queensland",
+    "Origin City Latitude": "-20.9176",
+    "Origin City Longitude": "142.7028",
+    "Description": "A species of sea bass native to Australia and the Indo-Pacific. Its firm, white, flaky flesh and mild flavor make it a popular fish, often served grilled or pan-fried with lemon."
+  },
+  {
+    "Country": "Australia",
+    "Dish Name": "Kangaroo Steak",
+    "Origin City": "Alice Springs",
+    "Origin City Latitude": "-23.698",
+    "Origin City Longitude": "133.8807",
+    "Description": "Kangaroo meat is lean, sustainable, and has been a source of protein for Indigenous Australians for thousands of years. It has a rich, gamey flavor and is best cooked rare to medium-rare."
+  },
+  {
+    "Country": "Australia",
+    "Dish Name": "Vegemite Toast",
+    "Origin City": "Melbourne",
+    "Origin City Latitude": "-37.8136",
+    "Origin City Longitude": "144.9631",
+    "Description": "Australia's famous and divisive food spread. It's a thick, dark brown paste made from leftover brewers' yeast extract with various vegetable and spice additives. It's typically spread thinly on buttered toast."
+  },
+  {
+    "Country": "Canada",
+    "Dish Name": "Poutine",
+    "Origin City": "Warwick, Quebec",
+    "Origin City Latitude": "45.95",
+    "Origin City Longitude": "-71.9833",
+    "Description": "Canada's most famous comfort food, originating from rural Quebec. It consists of french fries and fresh cheese curds, all topped with a rich brown gravy. The curds should be 'squeaky' and soften but not fully melt."
+  },
+  {
+    "Country": "Canada",
+    "Dish Name": "Butter Tart",
+    "Origin City": "Kenilworth, Ontario",
+    "Origin City Latitude": "43.8647",
+    "Origin City Longitude": "-80.6489",
+    "Description": "A quintessential Canadian dessert. It's a small pastry tart with a semi-solid filling made from butter, sugar, syrup, and egg. The great Canadian debate is whether they should contain raisins or not."
+  },
+  {
+    "Country": "Canada",
+    "Dish Name": "Nanaimo Bar",
+    "Origin City": "Nanaimo, BC",
+    "Origin City Latitude": "49.1659",
+    "Origin City Longitude": "-123.9401",
+    "Description": "A no-bake dessert bar from British Columbia. It has three layers: a crumbly wafer and coconut base, a layer of sweet custard icing in the middle, and a layer of melted chocolate on top."
+  },
+  {
+    "Country": "Canada",
+    "Dish Name": "Maple Syrup Pancakes",
+    "Origin City": "Quebec",
+    "Origin City Latitude": "46.8139",
+    "Origin City Longitude": "-71.208",
+    "Description": "While pancakes are global, pancakes drenched in real Canadian maple syrup, produced primarily in Quebec, are a national ritual. Maple taffy, made by pouring hot syrup on snow, is another classic treat."
+  },
+  {
+    "Country": "Canada",
+    "Dish Name": "Tourtière",
+    "Origin City": "Quebec",
+    "Origin City Latitude": "46.8139",
+    "Origin City Longitude": "-71.208",
+    "Description": "A traditional French-Canadian meat pie, typically served during Christmas and New Year's celebrations. The filling usually consists of minced pork, veal, or beef, seasoned with savory spices."
+  },
+  {
+    "Country": "Canada",
+    "Dish Name": "BeaverTails",
+    "Origin City": "Ottawa, Ontario",
+    "Origin City Latitude": "45.4215",
+    "Origin City Longitude": "-75.6972",
+    "Description": "A Canadian pastry brand, not an actual beaver's tail! It's a piece of whole-wheat dough that is hand-stretched to resemble a beaver's tail, then fried and topped with a choice of sweet condiments and confections."
+  },
+  {
+    "Country": "Morocco",
+    "Dish Name": "Tagine",
+    "Origin City": "Marrakesh",
+    "Origin City Latitude": "31.6295",
+    "Origin City Longitude": "-7.9811",
+    "Description": "Named for the conical earthenware pot in which it's cooked, a tagine is a slow-simmered, aromatic stew. Popular combinations include chicken with preserved lemons and olives, or lamb with prunes and almonds."
+  },
+  {
+    "Country": "Morocco",
+    "Dish Name": "Couscous",
+    "Origin City": "Fes",
+    "Origin City Latitude": "34.0181",
+    "Origin City Longitude": "-5.0078",
+    "Description": "A staple of North African cuisine, couscous consists of small granules of steamed semolina. It is traditionally served on Fridays with a hearty seven-vegetable stew spooned over the top."
+  },
+  {
+    "Country": "Morocco",
+    "Dish Name": "Harira",
+    "Origin City": "Rabat",
+    "Origin City Latitude": "34.0209",
+    "Origin City Longitude": "-6.8417",
+    "Description": "A traditional Moroccan soup, especially popular during Ramadan to break the fast. It's a rich, tomato-based soup with lentils, chickpeas, and sometimes meat, flavored with a blend of fragrant spices."
+  },
+  {
+    "Country": "Morocco",
+    "Dish Name": "Briouat",
+    "Origin City": "Fes",
+    "Origin City Latitude": "34.0181",
+    "Origin City Longitude": "-5.0078",
+    "Description": "Small, sweet or savory pastries made with thin warqa pastry. Savory briouats can be filled with meat or cheese, while sweet versions are filled with almond paste and soaked in honey."
+  },
+  {
+    "Country": "Morocco",
+    "Dish Name": "Pastilla",
+    "Origin City": "Fes",
+    "Origin City Latitude": "34.0181",
+    "Origin City Longitude": "-5.0078",
+    "Description": "Also known as B'stilla, this is a traditional and elaborate sweet and savory pie. It features flaky layers of warqa pastry filled with shredded pigeon or chicken, almonds, and spices, and dusted with powdered sugar and cinnamon."
+  },
+  {
+    "Country": "Morocco",
+    "Dish Name": "Chebakia",
+    "Origin City": "Fes",
+    "Origin City Latitude": "34.0181",
+    "Origin City Longitude": "-5.0078",
+    "Description": "A Moroccan sesame cookie that is shaped into a flower, fried, and then coated with honey. It's a sticky, sweet, and fragrant treat that is essential during Ramadan."
+  },
+  {
+    "Country": "Lebanon",
+    "Dish Name": "Hummus",
+    "Origin City": "Beirut",
+    "Origin City Latitude": "33.8938",
+    "Origin City Longitude": "35.5018",
+    "Description": "A staple of Lebanese and Middle Eastern cuisine, this is a smooth, creamy dip made from cooked, mashed chickpeas blended with tahini (sesame paste), lemon juice, and garlic."
+  },
+  {
+    "Country": "Lebanon",
+    "Dish Name": "Tabbouleh",
+    "Origin City": "Beqaa Valley",
+    "Origin City Latitude": "33.8547",
+    "Origin City Longitude": "35.8623",
+    "Description": "A vibrant Levantine vegetarian salad. Authentic Lebanese tabbouleh is primarily made of finely chopped parsley, with tomatoes, mint, onion, and a small amount of bulgur, dressed simply with olive oil and lemon juice."
+  },
+  {
+    "Country": "Lebanon",
+    "Dish Name": "Kibbeh",
+    "Origin City": "Aleppo (Historic Syria)",
+    "Origin City Latitude": "36.2021",
+    "Origin City Longitude": "37.1593",
+    "Description": "The national dish of Lebanon, Kibbeh is a family of dishes made of bulgur, minced onions, and finely ground lean beef or lamb. Kibbeh Nayyeh (raw kibbeh) is a famous meze dish."
+  },
+  {
+    "Country": "Lebanon",
+    "Dish Name": "Shish Taouk",
+    "Origin City": "Beirut",
+    "Origin City Latitude": "33.8938",
+    "Origin City Longitude": "35.5018",
+    "Description": "Cubes of chicken that are marinated in a mixture of yogurt, lemon juice, and garlic, then skewered and grilled. It's a popular barbecue and sandwich dish."
+  },
+  {
+    "Country": "Lebanon",
+    "Dish Name": "Baklava",
+    "Origin City": "Tripoli",
+    "Origin City Latitude": "34.4367",
+    "Origin City Longitude": "35.8497",
+    "Description": "Lebanese baklava is known for being less syrupy than other regional versions. It's made with layers of filo pastry, filled with nuts, and sweetened with a fragrant sugar syrup ('attar') infused with rosewater or orange blossom water."
+  },
+  {
+    "Country": "Lebanon",
+    "Dish Name": "Fattoush",
+    "Origin City": "Beqaa Valley",
+    "Origin City Latitude": "33.8547",
+    "Origin City Longitude": "35.8623",
+    "Description": "A Levantine 'bread salad' made from toasted or fried pieces of khubz (flatbread) combined with mixed greens and other vegetables, such as radishes and tomatoes. It's dressed with a zesty sumac vinaigrette."
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish Name": "Injera",
+    "Origin City": "Addis Ababa",
+    "Origin City Latitude": "9.0192",
+    "Origin City Longitude": "38.7525",
+    "Description": "The cornerstone of Ethiopian cuisine, Injera is a sourdough-risen flatbread with a unique, spongy texture. Made from teff flour, it serves as both the plate and the utensil for scooping up various stews (wats)."
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish Name": "Doro Wat",
+    "Origin City": "Addis Ababa",
+    "Origin City Latitude": "9.0192",
+    "Origin City Longitude": "38.7525",
+    "Description": "One of the most famous Ethiopian dishes, Doro Wat is a spicy chicken stew. Its deep red color and rich flavor come from berbere, a complex spice blend, and it's traditionally served with a hard-boiled egg."
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish Name": "Kitfo",
+    "Origin City": "Gurage Zone",
+    "Origin City Latitude": "8.046",
+    "Origin City Longitude": "38.1006",
+    "Description": "A celebratory dish, Kitfo consists of minced raw beef, marinated in mitmita (a spicy chili powder blend) and niter kibbeh (a clarified, spiced butter). It's Ethiopia's version of steak tartare."
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish Name": "Shiro",
+    "Origin City": "Addis Ababa",
+    "Origin City Latitude": "9.0192",
+    "Origin City Longitude": "38.7525",
+    "Description": "A popular and humble vegetarian stew, its base ingredient is powdered chickpeas or broad beans. It's cooked with onions, garlic, and spices to create a thick, flavorful sauce perfect for dipping injera."
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish Name": "Tibs",
+    "Origin City": "Addis Ababa",
+    "Origin City Latitude": "9.0192",
+    "Origin City Longitude": "38.7525",
+    "Description": "A dish of cubed meat (beef, lamb, or goat) that is stir-fried or sautéed with onions, peppers, and other vegetables. It can be served mild or spicy and is a popular everyday meal."
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish Name": "Berbere Stew",
+    "Origin City": "Tigray",
+    "Origin City Latitude": "14.05",
+    "Origin City Longitude": "39.05",
+    "Description": "Berbere is not a dish, but the essential spice blend that defines Ethiopian cooking. A 'Berbere Stew' (like Misir Wat - red lentil stew) uses this blend of chili peppers, garlic, ginger, and other spices to create a deep, fiery flavor."
+  },
+  {
+    "Country": "Philippines",
+    "Dish Name": "Adobo",
+    "Origin City": "Luzon",
+    "Origin City Latitude": "15.7833",
+    "Origin City Longitude": "120.9667",
+    "Description": "Considered the unofficial national dish, Adobo is more of a cooking process than a specific recipe. It involves marinating and simmering meat, seafood, or vegetables in a mixture of vinegar, soy sauce, garlic, and black peppercorns."
+  },
+  {
+    "Country": "Philippines",
+    "Dish Name": "Sinigang",
+    "Origin City": "Luzon",
+    "Origin City Latitude": "15.7833",
+    "Origin City Longitude": "120.9667",
+    "Description": "A traditional Filipino soup characterized by its sour and savory taste. The sourness typically comes from tamarind, but other fruits like guava or calamansi can be used. It's often made with pork, beef, or seafood."
+  },
+  {
+    "Country": "Philippines",
+    "Dish Name": "Lechon",
+    "Origin City": "Cebu",
+    "Origin City Latitude": "10.3157",
+    "Origin City Longitude": "123.8854",
+    "Description": "A whole pig, spit-roasted over charcoal for hours. Lechon is a fixture at any Filipino celebration, prized for its incredibly tender meat and the perfectly crispy, golden-brown skin, which is considered the best part."
+  },
+  {
+    "Country": "Philippines",
+    "Dish Name": "Lumpia",
+    "Origin City": "Manila",
+    "Origin City Latitude": "14.5995",
+    "Origin City Longitude": "120.9842",
+    "Description": "Filipino spring rolls, with influences from Chinese cuisine. 'Lumpiang Shanghai' is a popular version, a savory, fried roll filled with minced meat and vegetables, served with a sweet and sour dipping sauce."
+  },
+  {
+    "Country": "Philippines",
+    "Dish Name": "Halo-Halo",
+    "Origin City": "Manila",
+    "Origin City Latitude": "14.5995",
+    "Origin City Longitude": "120.9842",
+    "Description": "The ultimate Filipino dessert, its name means 'mix-mix.' It's a layered concoction of shaved ice, evaporated milk, and various ingredients like sweet beans, jellies, fruits, and tubers, often topped with a scoop of ube ice cream."
+  },
+  {
+    "Country": "Philippines",
+    "Dish Name": "Pancit",
+    "Origin City": "Manila",
+    "Origin City Latitude": "14.5995",
+    "Origin City Longitude": "120.9842",
+    "Description": "A Filipino noodle dish that is a staple at birthday celebrations, symbolizing a long life. There are many variations, with 'Pancit Canton' (using egg noodles) and 'Pancit Bihon' (using rice noodles) being two of the most popular."
+  },
+  {
+    "Country": "Malaysia",
+    "Dish Name": "Nasi Lemak",
+    "Origin City": "Kuala Lumpur",
+    "Origin City Latitude": "3.139",
+    "Origin City Longitude": "101.6869",
+    "Description": "The national dish of Malaysia. Its name, 'fatty rice,' refers to the fragrant rice cooked in coconut milk and pandan leaf. It's served with a spicy sambal, fried anchovies, peanuts, and a hard-boiled egg."
+  },
+  {
+    "Country": "Malaysia",
+    "Dish Name": "Char Kway Teow",
+    "Origin City": "Penang",
+    "Origin City Latitude": "5.4141",
+    "Origin City Longitude": "100.3288",
+    "Description": "A popular stir-fried noodle dish from Penang. Flat rice noodles are fried over high heat with soy sauce, shrimp, cockles, bean sprouts, and Chinese chives, giving the dish a signature smoky flavor known as 'wok hei'."
+  },
+  {
+    "Country": "Malaysia",
+    "Dish Name": "Roti Canai",
+    "Origin City": "Kuala Lumpur",
+    "Origin City Latitude": "3.139",
+    "Origin City Longitude": "101.6869",
+    "Description": "An Indian-influenced flatbread. The dough is repeatedly stretched, folded, and pan-fried, creating a soft, flaky texture. It's a popular breakfast food, typically served with a side of dhal or curry."
+  },
+  {
+    "Country": "Malaysia",
+    "Dish Name": "Laksa",
+    "Origin City": "Penang",
+    "Origin City Latitude": "5.4141",
+    "Origin City Longitude": "100.3288",
+    "Description": "A spicy noodle soup that perfectly represents Malaysia's multicultural cuisine. Asam Laksa, from Penang, is a sour, fish-based soup, while Curry Laksa is richer and made with a coconut milk base."
+  },
+  {
+    "Country": "Malaysia",
+    "Dish Name": "Satay",
+    "Origin City": "Kajang",
+    "Origin City Latitude": "2.9936",
+    "Origin City Longitude": "101.7874",
+    "Description": "Malaysian satay consists of marinated, skewered, and grilled meat, often served with a spicy peanut sauce. The town of Kajang is famous for its satay, which is chunkier and served with a larger portion of peanut sauce."
+  },
+  {
+    "Country": "Malaysia",
+    "Dish Name": "Teh Tarik",
+    "Origin City": "Kuala Lumpur",
+    "Origin City Latitude": "3.139",
+    "Origin City Longitude": "101.6869",
+    "Description": "Malaysia's national drink, its name means 'pulled tea.' It's a hot milk tea beverage made from black tea and condensed milk. The 'pulling' involves pouring the mixture back and forth between two vessels to create a thick, frothy top."
+  },
+  {
+    "Country": "Peru",
+    "Dish Name": "Ceviche",
+    "Origin City": "Lima",
+    "Origin City Latitude": "-12.0464",
+    "Origin City Longitude": "-77.0428",
+    "Description": "Peru's national dish, with a history dating back thousands of years. It consists of chunks of raw fish marinated and 'cooked' in the acid of fresh lime juice, and spiced with chili peppers, onions, and cilantro."
+  },
+  {
+    "Country": "Peru",
+    "Dish Name": "Lomo Saltado",
+    "Origin City": "Lima",
+    "Origin City Latitude": "-12.0464",
+    "Origin City Longitude": "-77.0428",
+    "Description": "A popular stir-fry dish that showcases the fusion of Chinese and Peruvian cuisines ('Chifa'). It combines marinated strips of sirloin steak with onions, tomatoes, and french fries, all stir-fried and served with rice."
+  },
+  {
+    "Country": "Peru",
+    "Dish Name": "Aji de Gallina",
+    "Origin City": "Lima",
+    "Origin City Latitude": "-12.0464",
+    "Origin City Longitude": "-77.0428",
+    "Description": "A creamy and mildly spicy chicken stew. It's made with shredded chicken in a thick sauce of ground walnuts, aji amarillo (yellow chili pepper), cheese, and bread soaked in milk, giving it a distinctive yellow color."
+  },
+  {
+    "Country": "Peru",
+    "Dish Name": "Anticuchos",
+    "Origin City": "Lima",
+    "Origin City Latitude": "-12.0464",
+    "Origin City Longitude": "-77.0428",
+    "Description": "A popular street food with Incan origins. These are skewers of marinated meat, with the most traditional and popular version being 'anticuchos de corazón'-beef heart, grilled over charcoal."
+  },
+  {
+    "Country": "Peru",
+    "Dish Name": "Papa a la Huancaína",
+    "Origin City": "Huancayo",
+    "Origin City Latitude": "-12.0683",
+    "Origin City Longitude": "-75.2042",
+    "Description": "A classic Peruvian appetizer of boiled yellow potatoes in a spicy, creamy sauce called 'salsa huancaína.' The vibrant sauce is made from fresh cheese (queso fresco), aji amarillo, and evaporated milk."
+  },
+  {
+    "Country": "Peru",
+    "Dish Name": "Picarones",
+    "Origin City": "Lima",
+    "Origin City Latitude": "-12.0464",
+    "Origin City Longitude": "-77.0428",
+    "Description": "A Peruvian dessert that resembles a doughnut. The dough is made from squash and sweet potato, deep-fried, and served in a ring shape, drenched in a sweet syrup called 'chancaca' (unrefined cane sugar syrup)."
+  },
+  {
+    "Country": "Portugal",
+    "Dish Name": "Bacalhau",
+    "Origin City": "Lisbon",
+    "Origin City Latitude": "38.7223",
+    "Origin City Longitude": "-9.1393",
+    "Description": "Bacalhau' is the Portuguese word for cod, and it's a national obsession. There are hundreds of recipes, with 'Bacalhau à Brás' (shredded cod with potatoes and eggs) being one of the most famous."
+  },
+  {
+    "Country": "Portugal",
+    "Dish Name": "Pastéis de Nata",
+    "Origin City": "Lisbon",
+    "Origin City Latitude": "38.7223",
+    "Origin City Longitude": "-9.1393",
+    "Description": "A famous Portuguese egg tart pastry, created before the 18th century by Catholic monks. It has a flaky crust filled with a creamy custard, which is caramelized on top from being baked at a very high temperature."
+  },
+  {
+    "Country": "Portugal",
+    "Dish Name": "Francesinha",
+    "Origin City": "Porto",
+    "Origin City Latitude": "41.1579",
+    "Origin City Longitude": "-8.6291",
+    "Description": "Porto's signature sandwich, a monstrous and delicious creation. It's layered with various meats, covered in melted cheese, and drowned in a hot, spiced tomato and beer sauce."
+  },
+  {
+    "Country": "Portugal",
+    "Dish Name": "Caldo Verde",
+    "Origin City": "Minho",
+    "Origin City Latitude": "41.5454",
+    "Origin City Longitude": "-8.4265",
+    "Description": "A traditional green soup from northern Portugal. It's a simple and comforting soup made with potatoes, onions, garlic, and thinly sliced collard greens, often with a slice of chouriço sausage added."
+  },
+  {
+    "Country": "Portugal",
+    "Dish Name": "Piri Piri Chicken",
+    "Origin City": "Algarve",
+    "Origin City Latitude": "37.0179",
+    "Origin City Longitude": "-7.9304",
+    "Description": "Also known as 'Frango Assado,' this is spit-roasted chicken brushed with a spicy sauce made from piri-piri (African bird's eye) chili peppers. It was popularized by Portuguese explorers returning from Africa."
+  },
+  {
+    "Country": "Portugal",
+    "Dish Name": "Sardines",
+    "Origin City": "Lisbon",
+    "Origin City Latitude": "38.7223",
+    "Origin City Longitude": "-9.1393",
+    "Description": "Grilled sardines are a beloved summer treat, especially during the festival of St. Anthony in Lisbon. They are typically grilled whole over charcoal, seasoned with coarse salt, and served on a slice of bread."
+  },
+  {
+    "Country": "Sweden",
+    "Dish Name": "Meatballs",
+    "Origin City": "Stockholm",
+    "Origin City Latitude": "59.3293",
+    "Origin City Longitude": "18.0686",
+    "Description": "Köttbullar' are a Swedish national icon. They are traditionally served with gravy, boiled potatoes, tangy lingonberry jam, and sometimes pickled cucumber, a combination of savory, sweet, and sour flavors."
+  },
+  {
+    "Country": "Sweden",
+    "Dish Name": "Gravlax",
+    "Origin City": "Scandinavia",
+    "Origin City Latitude": "62",
+    "Origin City Longitude": "15",
+    "Description": "A Nordic dish where raw salmon is cured in a mixture of salt, sugar, and dill. The name means 'buried salmon,' referring to the medieval practice of burying the fish in the sand to ferment it."
+  },
+  {
+    "Country": "Sweden",
+    "Dish Name": "Smörgåsbord",
+    "Origin City": "Stockholm",
+    "Origin City Latitude": "59.3293",
+    "Origin City Longitude": "18.0686",
+    "Description": "Not a single dish, but a traditional Swedish buffet-style meal with a variety of hot and cold dishes. It's meant to be eaten in a specific order, starting with fish, then cold cuts, and finally hot dishes."
+  },
+  {
+    "Country": "Sweden",
+    "Dish Name": "Prinsesstårta",
+    "Origin City": "Stockholm",
+    "Origin City Latitude": "59.3293",
+    "Origin City Longitude": "18.0686",
+    "Description": "A traditional Swedish layer cake, its name is 'Princess Cake.' It consists of alternating layers of sponge cake, pastry cream, and a thick dome of whipped cream, all covered by a smooth layer of green marzipan."
+  },
+  {
+    "Country": "Sweden",
+    "Dish Name": "Räksmörgås",
+    "Origin City": "Gothenburg",
+    "Origin City Latitude": "57.7089",
+    "Origin City Longitude": "11.9746",
+    "Description": "A classic Swedish open-faced shrimp sandwich. A slice of bread is piled high with mayonnaise, hard-boiled eggs, lettuce, cucumber, and a generous mound of fresh, briny shrimp."
+  },
+  {
+    "Country": "Sweden",
+    "Dish Name": "Pea Soup",
+    "Origin City": "Stockholm",
+    "Origin City Latitude": "59.3293",
+    "Origin City Longitude": "18.0686",
+    "Description": "Ärtsoppa och Pannkakor' (pea soup and pancakes) is a traditional meal served on Thursdays in Sweden, a tradition dating back to the pre-Reformation era. The yellow pea soup is often served with mustard."
+  },
+  {
+    "Country": "Poland",
+    "Dish Name": "Pierogi",
+    "Origin City": "Kraków",
+    "Origin City Latitude": "50.0647",
+    "Origin City Longitude": "19.945",
+    "Description": "Poland's most famous dish, these are filled dumplings made by wrapping dough around a savory or sweet filling. The most classic savory filling is 'Ruskie,' made with potato and quark cheese."
+  },
+  {
+    "Country": "Poland",
+    "Dish Name": "Bigos",
+    "Origin City": "Masovia",
+    "Origin City Latitude": "52.2297",
+    "Origin City Longitude": "21.0122",
+    "Description": "Known as 'Hunter's Stew,' Bigos is a hearty, long-simmered stew of sauerkraut, fresh cabbage, various cuts of meat and sausage, mushrooms, and often prunes. It's a national dish with no single recipe."
+  },
+  {
+    "Country": "Poland",
+    "Dish Name": "?urek",
+    "Origin City": "Silesia",
+    "Origin City Latitude": "50.2649",
+    "Origin City Longitude": "19.0238",
+    "Description": "A traditional sour rye soup with a distinctive tangy flavor that comes from a fermented rye starter. It's a staple at Easter, often served in a bread bowl with sausage and a hard-boiled egg."
+  },
+  {
+    "Country": "Poland",
+    "Dish Name": "Kielbasa",
+    "Origin City": "Kraków",
+    "Origin City Latitude": "50.0647",
+    "Origin City Longitude": "19.945",
+    "Description": "Kie?basa' is the Polish word for sausage and a staple of Polish cuisine. There are dozens of varieties, but 'Polska Kie?basa W?dzona' (Polish smoked sausage) is a well-known type, often grilled or used in stews."
+  },
+  {
+    "Country": "Poland",
+    "Dish Name": "Placki Ziemniaczane",
+    "Origin City": "Podhale",
+    "Origin City Latitude": "49.4442",
+    "Origin City Longitude": "20.0211",
+    "Description": "Polish potato pancakes. They are made from grated potatoes, onion, and egg, fried until golden and crispy. They can be served savory with sour cream or goulash, or sweet with fruit sauce and sugar."
+  },
+  {
+    "Country": "Poland",
+    "Dish Name": "Makowiec",
+    "Origin City": "Warsaw",
+    "Origin City Latitude": "52.2297",
+    "Origin City Longitude": "21.0122",
+    "Description": "A traditional Polish poppy seed roll, typically served at Christmas and Easter. A sweet yeast dough is rolled around a rich, dense filling of ground poppy seeds, honey, and nuts."
+  },
+  {
+    "Country": "Iran",
+    "Dish Name": "Kebab",
+    "Origin City": "Tehran",
+    "Origin City Latitude": "35.6892",
+    "Origin City Longitude": "51.389",
+    "Description": "While kebabs are common throughout the Middle East, 'Kebab Koobideh' is a signature Iranian style. It's made from ground lamb, beef, or chicken mixed with chopped onions, grilled on a wide, flat skewer."
+  },
+  {
+    "Country": "Iran",
+    "Dish Name": "Ghormeh Sabzi",
+    "Origin City": "Tehran",
+    "Origin City Latitude": "35.6892",
+    "Origin City Longitude": "51.389",
+    "Description": "Often considered Iran's national dish, this is a savory and aromatic herb stew. It's made with a variety of sautéed herbs, kidney beans, and lamb or beef, with the distinctive sour flavor coming from dried limes (limoo amani)."
+  },
+  {
+    "Country": "Iran",
+    "Dish Name": "Fesenjan",
+    "Origin City": "Gilan",
+    "Origin City Latitude": "37.28",
+    "Origin City Longitude": "49.59",
+    "Description": "A celebrated and iconic Persian stew with a unique sweet, sour, and savory flavor profile. It's made with a base of pomegranate molasses and ground walnuts, typically with poultry like chicken or duck."
+  },
+  {
+    "Country": "Iran",
+    "Dish Name": "Tahdig",
+    "Origin City": "Tehran",
+    "Origin City Latitude": "35.6892",
+    "Origin City Longitude": "51.389",
+    "Description": "The most prized part of cooking Persian rice. 'Tahdig' is the crispy, golden layer of rice from the bottom of the pot, which is crunchy, savory, and considered a delicacy."
+  },
+  {
+    "Country": "Iran",
+    "Dish Name": "Ash Reshteh",
+    "Origin City": "Tehran",
+    "Origin City Latitude": "35.6892",
+    "Origin City Longitude": "51.389",
+    "Description": "A thick and hearty Persian noodle soup. It's packed with various herbs, legumes like chickpeas and lentils, and Persian noodles ('reshteh'), and often garnished with fried onions, mint, and kashk (a type of fermented dairy)."
+  },
+  {
+    "Country": "Iran",
+    "Dish Name": "Sholeh Zard",
+    "Origin City": "Shiraz",
+    "Origin City Latitude": "29.5918",
+    "Origin City Longitude": "52.5837",
+    "Description": "A traditional Iranian saffron rice pudding. The name means 'yellow flame,' referring to its vibrant color from saffron. It's a sweet, fragrant dessert often made for religious holidays and garnished with cinnamon and nuts."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish Name": "Kabsa",
+    "Origin City": "Riyadh",
+    "Origin City Latitude": "24.7136",
+    "Origin City Longitude": "46.6753",
+    "Description": "The national dish of Saudi Arabia. It's a mixed rice dish made with long-grain rice and meat (chicken, lamb, or goat), cooked in a broth of aromatic spices. It's often garnished with raisins, nuts, and onions."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish Name": "Shawarma",
+    "Origin City": "Riyadh",
+    "Origin City Latitude": "24.7136",
+    "Origin City Longitude": "46.6753",
+    "Description": "A popular street food where meat (chicken, lamb, or beef) is seasoned and stacked on a vertical rotisserie, then slow-roasted. Thin slices are shaved off and served in a flatbread with garlic sauce and vegetables."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish Name": "Falafel",
+    "Origin City": "Jeddah",
+    "Origin City Latitude": "21.4858",
+    "Origin City Longitude": "39.1925",
+    "Description": "In Saudi Arabia, falafel is typically made from ground chickpeas, following the Levantine style. These deep-fried balls are a common breakfast item or sandwich filling, served with tahini sauce."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish Name": "Harees",
+    "Origin City": "Hejaz Region",
+    "Origin City Latitude": "23",
+    "Origin City Longitude": "41",
+    "Description": "A traditional and simple dish, especially popular during Ramadan. It's made by slowly cooking wheat with meat (usually chicken or lamb) until it reaches a thick, porridge-like consistency."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish Name": "Mutabbaq",
+    "Origin City": "Jeddah",
+    "Origin City Latitude": "21.4858",
+    "Origin City Longitude": "39.1925",
+    "Description": "Meaning 'folded,' Mutabbaq is a stuffed and pan-fried bread or pastry. It originated in Yemen but is very popular in Saudi Arabia as a street food, with fillings of minced meat, egg, and vegetables."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish Name": "Jareesh",
+    "Origin City": "Najd Region",
+    "Origin City Latitude": "24.7136",
+    "Origin City Longitude": "46.6753",
+    "Description": "A traditional Saudi Arabian dish made from crushed wheat cooked with chicken or lamb, yogurt, and spices. It has a savory, porridge-like texture and is a hearty and comforting meal."
+  },
+  {
+    "Country": "Israel",
+    "Dish Name": "Falafel",
+    "Origin City": "Jerusalem",
+    "Origin City Latitude": "31.7683",
+    "Origin City Longitude": "35.2137",
+    "Description": "An iconic Israeli street food, these deep-fried balls are made from ground chickpeas, herbs, and spices. They are most famously served stuffed inside a pita pocket with hummus, salad, and tahini sauce."
+  },
+  {
+    "Country": "Israel",
+    "Dish Name": "Hummus",
+    "Origin City": "Tel Aviv",
+    "Origin City Latitude": "32.0853",
+    "Origin City Longitude": "34.7818",
+    "Description": "While a staple across the Middle East, hummus is a cornerstone of Israeli cuisine. It's a creamy dip of chickpeas and tahini, and in Israel, it's often served as a main dish, topped with olive oil, paprika, and whole chickpeas."
+  },
+  {
+    "Country": "Israel",
+    "Dish Name": "Shakshuka",
+    "Origin City": "Tel Aviv",
+    "Origin City Latitude": "32.0853",
+    "Origin City Longitude": "34.7818",
+    "Description": "Though North African in origin, shakshuka is an immensely popular dish in Israel. It features eggs poached in a flavorful and spicy tomato, pepper, and onion sauce, often seasoned with cumin. It's typically eaten for breakfast."
+  },
+  {
+    "Country": "Israel",
+    "Dish Name": "Sabich",
+    "Origin City": "Ramat Gan",
+    "Origin City Latitude": "32.0827",
+    "Origin City Longitude": "34.8091",
+    "Description": "A sandwich brought to Israel by Iraqi Jewish immigrants. It consists of a pita stuffed with fried eggplant, hard-boiled eggs, hummus, tahini, and an Israeli salad. It's a popular street food, especially in Tel Aviv."
+  },
+  {
+    "Country": "Israel",
+    "Dish Name": "Bourekas",
+    "Origin City": "Tel Aviv",
+    "Origin City Latitude": "32.0853",
+    "Origin City Longitude": "34.7818",
+    "Description": "Savory pastries made of flaky dough with various fillings, with roots in the cuisine of Balkan and Turkish Jews. Popular fillings include cheese, mashed potatoes, and spinach."
+  },
+  {
+    "Country": "Israel",
+    "Dish Name": "Malabi",
+    "Origin City": "Tel Aviv",
+    "Origin City Latitude": "32.0853",
+    "Origin City Longitude": "34.7818",
+    "Description": "A creamy, milk-based pudding with a texture similar to panna cotta, with roots in Persian cuisine. It's typically flavored with rosewater and served chilled, topped with a sweet syrup and chopped nuts."
+  }
+]

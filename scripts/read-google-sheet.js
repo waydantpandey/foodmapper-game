@@ -4,8 +4,8 @@ const path = require('path');
 
 // Service account credentials
 const SERVICE_ACCOUNT_EMAIL = 'food-scraper@foodmapper-472618.iam.gserviceaccount.com';
-const GOOGLE_SHEET_ID = 'common_foods_35_countries'; // You'll need to provide the actual sheet ID
-const GOOGLE_DRIVE_FOLDER_ID = 'food data 1'; // You'll need to provide the actual folder ID
+const GOOGLE_SHEET_ID = '1c7RSCiILvoCg3cxRfhCmuPW5sEbMeFzTwTKCyL5EscY';
+const GOOGLE_DRIVE_FOLDER_ID = '1Pb8d2TrAldcd0oq9huT7hzLaN7Elf_Zw';
 
 async function readGoogleSheet() {
   try {
@@ -58,8 +58,8 @@ async function readGoogleSheet() {
         }
       });
       
-      // Only add if the food has essential data
-      if (food.name || food.Name || food.food_name) {
+      // Only add if the food has essential data (check for Dish Name column)
+      if (food['Dish Name'] || food['Country']) {
         foods.push(food);
       }
     }
