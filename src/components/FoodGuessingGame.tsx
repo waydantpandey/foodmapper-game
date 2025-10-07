@@ -7,13 +7,18 @@ import { CookieManager } from '../utils/cookieManager';
 import Image from 'next/image';
 
 interface Food {
+  id: number;
   name: string;
+  country: string;
   images: string[];
+  imageCount: number;
   lat: number;
   lng: number;
   location: string;
   city: string;
+  originCity?: string;
   fact: string;
+  description?: string;
 }
 
 interface GameState {
