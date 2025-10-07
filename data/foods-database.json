@@ -9,9 +9,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830932/food-guessing-game/argentina/asado/asado-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -38.4161,
-    "lng": -63.6167,
-    "description": "More than just a barbecue, Asado is the heart of Argentine social life. It involves slow-cooking various cuts of beef and sausages over hot coals on a grill called a 'parrilla'."
+    "lat": -36.6167,
+    "lng": -64.2833,
+    "description": "More than just a barbecue, Asado is the heart of Argentine social life. It involves slow-cooking various cuts of beef and sausages over hot coals on a grill called a 'parrilla'.",
+    "originCity": "La Pampa",
+    "city": "La Pampa",
+    "location": "Argentina"
   },
   {
     "id": 2,
@@ -23,9 +26,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830842/food-guessing-game/argentina/chimichurri/chimichurri-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -38.4161,
-    "lng": -63.6167,
-    "description": "An uncooked, herb-based sauce that is the essential accompaniment to an Asado. It's made of finely chopped parsley, minced garlic, olive oil, oregano, and red wine vinegar."
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "description": "An uncooked, herb-based sauce that is the essential accompaniment to an Asado. It's made of finely chopped parsley, minced garlic, olive oil, oregano, and red wine vinegar.",
+    "originCity": "Buenos Aires",
+    "city": "Buenos Aires",
+    "location": "Argentina"
   },
   {
     "id": 3,
@@ -37,9 +43,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830817/food-guessing-game/argentina/dulce-de-leche/dulce-de-leche-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -38.4161,
-    "lng": -63.6167,
-    "description": "A thick, sweet, caramel-like sauce made by slowly heating sweetened milk. It's a national obsession, used as a spread for toast and a filling for countless desserts and pastries."
+    "lat": -35.0531,
+    "lng": -58.7592,
+    "description": "A thick, sweet, caramel-like sauce made by slowly heating sweetened milk. It's a national obsession, used as a spread for toast and a filling for countless desserts and pastries.",
+    "originCity": "Cañuelas",
+    "city": "Cañuelas",
+    "location": "Argentina"
   },
   {
     "id": 4,
@@ -51,9 +60,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830884/food-guessing-game/argentina/empanadas/empanadas-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -38.4161,
-    "lng": -63.6167,
-    "description": "These stuffed pastries are a staple across the country, with each province having its own signature version. Salta is famous for its small, juicy, and flavorful baked empanadas."
+    "lat": -24.7821,
+    "lng": -65.4232,
+    "description": "These stuffed pastries are a staple across the country, with each province having its own signature version. Salta is famous for its small, juicy, and flavorful baked empanadas.",
+    "originCity": "Salta",
+    "city": "Salta",
+    "location": "Argentina"
   },
   {
     "id": 5,
@@ -65,9 +77,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830857/food-guessing-game/argentina/milanesa/milanesa-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -38.4161,
-    "lng": -63.6167,
-    "description": "A thin slice of beef that is breaded and fried. The 'Milanesa a la Napolitana' is a popular variation, topped with ham, tomato sauce, and melted mozzarella cheese."
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "description": "A thin slice of beef that is breaded and fried. The 'Milanesa a la Napolitana' is a popular variation, topped with ham, tomato sauce, and melted mozzarella cheese.",
+    "originCity": "Buenos Aires",
+    "city": "Buenos Aires",
+    "location": "Argentina"
   },
   {
     "id": 6,
@@ -79,9 +94,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830829/food-guessing-game/argentina/provoleta/provoleta-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -38.4161,
-    "lng": -63.6167,
-    "description": "A popular appetizer at an Asado, this is Argentina's version of grilled provolone cheese. A thick slice of cheese is cooked on the grill until it's crispy on the outside and melted on the inside, then seasoned with herbs."
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "description": "A popular appetizer at an Asado, this is Argentina's version of grilled provolone cheese. A thick slice of cheese is cooked on the grill until it's crispy on the outside and melted on the inside, then seasoned with herbs.",
+    "originCity": "Buenos Aires",
+    "city": "Buenos Aires",
+    "location": "Argentina"
   },
   {
     "id": 7,
@@ -93,9 +111,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830748/food-guessing-game/australia/barramundi/barramundi-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -25.2744,
-    "lng": 133.7751,
-    "description": "A species of sea bass native to Australia and the Indo-Pacific. Its firm, white, flaky flesh and mild flavor make it a popular fish, often served grilled or pan-fried with lemon."
+    "lat": -20.9176,
+    "lng": 142.7028,
+    "description": "A species of sea bass native to Australia and the Indo-Pacific. Its firm, white, flaky flesh and mild flavor make it a popular fish, often served grilled or pan-fried with lemon.",
+    "originCity": "Queensland",
+    "city": "Queensland",
+    "location": "Australia"
   },
   {
     "id": 8,
@@ -107,9 +128,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830778/food-guessing-game/australia/lamingtons/lamingtons-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -25.2744,
-    "lng": 133.7751,
-    "description": "A classic Australian cake, believed to be named after Lord Lamington, a former Governor of Queensland. It's a square of sponge cake coated in a layer of chocolate icing and rolled in desiccated coconut."
+    "lat": -27.4698,
+    "lng": 153.0251,
+    "description": "A classic Australian cake, believed to be named after Lord Lamington, a former Governor of Queensland. It's a square of sponge cake coated in a layer of chocolate icing and rolled in desiccated coconut.",
+    "originCity": "Brisbane",
+    "city": "Brisbane",
+    "location": "Australia"
   },
   {
     "id": 9,
@@ -121,9 +145,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830795/food-guessing-game/australia/meat-pie/meat-pie-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -25.2744,
-    "lng": 133.7751,
-    "description": "An iconic Australian food, this hand-sized pie is filled with minced meat and gravy. It's a staple at sporting events and is often enjoyed with a generous dollop of tomato sauce (ketchup)."
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "description": "An iconic Australian food, this hand-sized pie is filled with minced meat and gravy. It's a staple at sporting events and is often enjoyed with a generous dollop of tomato sauce (ketchup).",
+    "originCity": "Sydney",
+    "city": "Sydney",
+    "location": "Australia"
   },
   {
     "id": 10,
@@ -135,9 +162,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830764/food-guessing-game/australia/pavlova/pavlova-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -25.2744,
-    "lng": 133.7751,
-    "description": "The subject of a long-standing culinary debate with New Zealand, Pavlova is a meringue dessert with a crisp crust and soft, marshmallowy inside, topped with whipped cream and fruit."
+    "lat": -31.9523,
+    "lng": 115.8613,
+    "description": "The subject of a long-standing culinary debate with New Zealand, Pavlova is a meringue dessert with a crisp crust and soft, marshmallowy inside, topped with whipped cream and fruit.",
+    "originCity": "Perth",
+    "city": "Perth",
+    "location": "Australia"
   },
   {
     "id": 11,
@@ -149,9 +179,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831934/food-guessing-game/brazil/brigadeiro/brigadeiro-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -14.235,
-    "lng": -51.9253,
-    "description": "Brazil's favorite homemade treat, created in the 1940s. These are simple chocolate truffles made by simmering condensed milk, cocoa powder, and butter, then rolled into balls and covered in chocolate sprinkles."
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "description": "Brazil's favorite homemade treat, created in the 1940s. These are simple chocolate truffles made by simmering condensed milk, cocoa powder, and butter, then rolled into balls and covered in chocolate sprinkles.",
+    "originCity": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "location": "Brazil"
   },
   {
     "id": 12,
@@ -163,9 +196,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831899/food-guessing-game/brazil/churrasco/churrasco-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -14.235,
-    "lng": -51.9253,
-    "description": "The Brazilian style of barbecue, originating with the gaúchos (cowboys) of Southern Brazil. It involves grilling various cuts of meat on long skewers over hot coals, often seasoned with just coarse salt to let the meat's flavor shine."
+    "lat": -30.0346,
+    "lng": -51.2177,
+    "description": "The Brazilian style of barbecue, originating with the gaúchos (cowboys) of Southern Brazil. It involves grilling various cuts of meat on long skewers over hot coals, often seasoned with just coarse salt to let the meat's flavor shine.",
+    "originCity": "Rio Grande do Sul",
+    "city": "Rio Grande do Sul",
+    "location": "Brazil"
   },
   {
     "id": 13,
@@ -177,9 +213,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831950/food-guessing-game/brazil/coxinha/coxinha-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -14.235,
-    "lng": -51.9253,
-    "description": "A popular Brazilian street food, this is a savory dough, shaped into a chicken leg, which is battered and fried. It's filled with shredded, seasoned chicken meat and sometimes creamy catupiry cheese."
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "description": "A popular Brazilian street food, this is a savory dough, shaped into a chicken leg, which is battered and fried. It's filled with shredded, seasoned chicken meat and sometimes creamy catupiry cheese.",
+    "originCity": "São Paulo",
+    "city": "São Paulo",
+    "location": "Brazil"
   },
   {
     "id": 14,
@@ -191,9 +230,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831980/food-guessing-game/brazil/feijoada/feijoada-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -14.235,
-    "lng": -51.9253,
-    "description": "Considered Brazil's national dish, Feijoada is a rich stew of black beans with a variety of salted and smoked pork and beef products. It's a hearty, celebratory meal often served with rice and collard greens."
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "description": "Considered Brazil's national dish, Feijoada is a rich stew of black beans with a variety of salted and smoked pork and beef products. It's a hearty, celebratory meal often served with rice and collard greens.",
+    "originCity": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "location": "Brazil"
   },
   {
     "id": 15,
@@ -205,9 +247,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831920/food-guessing-game/brazil/moqueca/moqueca-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -14.235,
-    "lng": -51.9253,
-    "description": "A vibrant and fragrant fish stew from the Bahia region. Its distinctive flavor comes from slowly cooking fish or seafood in a coconut milk and palm oil (dendê) base with tomatoes, onions, and peppers."
+    "lat": -12.9777,
+    "lng": -38.5016,
+    "description": "A vibrant and fragrant fish stew from the Bahia region. Its distinctive flavor comes from slowly cooking fish or seafood in a coconut milk and palm oil (dendê) base with tomatoes, onions, and peppers.",
+    "originCity": "Bahia",
+    "city": "Bahia",
+    "location": "Brazil"
   },
   {
     "id": 16,
@@ -232,9 +277,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830723/food-guessing-game/canada/butter-tart/butter-tart-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 56.1304,
-    "lng": -106.3468,
-    "description": "A quintessential Canadian dessert. It's a small pastry tart with a semi-solid filling made from butter, sugar, syrup, and egg. The great Canadian debate is whether they should contain raisins or not."
+    "lat": 43.8647,
+    "lng": -80.6489,
+    "description": "A quintessential Canadian dessert. It's a small pastry tart with a semi-solid filling made from butter, sugar, syrup, and egg. The great Canadian debate is whether they should contain raisins or not.",
+    "originCity": "Kenilworth, Ontario",
+    "city": "Kenilworth, Ontario",
+    "location": "Canada"
   },
   {
     "id": 18,
@@ -246,9 +294,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830707/food-guessing-game/canada/maple-syrup-pancakes/maple-syrup-pancakes-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 56.1304,
-    "lng": -106.3468,
-    "description": "While pancakes are global, pancakes drenched in real Canadian maple syrup, produced primarily in Quebec, are a national ritual. Maple taffy, made by pouring hot syrup on snow, is another classic treat."
+    "lat": 46.8139,
+    "lng": -71.208,
+    "description": "While pancakes are global, pancakes drenched in real Canadian maple syrup, produced primarily in Quebec, are a national ritual. Maple taffy, made by pouring hot syrup on snow, is another classic treat.",
+    "originCity": "Quebec",
+    "city": "Quebec",
+    "location": "Canada"
   },
   {
     "id": 19,
@@ -260,9 +311,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830737/food-guessing-game/canada/poutine/poutine-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 56.1304,
-    "lng": -106.3468,
-    "description": "Canada's most famous comfort food, originating from rural Quebec. It consists of french fries and fresh cheese curds, all topped with a rich brown gravy. The curds should be 'squeaky' and soften but not fully melt."
+    "lat": 45.95,
+    "lng": -71.9833,
+    "description": "Canada's most famous comfort food, originating from rural Quebec. It consists of french fries and fresh cheese curds, all topped with a rich brown gravy. The curds should be 'squeaky' and soften but not fully melt.",
+    "originCity": "Warwick, Quebec",
+    "city": "Warwick, Quebec",
+    "location": "Canada"
   },
   {
     "id": 20,
@@ -274,9 +328,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832574/food-guessing-game/china/dim-sum/dim-sum-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.8617,
-    "lng": 104.1954,
-    "description": "A Cantonese style of brunch involving small, bite-sized portions of food served in steamer baskets or on small plates. It's a social occasion meant for sharing a wide variety of dumplings, buns, and rolls."
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "description": "A Cantonese style of brunch involving small, bite-sized portions of food served in steamer baskets or on small plates. It's a social occasion meant for sharing a wide variety of dumplings, buns, and rolls.",
+    "originCity": "Guangzhou",
+    "city": "Guangzhou",
+    "location": "China"
   },
   {
     "id": 21,
@@ -288,9 +345,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832548/food-guessing-game/china/fried-rice/fried-rice-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.8617,
-    "lng": 104.1954,
-    "description": "An ancient dish born from the need to use leftover rice. Yangzhou fried rice is one of the most famous varieties, featuring a mix of ingredients like shrimp, scrambled egg, and diced meats all stir-fried together."
+    "lat": 32.3944,
+    "lng": 119.4217,
+    "description": "An ancient dish born from the need to use leftover rice. Yangzhou fried rice is one of the most famous varieties, featuring a mix of ingredients like shrimp, scrambled egg, and diced meats all stir-fried together.",
+    "originCity": "Yangzhou",
+    "city": "Yangzhou",
+    "location": "China"
   },
   {
     "id": 22,
@@ -302,9 +362,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832599/food-guessing-game/china/kung-pao-chicken/kung-pao-chicken-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.8617,
-    "lng": 104.1954,
-    "description": "A classic spicy, stir-fried dish from Sichuan province. It features diced chicken, peanuts, vegetables, and chili peppers, all tossed in a sauce that balances salty, sweet, and Sichuan peppercorn's unique numbing spiciness."
+    "lat": 30.6572,
+    "lng": 104.0658,
+    "description": "A classic spicy, stir-fried dish from Sichuan province. It features diced chicken, peanuts, vegetables, and chili peppers, all tossed in a sauce that balances salty, sweet, and Sichuan peppercorn's unique numbing spiciness.",
+    "originCity": "Sichuan",
+    "city": "Sichuan",
+    "location": "China"
   },
   {
     "id": 23,
@@ -316,9 +379,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832589/food-guessing-game/china/peking-duck/peking-duck-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.8617,
-    "lng": 104.1954,
-    "description": "A famous dish from Beijing that was once reserved for emperors. It's prized for its thin, crispy skin, which is achieved through a meticulous preparation process before roasting. It's typically served with pancakes and hoisin sauce."
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "description": "A famous dish from Beijing that was once reserved for emperors. It's prized for its thin, crispy skin, which is achieved through a meticulous preparation process before roasting. It's typically served with pancakes and hoisin sauce.",
+    "originCity": "Beijing",
+    "city": "Beijing",
+    "location": "China"
   },
   {
     "id": 24,
@@ -330,9 +396,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832535/food-guessing-game/china/spring-rolls/spring-rolls-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.8617,
-    "lng": 104.1954,
-    "description": "A traditional appetizer for the Chinese New Year, symbolizing wealth and prosperity. These are savory rolls filled with shredded vegetables and sometimes meat, wrapped in a thin pastry and fried until golden and crispy."
+    "lat": 26.0745,
+    "lng": 119.2965,
+    "description": "A traditional appetizer for the Chinese New Year, symbolizing wealth and prosperity. These are savory rolls filled with shredded vegetables and sometimes meat, wrapped in a thin pastry and fried until golden and crispy.",
+    "originCity": "Fujian",
+    "city": "Fujian",
+    "location": "China"
   },
   {
     "id": 25,
@@ -344,9 +413,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832556/food-guessing-game/china/sweet-and-sour-pork/sweet-and-sour-pork-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.8617,
-    "lng": 104.1954,
-    "description": "A classic Cantonese dish that has become a staple in Chinese restaurants worldwide. It consists of deep-fried pork pieces tossed in a bright sauce made from sugar, ketchup, white vinegar, and soy sauce."
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "description": "A classic Cantonese dish that has become a staple in Chinese restaurants worldwide. It consists of deep-fried pork pieces tossed in a bright sauce made from sugar, ketchup, white vinegar, and soy sauce.",
+    "originCity": "Guangdong",
+    "city": "Guangdong",
+    "location": "China"
   },
   {
     "id": 26,
@@ -358,9 +430,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831012/food-guessing-game/egypt/baklava/baklava-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 26.0975,
-    "lng": 30.0444,
-    "description": "Popular throughout the former Ottoman territories, Egyptian baklava, often called 'gollash,' is typically filled with a simple nut mixture and soaked in a fragrant sugar syrup ('attar')."
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "description": "Popular throughout the former Ottoman territories, Egyptian baklava, often called 'gollash,' is typically filled with a simple nut mixture and soaked in a fragrant sugar syrup ('attar').",
+    "originCity": "Cairo",
+    "city": "Cairo",
+    "location": "Egypt"
   },
   {
     "id": 27,
@@ -372,9 +447,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831048/food-guessing-game/egypt/falafel/falafel-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 26.0975,
-    "lng": 30.0444,
-    "description": "In Egypt, falafel is known as 'Ta'ameya' and is distinctly made from fava beans rather than chickpeas. This gives it a lighter, fluffier texture and a green interior. It's a staple breakfast food."
+    "lat": 31.2001,
+    "lng": 29.9187,
+    "description": "In Egypt, falafel is known as 'Ta'ameya' and is distinctly made from fava beans rather than chickpeas. This gives it a lighter, fluffier texture and a green interior. It's a staple breakfast food.",
+    "originCity": "Alexandria",
+    "city": "Alexandria",
+    "location": "Egypt"
   },
   {
     "id": 28,
@@ -386,9 +464,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831025/food-guessing-game/egypt/fattah/fattah-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 26.0975,
-    "lng": 30.0444,
-    "description": "A celebratory dish, especially for Eid al-Adha. It consists of layers of toasted flatbread, rice, and a tomato or vinegar-based sauce, often topped with pieces of boiled lamb or beef."
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "description": "A celebratory dish, especially for Eid al-Adha. It consists of layers of toasted flatbread, rice, and a tomato or vinegar-based sauce, often topped with pieces of boiled lamb or beef.",
+    "originCity": "Cairo",
+    "city": "Cairo",
+    "location": "Egypt"
   },
   {
     "id": 29,
@@ -400,9 +481,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831060/food-guessing-game/egypt/koshari/koshari-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 26.0975,
-    "lng": 30.0444,
-    "description": "Egypt's national dish and a beloved street food. It's a unique and hearty mix of rice, macaroni, and lentils, topped with a spicy tomato sauce, garlic vinegar, chickpeas, and crispy fried onions."
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "description": "Egypt's national dish and a beloved street food. It's a unique and hearty mix of rice, macaroni, and lentils, topped with a spicy tomato sauce, garlic vinegar, chickpeas, and crispy fried onions.",
+    "originCity": "Cairo",
+    "city": "Cairo",
+    "location": "Egypt"
   },
   {
     "id": 30,
@@ -414,9 +498,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830993/food-guessing-game/egypt/mulukhia/mulukhia-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 26.0975,
-    "lng": 30.0444,
-    "description": "A traditional dish made from the leaves of the jute plant, which are chopped and cooked into a thick, somewhat slimy green soup or stew. It's an ancient dish often served with rice or bread."
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "description": "A traditional dish made from the leaves of the jute plant, which are chopped and cooked into a thick, somewhat slimy green soup or stew. It's an ancient dish often served with rice or bread.",
+    "originCity": "Cairo",
+    "city": "Cairo",
+    "location": "Egypt"
   },
   {
     "id": 31,
@@ -428,9 +515,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831037/food-guessing-game/egypt/shawarma/shawarma-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 26.0975,
-    "lng": 30.0444,
-    "description": "Though Levantine in origin, shawarma is an extremely popular street food in Egypt. Meat is stacked on a vertical spit and slow-roasted, with thin slices shaved off and served in a flatbread."
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "description": "Though Levantine in origin, shawarma is an extremely popular street food in Egypt. Meat is stacked on a vertical spit and slow-roasted, with thin slices shaved off and served in a flatbread.",
+    "originCity": "Cairo",
+    "city": "Cairo",
+    "location": "Egypt"
   },
   {
     "id": 32,
@@ -442,9 +532,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832355/food-guessing-game/france/baguette/baguette-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 46.2276,
-    "lng": 2.2137,
-    "description": "A long, thin loaf of French bread that is an icon of French culture. Its crispy crust and soft, chewy interior are the result of a simple recipe of flour, water, yeast, and salt, with its quality protected by French law."
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "description": "A long, thin loaf of French bread that is an icon of French culture. Its crispy crust and soft, chewy interior are the result of a simple recipe of flour, water, yeast, and salt, with its quality protected by French law.",
+    "originCity": "Paris",
+    "city": "Paris",
+    "location": "France"
   },
   {
     "id": 33,
@@ -456,9 +549,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832305/food-guessing-game/france/coq-au-vin/coq-au-vin-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 46.2276,
-    "lng": 2.2137,
-    "description": "A classic French stew meaning 'rooster in wine.' It involves slow-braising chicken (traditionally a tough old rooster) in red wine, usually Burgundy, with mushrooms, onions, and lardons (bacon)."
+    "lat": 47.1392,
+    "lng": 4.8436,
+    "description": "A classic French stew meaning 'rooster in wine.' It involves slow-braising chicken (traditionally a tough old rooster) in red wine, usually Burgundy, with mushrooms, onions, and lardons (bacon).",
+    "originCity": "Burgundy",
+    "city": "Burgundy",
+    "location": "France"
   },
   {
     "id": 34,
@@ -470,9 +566,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832377/food-guessing-game/france/croissant/croissant-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 46.2276,
-    "lng": 2.2137,
-    "description": "Though it has roots in Vienna, Austria (the kipferl), this buttery, flaky pastry was perfected in Paris. It's a viennoiserie pastry made from a layered yeast-leavened dough, creating its signature crescent shape."
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "description": "Though it has roots in Vienna, Austria (the kipferl), this buttery, flaky pastry was perfected in Paris. It's a viennoiserie pastry made from a layered yeast-leavened dough, creating its signature crescent shape.",
+    "originCity": "Paris",
+    "city": "Paris",
+    "location": "France"
   },
   {
     "id": 35,
@@ -497,9 +596,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832294/food-guessing-game/france/macarons/macarons-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 46.2276,
-    "lng": 2.2137,
-    "description": "A sweet meringue-based confection made with egg white, icing sugar, granulated sugar, and almond powder. The Parisian-style macaron consists of two cookies filled with ganache or buttercream, popularized by the bakery Ladurée."
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "description": "A sweet meringue-based confection made with egg white, icing sugar, granulated sugar, and almond powder. The Parisian-style macaron consists of two cookies filled with ganache or buttercream, popularized by the bakery Ladurée.",
+    "originCity": "Paris",
+    "city": "Paris",
+    "location": "France"
   },
   {
     "id": 37,
@@ -511,9 +613,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832321/food-guessing-game/france/ratatouille/ratatouille-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 46.2276,
-    "lng": 2.2137,
-    "description": "A rustic vegetable stew from the Provence region, famously associated with Nice. It's a bright and flavorful dish made with tomatoes, zucchini, eggplant, bell peppers, and onions, all slow-cooked in olive oil."
+    "lat": 43.7102,
+    "lng": 7.262,
+    "description": "A rustic vegetable stew from the Provence region, famously associated with Nice. It's a bright and flavorful dish made with tomatoes, zucchini, eggplant, bell peppers, and onions, all slow-cooked in olive oil.",
+    "originCity": "Nice",
+    "city": "Nice",
+    "location": "France"
   },
   {
     "id": 38,
@@ -525,9 +630,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831711/food-guessing-game/germany/black-forest-cake/black-forest-cake-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "description": "A famous German dessert, its name is 'Schwarzwälder Kirschtorte.' It consists of several layers of chocolate sponge cake with whipped cream and cherries, decorated with more cream, maraschino cherries, and chocolate shavings."
+    "lat": 48.7758,
+    "lng": 9.1829,
+    "description": "A famous German dessert, its name is 'Schwarzwälder Kirschtorte.' It consists of several layers of chocolate sponge cake with whipped cream and cherries, decorated with more cream, maraschino cherries, and chocolate shavings.",
+    "originCity": "Baden-Württemberg",
+    "city": "Baden-Württemberg",
+    "location": "Germany"
   },
   {
     "id": 39,
@@ -539,9 +647,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831755/food-guessing-game/germany/bratwurst/bratwurst-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "description": "A type of German sausage made from veal, beef, or most commonly pork. The small, thin Nürnberger Rostbratwurst, seasoned with marjoram, is a famous regional variety."
+    "lat": 49.4521,
+    "lng": 11.0767,
+    "description": "A type of German sausage made from veal, beef, or most commonly pork. The small, thin Nürnberger Rostbratwurst, seasoned with marjoram, is a famous regional variety.",
+    "originCity": "Nuremberg",
+    "city": "Nuremberg",
+    "location": "Germany"
   },
   {
     "id": 40,
@@ -553,9 +664,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831700/food-guessing-game/germany/kartoffelsalat/kartoffelsalat-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "description": "German potato salad. Unlike the mayonnaise-based American version, the Southern German style (Schwäbischer Kartoffelsalat) is typically served warm and dressed with a vinaigrette made of vinegar, oil, and beef broth."
+    "lat": 48.5262,
+    "lng": 9.9489,
+    "description": "German potato salad. Unlike the mayonnaise-based American version, the Southern German style (Schwäbischer Kartoffelsalat) is typically served warm and dressed with a vinaigrette made of vinegar, oil, and beef broth.",
+    "originCity": "Swabia",
+    "city": "Swabia",
+    "location": "Germany"
   },
   {
     "id": 41,
@@ -567,9 +681,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831770/food-guessing-game/germany/pretzel/pretzel-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "description": "A baked pastry made from dough that is commonly shaped into a knot. The traditional German pretzel has a distinctive chewy texture and is often sprinkled with coarse salt."
+    "lat": 48.1351,
+    "lng": 11.582,
+    "description": "A baked pastry made from dough that is commonly shaped into a knot. The traditional German pretzel has a distinctive chewy texture and is often sprinkled with coarse salt.",
+    "originCity": "Bavaria",
+    "city": "Bavaria",
+    "location": "Germany"
   },
   {
     "id": 42,
@@ -581,9 +698,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831726/food-guessing-game/germany/sauerkraut/sauerkraut-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "description": "Meaning 'sour cabbage,' this is finely cut raw cabbage that has been fermented by lactic acid bacteria. It's a traditional side dish, often served with pork dishes and sausages."
+    "lat": 48.7758,
+    "lng": 9.1829,
+    "description": "Meaning 'sour cabbage,' this is finely cut raw cabbage that has been fermented by lactic acid bacteria. It's a traditional side dish, often served with pork dishes and sausages.",
+    "originCity": "Baden-Württemberg",
+    "city": "Baden-Württemberg",
+    "location": "Germany"
   },
   {
     "id": 43,
@@ -595,9 +715,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831787/food-guessing-game/germany/schnitzel/schnitzel-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "description": "While Wiener Schnitzel is Austrian, the concept of a breaded meat cutlet is a staple in Germany. A German Schnitzel is typically made with pork, pounded thin, breaded, and fried until golden."
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "description": "While Wiener Schnitzel is Austrian, the concept of a breaded meat cutlet is a staple in Germany. A German Schnitzel is typically made with pork, pounded thin, breaded, and fried until golden.",
+    "originCity": "Vienna, Austria",
+    "city": "Vienna, Austria",
+    "location": "Germany"
   },
   {
     "id": 44,
@@ -609,9 +732,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832010/food-guessing-game/greece/baklava/baklava-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.0742,
-    "lng": 21.8243,
-    "description": "While part of a shared Ottoman heritage, Greek baklava is distinct. It's typically made with a honey-based syrup scented with cinnamon and cloves, and the filling is often rich with walnuts."
+    "lat": 40.8236,
+    "lng": 22.4277,
+    "description": "While part of a shared Ottoman heritage, Greek baklava is distinct. It's typically made with a honey-based syrup scented with cinnamon and cloves, and the filling is often rich with walnuts.",
+    "originCity": "Macedonia (Greek)",
+    "city": "Macedonia (Greek)",
+    "location": "Greece"
   },
   {
     "id": 45,
@@ -623,9 +749,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832042/food-guessing-game/greece/greek-salad/greek-salad-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.0742,
-    "lng": 21.8243,
-    "description": "Known in Greece as 'Horiatiki' (village salad), the authentic version consists of tomatoes, cucumbers, onions, feta cheese, and olives, typically seasoned with salt and oregano and dressed with olive oil."
+    "lat": 37.9725,
+    "lng": 23.7292,
+    "description": "Known in Greece as 'Horiatiki' (village salad), the authentic version consists of tomatoes, cucumbers, onions, feta cheese, and olives, typically seasoned with salt and oregano and dressed with olive oil.",
+    "originCity": "Plaka, Athens",
+    "city": "Plaka, Athens",
+    "location": "Greece"
   },
   {
     "id": 46,
@@ -637,9 +766,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831994/food-guessing-game/greece/gyro/gyro-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.0742,
-    "lng": 21.8243,
-    "description": "Similar to the Turkish Döner kebab, a gyro is meat (usually pork or chicken in Greece) cooked on a vertical rotisserie. The meat is sliced off and served wrapped in a pita with tomato, onion, and tzatziki sauce."
+    "lat": 40.6401,
+    "lng": 22.9444,
+    "description": "Similar to the Turkish Döner kebab, a gyro is meat (usually pork or chicken in Greece) cooked on a vertical rotisserie. The meat is sliced off and served wrapped in a pita with tomato, onion, and tzatziki sauce.",
+    "originCity": "Thessaloniki",
+    "city": "Thessaloniki",
+    "location": "Greece"
   },
   {
     "id": 47,
@@ -651,9 +783,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832069/food-guessing-game/greece/moussaka/moussaka-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.0742,
-    "lng": 21.8243,
-    "description": "The iconic Greek baked dish, though its modern version was created in the 1920s. It consists of layers of savory minced lamb, sautéed eggplant or potato, and a rich tomato sauce, all topped with a creamy Béchamel sauce."
+    "lat": 35.2401,
+    "lng": 24.8093,
+    "description": "The iconic Greek baked dish, though its modern version was created in the 1920s. It consists of layers of savory minced lamb, sautéed eggplant or potato, and a rich tomato sauce, all topped with a creamy Béchamel sauce.",
+    "originCity": "Crete",
+    "city": "Crete",
+    "location": "Greece"
   },
   {
     "id": 48,
@@ -665,9 +800,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832058/food-guessing-game/greece/souvlaki/souvlaki-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.0742,
-    "lng": 21.8243,
-    "description": "A popular Greek fast food consisting of small pieces of meat, and sometimes vegetables, grilled on a skewer. It can be eaten directly off the skewer or served in a pita wrap with toppings and tzatziki sauce."
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "description": "A popular Greek fast food consisting of small pieces of meat, and sometimes vegetables, grilled on a skewer. It can be eaten directly off the skewer or served in a pita wrap with toppings and tzatziki sauce.",
+    "originCity": "Athens",
+    "city": "Athens",
+    "location": "Greece"
   },
   {
     "id": 49,
@@ -679,9 +817,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832024/food-guessing-game/greece/tzatziki/tzatziki-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.0742,
-    "lng": 21.8243,
-    "description": "A creamy and refreshing dip or sauce made from salted strained yogurt mixed with cucumbers, garlic, olive oil, salt, and usually a touch of vinegar or lemon juice. It's an essential part of Greek meze."
+    "lat": 39.5559,
+    "lng": 21.9333,
+    "description": "A creamy and refreshing dip or sauce made from salted strained yogurt mixed with cucumbers, garlic, olive oil, salt, and usually a touch of vinegar or lemon juice. It's an essential part of Greek meze.",
+    "originCity": "Thessaly",
+    "city": "Thessaly",
+    "location": "Greece"
   },
   {
     "id": 50,
@@ -693,9 +834,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833090/food-guessing-game/india/biryani/biryani-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 20.5937,
-    "lng": 78.9629,
-    "description": "While its origins are traced to the Mughal Empire, Hyderabadi Biryani is iconic. It's a magnificent one-pot dish of fragrant basmati rice and marinated meat, slow-cooked with saffron, herbs, and spices."
+    "lat": 17.385,
+    "lng": 78.4867,
+    "description": "While its origins are traced to the Mughal Empire, Hyderabadi Biryani is iconic. It's a magnificent one-pot dish of fragrant basmati rice and marinated meat, slow-cooked with saffron, herbs, and spices.",
+    "originCity": "Hyderabad",
+    "city": "Hyderabad",
+    "location": "India"
   },
   {
     "id": 51,
@@ -707,9 +851,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833106/food-guessing-game/india/butter-chicken/butter-chicken-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 20.5937,
-    "lng": 78.9629,
-    "description": "Invented somewhat by accident in the 1950s at the Moti Mahal restaurant in Delhi, this world-famous dish features tandoori chicken simmered in a rich, mildly spiced tomato and butter (makhan) gravy."
+    "lat": 28.6139,
+    "lng": 77.209,
+    "description": "Invented somewhat by accident in the 1950s at the Moti Mahal restaurant in Delhi, this world-famous dish features tandoori chicken simmered in a rich, mildly spiced tomato and butter (makhan) gravy.",
+    "originCity": "Delhi",
+    "city": "Delhi",
+    "location": "India"
   },
   {
     "id": 52,
@@ -721,9 +868,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833023/food-guessing-game/india/chole-bhature/chole-bhature-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 20.5937,
-    "lng": 78.9629,
-    "description": "A classic Punjabi dish especially popular in Delhi, this is a hearty combination of a spicy chickpea curry (Chole) served with a fluffy, deep-fried bread called Bhature."
+    "lat": 28.6139,
+    "lng": 77.209,
+    "description": "A classic Punjabi dish especially popular in Delhi, this is a hearty combination of a spicy chickpea curry (Chole) served with a fluffy, deep-fried bread called Bhature.",
+    "originCity": "Delhi",
+    "city": "Delhi",
+    "location": "India"
   },
   {
     "id": 53,
@@ -735,9 +885,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833045/food-guessing-game/india/masala-dosa/masala-dosa-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 20.5937,
-    "lng": 78.9629,
-    "description": "A staple from Southern India, the Masala Dosa is a thin, crispy crepe made from fermented rice and lentil batter, filled with a savory spiced potato mixture and served with chutney and sambar."
+    "lat": 13.3409,
+    "lng": 74.7421,
+    "description": "A staple from Southern India, the Masala Dosa is a thin, crispy crepe made from fermented rice and lentil batter, filled with a savory spiced potato mixture and served with chutney and sambar.",
+    "originCity": "Udupi, Karnataka",
+    "city": "Udupi, Karnataka",
+    "location": "India"
   },
   {
     "id": 54,
@@ -749,9 +902,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833062/food-guessing-game/india/paneer-tikka/paneer-tikka-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 20.5937,
-    "lng": 78.9629,
-    "description": "A vegetarian delight, this dish consists of chunks of paneer (Indian cheese) marinated in spices and yogurt, then threaded onto skewers with vegetables and grilled in a tandoor oven."
+    "lat": 31.1471,
+    "lng": 75.3412,
+    "description": "A vegetarian delight, this dish consists of chunks of paneer (Indian cheese) marinated in spices and yogurt, then threaded onto skewers with vegetables and grilled in a tandoor oven.",
+    "originCity": "Punjab",
+    "city": "Punjab",
+    "location": "India"
   },
   {
     "id": 55,
@@ -763,9 +919,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833078/food-guessing-game/india/samosa/samosa-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 20.5937,
-    "lng": 78.9629,
-    "description": "This beloved triangular pastry, with origins in the Middle East, is a quintessential Indian snack. It's typically stuffed with a savory mixture of spiced potatoes, onions, and peas before being deep-fried to golden perfection."
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "description": "This beloved triangular pastry, with origins in the Middle East, is a quintessential Indian snack. It's typically stuffed with a savory mixture of spiced potatoes, onions, and peas before being deep-fried to golden perfection.",
+    "originCity": "Uttar Pradesh",
+    "city": "Uttar Pradesh",
+    "location": "India"
   },
   {
     "id": 56,
@@ -777,9 +936,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831108/food-guessing-game/indonesia/bakso/bakso-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -0.7893,
-    "lng": 113.9213,
-    "description": "A popular Indonesian meatball soup, famously sold from street carts. The meatballs are made from ground beef and tapioca flour, giving them a firm, bouncy texture, and are served in a hot broth with noodles and vegetables."
+    "lat": -7.9666,
+    "lng": 112.6326,
+    "description": "A popular Indonesian meatball soup, famously sold from street carts. The meatballs are made from ground beef and tapioca flour, giving them a firm, bouncy texture, and are served in a hot broth with noodles and vegetables.",
+    "originCity": "Malang, East Java",
+    "city": "Malang, East Java",
+    "location": "Indonesia"
   },
   {
     "id": 57,
@@ -804,9 +966,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831181/food-guessing-game/indonesia/nasi-goreng/nasi-goreng-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -0.7893,
-    "lng": 113.9213,
-    "description": "Indonesia's national dish, meaning 'fried rice.' It's a flavorful and smoky version of fried rice, distinguished by its use of sweet soy sauce (kecap manis), shrimp paste, and various garnishes like a fried egg and pickled vegetables."
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "description": "Indonesia's national dish, meaning 'fried rice.' It's a flavorful and smoky version of fried rice, distinguished by its use of sweet soy sauce (kecap manis), shrimp paste, and various garnishes like a fried egg and pickled vegetables.",
+    "originCity": "Jakarta",
+    "city": "Jakarta",
+    "location": "Indonesia"
   },
   {
     "id": 59,
@@ -818,9 +983,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831142/food-guessing-game/indonesia/rendang/rendang-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -0.7893,
-    "lng": 113.9213,
-    "description": "Originating from the Minangkabau people, Rendang is a rich and aromatic slow-cooked meat dish. Beef is braised for hours in coconut milk and a complex spice paste until the liquid evaporates and the meat is tender."
+    "lat": -0.9384,
+    "lng": 100.3644,
+    "description": "Originating from the Minangkabau people, Rendang is a rich and aromatic slow-cooked meat dish. Beef is braised for hours in coconut milk and a complex spice paste until the liquid evaporates and the meat is tender.",
+    "originCity": "West Sumatra",
+    "city": "West Sumatra",
+    "location": "Indonesia"
   },
   {
     "id": 60,
@@ -832,9 +1000,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831161/food-guessing-game/indonesia/satay/satay-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -0.7893,
-    "lng": 113.9213,
-    "description": "While satay is found everywhere, it's believed to have originated on the island of Java. Skewered and grilled meats are served with a spicy peanut sauce, and each region has its own unique variation."
+    "lat": -7.2575,
+    "lng": 112.7521,
+    "description": "While satay is found everywhere, it's believed to have originated on the island of Java. Skewered and grilled meats are served with a spicy peanut sauce, and each region has its own unique variation.",
+    "originCity": "Java",
+    "city": "Java",
+    "location": "Indonesia"
   },
   {
     "id": 61,
@@ -846,9 +1017,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831089/food-guessing-game/indonesia/soto/soto-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -0.7893,
-    "lng": 113.9213,
-    "description": "A traditional Indonesian soup composed of broth, meat, and vegetables. There are countless regional variations, with Soto Ayam (chicken soto) being one of the most popular, often served with rice cakes and a hard-boiled egg."
+    "lat": -6.9667,
+    "lng": 110.4381,
+    "description": "A traditional Indonesian soup composed of broth, meat, and vegetables. There are countless regional variations, with Soto Ayam (chicken soto) being one of the most popular, often served with rice cakes and a hard-boiled egg.",
+    "originCity": "Semarang, Central Java",
+    "city": "Semarang, Central Java",
+    "location": "Indonesia"
   },
   {
     "id": 62,
@@ -860,9 +1034,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830333/food-guessing-game/iran/kebab/kebab-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 32.4279,
-    "lng": 53.688,
-    "description": "While kebabs are common throughout the Middle East, 'Kebab Koobideh' is a signature Iranian style. It's made from ground lamb, beef, or chicken mixed with chopped onions, grilled on a wide, flat skewer."
+    "lat": 35.6892,
+    "lng": 51.389,
+    "description": "While kebabs are common throughout the Middle East, 'Kebab Koobideh' is a signature Iranian style. It's made from ground lamb, beef, or chicken mixed with chopped onions, grilled on a wide, flat skewer.",
+    "originCity": "Tehran",
+    "city": "Tehran",
+    "location": "Iran"
   },
   {
     "id": 63,
@@ -874,9 +1051,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759834124/food-guessing-game/israel/bourekas/bourekas-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "description": "Savory pastries made of flaky dough with various fillings, with roots in the cuisine of Balkan and Turkish Jews. Popular fillings include cheese, mashed potatoes, and spinach."
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "description": "Savory pastries made of flaky dough with various fillings, with roots in the cuisine of Balkan and Turkish Jews. Popular fillings include cheese, mashed potatoes, and spinach.",
+    "originCity": "Tel Aviv",
+    "city": "Tel Aviv",
+    "location": "Israel"
   },
   {
     "id": 64,
@@ -888,9 +1068,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830279/food-guessing-game/israel/falafel/falafel-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "description": "An iconic Israeli street food, these deep-fried balls are made from ground chickpeas, herbs, and spices. They are most famously served stuffed inside a pita pocket with hummus, salad, and tahini sauce."
+    "lat": 31.7683,
+    "lng": 35.2137,
+    "description": "An iconic Israeli street food, these deep-fried balls are made from ground chickpeas, herbs, and spices. They are most famously served stuffed inside a pita pocket with hummus, salad, and tahini sauce.",
+    "originCity": "Jerusalem",
+    "city": "Jerusalem",
+    "location": "Israel"
   },
   {
     "id": 65,
@@ -902,9 +1085,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830265/food-guessing-game/israel/hummus/hummus-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "description": "While a staple across the Middle East, hummus is a cornerstone of Israeli cuisine. It's a creamy dip of chickpeas and tahini, and in Israel, it's often served as a main dish, topped with olive oil, paprika, and whole chickpeas."
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "description": "While a staple across the Middle East, hummus is a cornerstone of Israeli cuisine. It's a creamy dip of chickpeas and tahini, and in Israel, it's often served as a main dish, topped with olive oil, paprika, and whole chickpeas.",
+    "originCity": "Tel Aviv",
+    "city": "Tel Aviv",
+    "location": "Israel"
   },
   {
     "id": 66,
@@ -916,9 +1102,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759834115/food-guessing-game/israel/malabi/malabi-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "description": "A creamy, milk-based pudding with a texture similar to panna cotta, with roots in Persian cuisine. It's typically flavored with rosewater and served chilled, topped with a sweet syrup and chopped nuts."
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "description": "A creamy, milk-based pudding with a texture similar to panna cotta, with roots in Persian cuisine. It's typically flavored with rosewater and served chilled, topped with a sweet syrup and chopped nuts.",
+    "originCity": "Tel Aviv",
+    "city": "Tel Aviv",
+    "location": "Israel"
   },
   {
     "id": 67,
@@ -930,9 +1119,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759834136/food-guessing-game/israel/sabich/sabich-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "description": "A sandwich brought to Israel by Iraqi Jewish immigrants. It consists of a pita stuffed with fried eggplant, hard-boiled eggs, hummus, tahini, and an Israeli salad. It's a popular street food, especially in Tel Aviv."
+    "lat": 32.0827,
+    "lng": 34.8091,
+    "description": "A sandwich brought to Israel by Iraqi Jewish immigrants. It consists of a pita stuffed with fried eggplant, hard-boiled eggs, hummus, tahini, and an Israeli salad. It's a popular street food, especially in Tel Aviv.",
+    "originCity": "Ramat Gan",
+    "city": "Ramat Gan",
+    "location": "Israel"
   },
   {
     "id": 68,
@@ -944,9 +1136,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830247/food-guessing-game/israel/shakshuka/shakshuka-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "description": "Though North African in origin, shakshuka is an immensely popular dish in Israel. It features eggs poached in a flavorful and spicy tomato, pepper, and onion sauce, often seasoned with cumin. It's typically eaten for breakfast."
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "description": "Though North African in origin, shakshuka is an immensely popular dish in Israel. It features eggs poached in a flavorful and spicy tomato, pepper, and onion sauce, often seasoned with cumin. It's typically eaten for breakfast.",
+    "originCity": "Tel Aviv",
+    "city": "Tel Aviv",
+    "location": "Israel"
   },
   {
     "id": 69,
@@ -958,9 +1153,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832892/food-guessing-game/italy/gelato/gelato-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "description": "Italian ice cream, which was popularized by Bernardo Buontalenti in Florence during the Renaissance. Gelato has a lower fat content and is served at a warmer temperature than regular ice cream, giving it a denser, more intense flavor."
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "description": "Italian ice cream, which was popularized by Bernardo Buontalenti in Florence during the Renaissance. Gelato has a lower fat content and is served at a warmer temperature than regular ice cream, giving it a denser, more intense flavor.",
+    "originCity": "Florence",
+    "city": "Florence",
+    "location": "Italy"
   },
   {
     "id": 70,
@@ -972,9 +1170,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832963/food-guessing-game/italy/lasagna/lasagna-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "description": "Dating back to the Middle Ages, this beloved baked dish from the Emilia-Romagna region consists of wide, flat pasta sheets layered with ragù (a slow-cooked meat sauce), Béchamel sauce, and Parmesan cheese."
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "description": "Dating back to the Middle Ages, this beloved baked dish from the Emilia-Romagna region consists of wide, flat pasta sheets layered with ragù (a slow-cooked meat sauce), Béchamel sauce, and Parmesan cheese.",
+    "originCity": "Emilia-Romagna",
+    "city": "Emilia-Romagna",
+    "location": "Italy"
   },
   {
     "id": 71,
@@ -986,9 +1187,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832984/food-guessing-game/italy/pasta-carbonara/pasta-carbonara-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "description": "A classic Roman pasta dish, its name is believed to come from 'carbonaro' (charcoal burner). It gets its creamy texture not from cream, but from a rich sauce of raw eggs, Pecorino Romano cheese, black pepper, and cured pork (guanciale)."
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "description": "A classic Roman pasta dish, its name is believed to come from 'carbonaro' (charcoal burner). It gets its creamy texture not from cream, but from a rich sauce of raw eggs, Pecorino Romano cheese, black pepper, and cured pork (guanciale).",
+    "originCity": "Rome",
+    "city": "Rome",
+    "location": "Italy"
   },
   {
     "id": 72,
@@ -1000,9 +1204,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759833010/food-guessing-game/italy/pizza/pizza-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "description": "Originating in Naples as a simple, affordable food for the working class, pizza has become a global phenomenon. The Neapolitan style, with its soft, chewy crust, is protected by UNESCO as a cultural heritage item."
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "description": "Originating in Naples as a simple, affordable food for the working class, pizza has become a global phenomenon. The Neapolitan style, with its soft, chewy crust, is protected by UNESCO as a cultural heritage item.",
+    "originCity": "Naples",
+    "city": "Naples",
+    "location": "Italy"
   },
   {
     "id": 73,
@@ -1014,9 +1221,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832928/food-guessing-game/italy/risotto/risotto-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "description": "A northern Italian rice dish cooked in broth to a creamy consistency. The famous Risotto alla Milanese is known for its distinct yellow color, which comes from the addition of saffron."
+    "lat": 45.4642,
+    "lng": 9.19,
+    "description": "A northern Italian rice dish cooked in broth to a creamy consistency. The famous Risotto alla Milanese is known for its distinct yellow color, which comes from the addition of saffron.",
+    "originCity": "Lombardy",
+    "city": "Lombardy",
+    "location": "Italy"
   },
   {
     "id": 74,
@@ -1028,9 +1238,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832873/food-guessing-game/italy/tiramisu/tiramisu-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "description": "Meaning 'pick me up,' this famous coffee-flavored dessert was invented in the 1960s. It consists of ladyfinger biscuits dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, and dusted with cocoa."
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "description": "Meaning 'pick me up,' this famous coffee-flavored dessert was invented in the 1960s. It consists of ladyfinger biscuits dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, and dusted with cocoa.",
+    "originCity": "Veneto",
+    "city": "Veneto",
+    "location": "Italy"
   },
   {
     "id": 75,
@@ -1042,9 +1255,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832413/food-guessing-game/japan/miso-soup/miso-soup-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 36.2048,
-    "lng": 138.2529,
-    "description": "An essential part of a traditional Japanese meal, this soup is made from a stock called 'dashi' into which softened miso paste is mixed. Tofu, seaweed, and other seasonal ingredients are often added."
+    "lat": 35.3197,
+    "lng": 139.5491,
+    "description": "An essential part of a traditional Japanese meal, this soup is made from a stock called 'dashi' into which softened miso paste is mixed. Tofu, seaweed, and other seasonal ingredients are often added.",
+    "originCity": "Kamakura",
+    "city": "Kamakura",
+    "location": "Japan"
   },
   {
     "id": 76,
@@ -1056,9 +1272,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832394/food-guessing-game/japan/okonomiyaki/okonomiyaki-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 36.2048,
-    "lng": 138.2529,
-    "description": "A savory Japanese pancake, its name means 'grilled as you like it.' It's made from a wheat-flour batter mixed with cabbage and other ingredients, cooked on a griddle, and topped with a special sauce, mayonnaise, and bonito flakes."
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "description": "A savory Japanese pancake, its name means 'grilled as you like it.' It's made from a wheat-flour batter mixed with cabbage and other ingredients, cooked on a griddle, and topped with a special sauce, mayonnaise, and bonito flakes.",
+    "originCity": "Osaka",
+    "city": "Osaka",
+    "location": "Japan"
   },
   {
     "id": 77,
@@ -1070,9 +1289,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832498/food-guessing-game/japan/ramen/ramen-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 36.2048,
-    "lng": 138.2529,
-    "description": "A noodle soup dish adapted from Chinese cuisine that has become a Japanese obsession. It consists of Chinese-style wheat noodles served in a rich broth, often flavored with soy sauce or miso, and topped with various ingredients."
+    "lat": 35.4437,
+    "lng": 139.638,
+    "description": "A noodle soup dish adapted from Chinese cuisine that has become a Japanese obsession. It consists of Chinese-style wheat noodles served in a rich broth, often flavored with soy sauce or miso, and topped with various ingredients.",
+    "originCity": "Yokohama",
+    "city": "Yokohama",
+    "location": "Japan"
   },
   {
     "id": 78,
@@ -1084,9 +1306,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832512/food-guessing-game/japan/sushi/sushi-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 36.2048,
-    "lng": 138.2529,
-    "description": "Originating as a way to preserve fish in fermented rice, sushi evolved in Edo-period Japan into a culinary art. It refers to dishes made with vinegared rice, often paired with raw seafood and other ingredients."
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "description": "Originating as a way to preserve fish in fermented rice, sushi evolved in Edo-period Japan into a culinary art. It refers to dishes made with vinegared rice, often paired with raw seafood and other ingredients.",
+    "originCity": "Tokyo (Edo)",
+    "city": "Tokyo (Edo)",
+    "location": "Japan"
   },
   {
     "id": 79,
@@ -1098,9 +1323,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832477/food-guessing-game/japan/tempura/tempura-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 36.2048,
-    "lng": 138.2529,
-    "description": "A dish of lightly battered and deep-fried seafood and vegetables, introduced to Japan by Portuguese missionaries in the 16th century. The batter is kept light and cold to create a distinctively crispy texture."
+    "lat": 32.7503,
+    "lng": 129.8779,
+    "description": "A dish of lightly battered and deep-fried seafood and vegetables, introduced to Japan by Portuguese missionaries in the 16th century. The batter is kept light and cold to create a distinctively crispy texture.",
+    "originCity": "Nagasaki",
+    "city": "Nagasaki",
+    "location": "Japan"
   },
   {
     "id": 80,
@@ -1112,9 +1340,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832441/food-guessing-game/japan/udon/udon-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 36.2048,
-    "lng": 138.2529,
-    "description": "A type of thick, chewy noodle made from wheat flour. Udon can be served in many ways, from hot in a savory broth to chilled with a dipping sauce, making it a versatile and comforting meal."
+    "lat": 34.3402,
+    "lng": 134.0434,
+    "description": "A type of thick, chewy noodle made from wheat flour. Udon can be served in many ways, from hot in a savory broth to chilled with a dipping sauce, making it a versatile and comforting meal.",
+    "originCity": "Kagawa",
+    "city": "Kagawa",
+    "location": "Japan"
   },
   {
     "id": 81,
@@ -1126,9 +1357,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831409/food-guessing-game/korea/bibimbap/bibimbap-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.9078,
-    "lng": 127.7669,
-    "description": "Meaning 'mixed rice,' this is a vibrant and healthy Korean dish. It's a bowl of warm rice topped with an array of seasoned vegetables, chili paste, a fried egg, and sliced meat, meant to be mixed together before eating."
+    "lat": 35.8242,
+    "lng": 127.1489,
+    "description": "Meaning 'mixed rice,' this is a vibrant and healthy Korean dish. It's a bowl of warm rice topped with an array of seasoned vegetables, chili paste, a fried egg, and sliced meat, meant to be mixed together before eating.",
+    "originCity": "Jeonju",
+    "city": "Jeonju",
+    "location": "Korea"
   },
   {
     "id": 82,
@@ -1140,9 +1374,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831368/food-guessing-game/korea/bulgogi/bulgogi-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.9078,
-    "lng": 127.7669,
-    "description": "Meaning 'fire meat,' bulgogi is made of thin, marinated slices of beef or pork grilled on a barbecue. The marinade is typically a sweet and savory mixture of soy sauce, sugar, and pear juice."
+    "lat": 39.0392,
+    "lng": 125.7625,
+    "description": "Meaning 'fire meat,' bulgogi is made of thin, marinated slices of beef or pork grilled on a barbecue. The marinade is typically a sweet and savory mixture of soy sauce, sugar, and pear juice.",
+    "originCity": "Pyongyang, North Korea",
+    "city": "Pyongyang, North Korea",
+    "location": "Korea"
   },
   {
     "id": 83,
@@ -1154,9 +1391,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831320/food-guessing-game/korea/japchae/japchae-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.9078,
-    "lng": 127.7669,
-    "description": "A savory and slightly sweet dish of stir-fried glass noodles and vegetables that is popular at Korean celebrations. The noodles are made from sweet potato starch, giving them a distinctively chewy texture."
+    "lat": 37.5665,
+    "lng": 126.978,
+    "description": "A savory and slightly sweet dish of stir-fried glass noodles and vegetables that is popular at Korean celebrations. The noodles are made from sweet potato starch, giving them a distinctively chewy texture.",
+    "originCity": "Seoul",
+    "city": "Seoul",
+    "location": "Korea"
   },
   {
     "id": 84,
@@ -1168,9 +1408,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831437/food-guessing-game/korea/kimchi/kimchi-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.9078,
-    "lng": 127.7669,
-    "description": "The national dish of Korea, kimchi is a traditional side of salted and fermented vegetables, most famously napa cabbage and Korean radishes, seasoned with spices like gochugaru (chili powder)."
+    "lat": 37.5665,
+    "lng": 126.978,
+    "description": "The national dish of Korea, kimchi is a traditional side of salted and fermented vegetables, most famously napa cabbage and Korean radishes, seasoned with spices like gochugaru (chili powder).",
+    "originCity": "Seoul",
+    "city": "Seoul",
+    "location": "Korea"
   },
   {
     "id": 85,
@@ -1182,9 +1425,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831305/food-guessing-game/korea/samgyeopsal/samgyeopsal-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.9078,
-    "lng": 127.7669,
-    "description": "A popular Korean BBQ dish, its name means 'three-layer flesh,' referring to the layers of fat and meat in pork belly. Slices of pork belly are grilled at the diner's table and eaten with various dipping sauces and sides."
+    "lat": 37.9705,
+    "lng": 126.5539,
+    "description": "A popular Korean BBQ dish, its name means 'three-layer flesh,' referring to the layers of fat and meat in pork belly. Slices of pork belly are grilled at the diner's table and eaten with various dipping sauces and sides.",
+    "originCity": "Kaesong, North Korea",
+    "city": "Kaesong, North Korea",
+    "location": "Korea"
   },
   {
     "id": 86,
@@ -1196,9 +1442,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831344/food-guessing-game/korea/tteokbokki/tteokbokki-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 35.9078,
-    "lng": 127.7669,
-    "description": "A popular Korean street food made from small, cylindrical rice cakes (tteok). They are stir-fried in a fiery gochujang (chili paste) sauce, often with fish cakes and scallions."
+    "lat": 37.5665,
+    "lng": 126.978,
+    "description": "A popular Korean street food made from small, cylindrical rice cakes (tteok). They are stir-fried in a fiery gochujang (chili paste) sauce, often with fish cakes and scallions.",
+    "originCity": "Seoul",
+    "city": "Seoul",
+    "location": "Korea"
   },
   {
     "id": 87,
@@ -1210,9 +1459,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830470/food-guessing-game/lebanon/baklava/baklava-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 33.8547,
-    "lng": 35.8623,
-    "description": "Lebanese baklava is known for being less syrupy than other regional versions. It's made with layers of filo pastry, filled with nuts, and sweetened with a fragrant sugar syrup ('attar') infused with rosewater or orange blossom water."
+    "lat": 34.4367,
+    "lng": 35.8497,
+    "description": "Lebanese baklava is known for being less syrupy than other regional versions. It's made with layers of filo pastry, filled with nuts, and sweetened with a fragrant sugar syrup ('attar') infused with rosewater or orange blossom water.",
+    "originCity": "Tripoli",
+    "city": "Tripoli",
+    "location": "Lebanon"
   },
   {
     "id": 88,
@@ -1226,7 +1478,10 @@
     "imageCount": 3,
     "lat": 33.8547,
     "lng": 35.8623,
-    "description": "A Levantine 'bread salad' made from toasted or fried pieces of khubz (flatbread) combined with mixed greens and other vegetables, such as radishes and tomatoes. It's dressed with a zesty sumac vinaigrette."
+    "description": "A Levantine 'bread salad' made from toasted or fried pieces of khubz (flatbread) combined with mixed greens and other vegetables, such as radishes and tomatoes. It's dressed with a zesty sumac vinaigrette.",
+    "originCity": "Beqaa Valley",
+    "city": "Beqaa Valley",
+    "location": "Lebanon"
   },
   {
     "id": 89,
@@ -1238,9 +1493,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830551/food-guessing-game/lebanon/hummus/hummus-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 33.8547,
-    "lng": 35.8623,
-    "description": "A staple of Lebanese and Middle Eastern cuisine, this is a smooth, creamy dip made from cooked, mashed chickpeas blended with tahini (sesame paste), lemon juice, and garlic."
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "description": "A staple of Lebanese and Middle Eastern cuisine, this is a smooth, creamy dip made from cooked, mashed chickpeas blended with tahini (sesame paste), lemon juice, and garlic.",
+    "originCity": "Beirut",
+    "city": "Beirut",
+    "location": "Lebanon"
   },
   {
     "id": 90,
@@ -1252,9 +1510,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830503/food-guessing-game/lebanon/kibbeh/kibbeh-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 33.8547,
-    "lng": 35.8623,
-    "description": "The national dish of Lebanon, Kibbeh is a family of dishes made of bulgur, minced onions, and finely ground lean beef or lamb. Kibbeh Nayyeh (raw kibbeh) is a famous meze dish."
+    "lat": 36.2021,
+    "lng": 37.1593,
+    "description": "The national dish of Lebanon, Kibbeh is a family of dishes made of bulgur, minced onions, and finely ground lean beef or lamb. Kibbeh Nayyeh (raw kibbeh) is a famous meze dish.",
+    "originCity": "Aleppo (Historic Syria)",
+    "city": "Aleppo (Historic Syria)",
+    "location": "Lebanon"
   },
   {
     "id": 91,
@@ -1266,9 +1527,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830487/food-guessing-game/lebanon/shish-taouk/shish-taouk-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 33.8547,
-    "lng": 35.8623,
-    "description": "Cubes of chicken that are marinated in a mixture of yogurt, lemon juice, and garlic, then skewered and grilled. It's a popular barbecue and sandwich dish."
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "description": "Cubes of chicken that are marinated in a mixture of yogurt, lemon juice, and garlic, then skewered and grilled. It's a popular barbecue and sandwich dish.",
+    "originCity": "Beirut",
+    "city": "Beirut",
+    "location": "Lebanon"
   },
   {
     "id": 92,
@@ -1282,7 +1546,10 @@
     "imageCount": 3,
     "lat": 33.8547,
     "lng": 35.8623,
-    "description": "A vibrant Levantine vegetarian salad. Authentic Lebanese tabbouleh is primarily made of finely chopped parsley, with tomatoes, mint, onion, and a small amount of bulgur, dressed simply with olive oil and lemon juice."
+    "description": "A vibrant Levantine vegetarian salad. Authentic Lebanese tabbouleh is primarily made of finely chopped parsley, with tomatoes, mint, onion, and a small amount of bulgur, dressed simply with olive oil and lemon juice.",
+    "originCity": "Beqaa Valley",
+    "city": "Beqaa Valley",
+    "location": "Lebanon"
   },
   {
     "id": 93,
@@ -1294,9 +1561,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830366/food-guessing-game/malaysia/nasi-lemak/nasi-lemak-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 4.2105,
-    "lng": 101.9758,
-    "description": "The national dish of Malaysia. Its name, 'fatty rice,' refers to the fragrant rice cooked in coconut milk and pandan leaf. It's served with a spicy sambal, fried anchovies, peanuts, and a hard-boiled egg."
+    "lat": 3.139,
+    "lng": 101.6869,
+    "description": "The national dish of Malaysia. Its name, 'fatty rice,' refers to the fragrant rice cooked in coconut milk and pandan leaf. It's served with a spicy sambal, fried anchovies, peanuts, and a hard-boiled egg.",
+    "originCity": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "location": "Malaysia"
   },
   {
     "id": 94,
@@ -1308,9 +1578,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832683/food-guessing-game/mexico/burrito/burrito-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.6345,
-    "lng": -102.5528,
-    "description": "A popular dish from Northern Mexico, the name means 'little donkey.' It consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients, most commonly a savory filling of meat, beans, and rice."
+    "lat": 28.6329,
+    "lng": -106.0691,
+    "description": "A popular dish from Northern Mexico, the name means 'little donkey.' It consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients, most commonly a savory filling of meat, beans, and rice.",
+    "originCity": "Chihuahua",
+    "city": "Chihuahua",
+    "location": "Mexico"
   },
   {
     "id": 95,
@@ -1322,9 +1595,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832629/food-guessing-game/mexico/churros/churros-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.6345,
-    "lng": -102.5528,
-    "description": "Though originating in Spain and Portugal, churros are an immensely popular treat in Mexico. The fried dough pastry is often coated in cinnamon sugar and served with dipping sauces like chocolate or dulce de leche."
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "description": "Though originating in Spain and Portugal, churros are an immensely popular treat in Mexico. The fried dough pastry is often coated in cinnamon sugar and served with dipping sauces like chocolate or dulce de leche.",
+    "originCity": "Mexico City",
+    "city": "Mexico City",
+    "location": "Mexico"
   },
   {
     "id": 96,
@@ -1336,9 +1612,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832615/food-guessing-game/mexico/enchiladas/enchiladas-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.6345,
-    "lng": -102.5528,
-    "description": "A traditional dish with Mayan roots, enchiladas are corn tortillas that are rolled around a filling and covered with a savory chili pepper sauce (salsa). Toppings often include cheese, sour cream, and onions."
+    "lat": 17.0732,
+    "lng": -96.7266,
+    "description": "A traditional dish with Mayan roots, enchiladas are corn tortillas that are rolled around a filling and covered with a savory chili pepper sauce (salsa). Toppings often include cheese, sour cream, and onions.",
+    "originCity": "Oaxaca",
+    "city": "Oaxaca",
+    "location": "Mexico"
   },
   {
     "id": 97,
@@ -1350,9 +1629,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832656/food-guessing-game/mexico/guacamole/guacamole-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.6345,
-    "lng": -102.5528,
-    "description": "This iconic dip has Aztec origins. It's made from mashed ripe avocados and typically mixed with chopped onion, tomatoes, cilantro, lime juice, and chili peppers."
+    "lat": 19.7028,
+    "lng": -101.1923,
+    "description": "This iconic dip has Aztec origins. It's made from mashed ripe avocados and typically mixed with chopped onion, tomatoes, cilantro, lime juice, and chili peppers.",
+    "originCity": "Michoacán",
+    "city": "Michoacán",
+    "location": "Mexico"
   },
   {
     "id": 98,
@@ -1364,9 +1646,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832670/food-guessing-game/mexico/quesadilla/quesadilla-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.6345,
-    "lng": -102.5528,
-    "description": "A simple yet satisfying dish, its name means 'little cheesy thing.' A corn or flour tortilla is filled with cheese, folded in half, and cooked on a griddle until the cheese is melted and the tortilla is crispy."
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "description": "A simple yet satisfying dish, its name means 'little cheesy thing.' A corn or flour tortilla is filled with cheese, folded in half, and cooked on a griddle until the cheese is melted and the tortilla is crispy.",
+    "originCity": "Central Mexico",
+    "city": "Central Mexico",
+    "location": "Mexico"
   },
   {
     "id": 99,
@@ -1378,9 +1663,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832699/food-guessing-game/mexico/tacos/tacos-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.6345,
-    "lng": -102.5528,
-    "description": "Dating back to Mexican silver miners who needed a simple, portable meal, tacos are the heart of Mexican street food. A small corn tortilla is folded around a filling, which can range from grilled meat to fish or vegetables."
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "description": "Dating back to Mexican silver miners who needed a simple, portable meal, tacos are the heart of Mexican street food. A small corn tortilla is folded around a filling, which can range from grilled meat to fish or vegetables.",
+    "originCity": "Mexico City",
+    "city": "Mexico City",
+    "location": "Mexico"
   },
   {
     "id": 100,
@@ -1392,9 +1680,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830609/food-guessing-game/morocco/briouat/briouat-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.6295,
-    "lng": -7.9811,
-    "description": "Small, sweet or savory pastries made with thin warqa pastry. Savory briouats can be filled with meat or cheese, while sweet versions are filled with almond paste and soaked in honey."
+    "lat": 34.0181,
+    "lng": -5.0078,
+    "description": "Small, sweet or savory pastries made with thin warqa pastry. Savory briouats can be filled with meat or cheese, while sweet versions are filled with almond paste and soaked in honey.",
+    "originCity": "Fes",
+    "city": "Fes",
+    "location": "Morocco"
   },
   {
     "id": 101,
@@ -1406,9 +1697,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830566/food-guessing-game/morocco/chebakia/chebakia-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.6295,
-    "lng": -7.9811,
-    "description": "A Moroccan sesame cookie that is shaped into a flower, fried, and then coated with honey. It's a sticky, sweet, and fragrant treat that is essential during Ramadan."
+    "lat": 34.0181,
+    "lng": -5.0078,
+    "description": "A Moroccan sesame cookie that is shaped into a flower, fried, and then coated with honey. It's a sticky, sweet, and fragrant treat that is essential during Ramadan.",
+    "originCity": "Fes",
+    "city": "Fes",
+    "location": "Morocco"
   },
   {
     "id": 102,
@@ -1420,9 +1714,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830658/food-guessing-game/morocco/couscous/couscous-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.6295,
-    "lng": -7.9811,
-    "description": "A staple of North African cuisine, couscous consists of small granules of steamed semolina. It is traditionally served on Fridays with a hearty seven-vegetable stew spooned over the top."
+    "lat": 34.0181,
+    "lng": -5.0078,
+    "description": "A staple of North African cuisine, couscous consists of small granules of steamed semolina. It is traditionally served on Fridays with a hearty seven-vegetable stew spooned over the top.",
+    "originCity": "Fes",
+    "city": "Fes",
+    "location": "Morocco"
   },
   {
     "id": 103,
@@ -1434,9 +1731,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830644/food-guessing-game/morocco/harira/harira-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.6295,
-    "lng": -7.9811,
-    "description": "A traditional Moroccan soup, especially popular during Ramadan to break the fast. It's a rich, tomato-based soup with lentils, chickpeas, and sometimes meat, flavored with a blend of fragrant spices."
+    "lat": 34.0209,
+    "lng": -6.8417,
+    "description": "A traditional Moroccan soup, especially popular during Ramadan to break the fast. It's a rich, tomato-based soup with lentils, chickpeas, and sometimes meat, flavored with a blend of fragrant spices.",
+    "originCity": "Rabat",
+    "city": "Rabat",
+    "location": "Morocco"
   },
   {
     "id": 104,
@@ -1448,9 +1748,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830579/food-guessing-game/morocco/pastilla/pastilla-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 31.6295,
-    "lng": -7.9811,
-    "description": "Also known as B'stilla, this is a traditional and elaborate sweet and savory pie. It features flaky layers of warqa pastry filled with shredded pigeon or chicken, almonds, and spices, and dusted with powdered sugar and cinnamon."
+    "lat": 34.0181,
+    "lng": -5.0078,
+    "description": "Also known as B'stilla, this is a traditional and elaborate sweet and savory pie. It features flaky layers of warqa pastry filled with shredded pigeon or chicken, almonds, and spices, and dusted with powdered sugar and cinnamon.",
+    "originCity": "Fes",
+    "city": "Fes",
+    "location": "Morocco"
   },
   {
     "id": 105,
@@ -1464,7 +1767,10 @@
     "imageCount": 3,
     "lat": 31.6295,
     "lng": -7.9811,
-    "description": "Named for the conical earthenware pot in which it's cooked, a tagine is a slow-simmered, aromatic stew. Popular combinations include chicken with preserved lemons and olives, or lamb with prunes and almonds."
+    "description": "Named for the conical earthenware pot in which it's cooked, a tagine is a slow-simmered, aromatic stew. Popular combinations include chicken with preserved lemons and olives, or lamb with prunes and almonds.",
+    "originCity": "Marrakesh",
+    "city": "Marrakesh",
+    "location": "Morocco"
   },
   {
     "id": 106,
@@ -1476,9 +1782,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830424/food-guessing-game/philippines/lechon/lechon-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 12.8797,
-    "lng": 121.774,
-    "description": "A whole pig, spit-roasted over charcoal for hours. Lechon is a fixture at any Filipino celebration, prized for its incredibly tender meat and the perfectly crispy, golden-brown skin, which is considered the best part."
+    "lat": 10.3157,
+    "lng": 123.8854,
+    "description": "A whole pig, spit-roasted over charcoal for hours. Lechon is a fixture at any Filipino celebration, prized for its incredibly tender meat and the perfectly crispy, golden-brown skin, which is considered the best part.",
+    "originCity": "Cebu",
+    "city": "Cebu",
+    "location": "Philippines"
   },
   {
     "id": 107,
@@ -1490,9 +1799,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830405/food-guessing-game/philippines/lumpia/lumpia-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 12.8797,
-    "lng": 121.774,
-    "description": "Filipino spring rolls, with influences from Chinese cuisine. 'Lumpiang Shanghai' is a popular version, a savory, fried roll filled with minced meat and vegetables, served with a sweet and sour dipping sauce."
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "description": "Filipino spring rolls, with influences from Chinese cuisine. 'Lumpiang Shanghai' is a popular version, a savory, fried roll filled with minced meat and vegetables, served with a sweet and sour dipping sauce.",
+    "originCity": "Manila",
+    "city": "Manila",
+    "location": "Philippines"
   },
   {
     "id": 108,
@@ -1504,9 +1816,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830381/food-guessing-game/philippines/pancit/pancit-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 12.8797,
-    "lng": 121.774,
-    "description": "A Filipino noodle dish that is a staple at birthday celebrations, symbolizing a long life. There are many variations, with 'Pancit Canton' (using egg noodles) and 'Pancit Bihon' (using rice noodles) being two of the most popular."
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "description": "A Filipino noodle dish that is a staple at birthday celebrations, symbolizing a long life. There are many variations, with 'Pancit Canton' (using egg noodles) and 'Pancit Bihon' (using rice noodles) being two of the most popular.",
+    "originCity": "Manila",
+    "city": "Manila",
+    "location": "Philippines"
   },
   {
     "id": 109,
@@ -1518,9 +1833,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830434/food-guessing-game/philippines/sinigang/sinigang-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 12.8797,
-    "lng": 121.774,
-    "description": "A traditional Filipino soup characterized by its sour and savory taste. The sourness typically comes from tamarind, but other fruits like guava or calamansi can be used. It's often made with pork, beef, or seafood."
+    "lat": 15.7833,
+    "lng": 120.9667,
+    "description": "A traditional Filipino soup characterized by its sour and savory taste. The sourness typically comes from tamarind, but other fruits like guava or calamansi can be used. It's often made with pork, beef, or seafood.",
+    "originCity": "Luzon",
+    "city": "Luzon",
+    "location": "Philippines"
   },
   {
     "id": 110,
@@ -1532,9 +1850,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831531/food-guessing-game/russia/blini/blini-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 61.524,
-    "lng": 105.3188,
-    "description": "Russian-style pancakes or crepes, with a history dating back to pre-Christian times. They can be served simply with butter, or elaborately with sour cream, jam, or savory toppings like caviar."
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "description": "Russian-style pancakes or crepes, with a history dating back to pre-Christian times. They can be served simply with butter, or elaborately with sour cream, jam, or savory toppings like caviar.",
+    "originCity": "Moscow",
+    "city": "Moscow",
+    "location": "Russia"
   },
   {
     "id": 111,
@@ -1546,9 +1867,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831571/food-guessing-game/russia/borscht/borscht-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 61.524,
-    "lng": 105.3188,
-    "description": "While strongly associated with Russia, this sour soup is of Ukrainian origin and popular across Eastern Europe. The most famous variety is made with beetroot as the main ingredient, giving it a deep red color."
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "description": "While strongly associated with Russia, this sour soup is of Ukrainian origin and popular across Eastern Europe. The most famous variety is made with beetroot as the main ingredient, giving it a deep red color.",
+    "originCity": "Kyiv, Ukraine",
+    "city": "Kyiv, Ukraine",
+    "location": "Russia"
   },
   {
     "id": 112,
@@ -1560,9 +1884,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831556/food-guessing-game/russia/pelmeni/pelmeni-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 61.524,
-    "lng": 105.3188,
-    "description": "Heart-shaped dumplings from Siberia, traditionally filled with minced meat. They are a beloved comfort food, often served boiled and topped with sour cream or butter."
+    "lat": 55.0301,
+    "lng": 82.9204,
+    "description": "Heart-shaped dumplings from Siberia, traditionally filled with minced meat. They are a beloved comfort food, often served boiled and topped with sour cream or butter.",
+    "originCity": "Siberia",
+    "city": "Siberia",
+    "location": "Russia"
   },
   {
     "id": 113,
@@ -1574,9 +1901,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831479/food-guessing-game/russia/pirozhki/pirozhki-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 61.524,
-    "lng": 105.3188,
-    "description": "Small baked or fried buns stuffed with a variety of fillings, from meat and potatoes to cabbage or fruit. They are a common homemade snack and street food."
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "description": "Small baked or fried buns stuffed with a variety of fillings, from meat and potatoes to cabbage or fruit. They are a common homemade snack and street food.",
+    "originCity": "Moscow",
+    "city": "Moscow",
+    "location": "Russia"
   },
   {
     "id": 114,
@@ -1588,9 +1918,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831503/food-guessing-game/russia/shashlik/shashlik-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 61.524,
-    "lng": 105.3188,
-    "description": "A form of shish kebab popular in Russia and former Soviet countries, with roots in the Caucasus region. It consists of cubes of marinated meat grilled on skewers over a charcoal fire."
+    "lat": 43.3552,
+    "lng": 42.4395,
+    "description": "A form of shish kebab popular in Russia and former Soviet countries, with roots in the Caucasus region. It consists of cubes of marinated meat grilled on skewers over a charcoal fire.",
+    "originCity": "Caucasus Mountains",
+    "city": "Caucasus Mountains",
+    "location": "Russia"
   },
   {
     "id": 115,
@@ -1602,9 +1935,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831463/food-guessing-game/russia/syrniki/syrniki-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 61.524,
-    "lng": 105.3188,
-    "description": "A beloved comfort food for breakfast or dessert across Russia, Syrniki are small, sweet pancakes made from quark (a fresh, creamy cheese). The name comes from the old Slavic word for cheese, \"syr.\" They are pan-fried until golden and have a texture that is wonderfully soft on the inside and slightly crisp on the outside. They are almost always served with sour cream (smetana), jam, or honey."
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "description": "A beloved comfort food for breakfast or dessert across Russia, Syrniki are small, sweet pancakes made from quark (a fresh, creamy cheese). The name comes from the old Slavic word for cheese, \"syr.\" They are pan-fried until golden and have a texture that is wonderfully soft on the inside and slightly crisp on the outside. They are almost always served with sour cream (smetana), jam, or honey.",
+    "originCity": "Moscow",
+    "city": "Moscow",
+    "location": "Russia"
   },
   {
     "id": 116,
@@ -1616,9 +1952,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830294/food-guessing-game/saudi-arabia/falafel/falafel-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.8859,
-    "lng": 45.0792,
-    "description": "In Saudi Arabia, falafel is typically made from ground chickpeas, following the Levantine style. These deep-fried balls are a common breakfast item or sandwich filling, served with tahini sauce."
+    "lat": 21.4858,
+    "lng": 39.1925,
+    "description": "In Saudi Arabia, falafel is typically made from ground chickpeas, following the Levantine style. These deep-fried balls are a common breakfast item or sandwich filling, served with tahini sauce.",
+    "originCity": "Jeddah",
+    "city": "Jeddah",
+    "location": "Saudi Arabia"
   },
   {
     "id": 117,
@@ -1630,9 +1969,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759834198/food-guessing-game/saudi-arabia/harees/harees-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.8859,
-    "lng": 45.0792,
-    "description": "A traditional and simple dish, especially popular during Ramadan. It's made by slowly cooking wheat with meat (usually chicken or lamb) until it reaches a thick, porridge-like consistency."
+    "lat": 23,
+    "lng": 41,
+    "description": "A traditional and simple dish, especially popular during Ramadan. It's made by slowly cooking wheat with meat (usually chicken or lamb) until it reaches a thick, porridge-like consistency.",
+    "originCity": "Hejaz Region",
+    "city": "Hejaz Region",
+    "location": "Saudi Arabia"
   },
   {
     "id": 118,
@@ -1644,9 +1986,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759834234/food-guessing-game/saudi-arabia/kabsa/kabsa-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.8859,
-    "lng": 45.0792,
-    "description": "The national dish of Saudi Arabia. It's a mixed rice dish made with long-grain rice and meat (chicken, lamb, or goat), cooked in a broth of aromatic spices. It's often garnished with raisins, nuts, and onions."
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "description": "The national dish of Saudi Arabia. It's a mixed rice dish made with long-grain rice and meat (chicken, lamb, or goat), cooked in a broth of aromatic spices. It's often garnished with raisins, nuts, and onions.",
+    "originCity": "Riyadh",
+    "city": "Riyadh",
+    "location": "Saudi Arabia"
   },
   {
     "id": 119,
@@ -1658,9 +2003,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830310/food-guessing-game/saudi-arabia/shawarma/shawarma-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 23.8859,
-    "lng": 45.0792,
-    "description": "A popular street food where meat (chicken, lamb, or beef) is seasoned and stacked on a vertical rotisserie, then slow-roasted. Thin slices are shaved off and served in a flatbread with garlic sauce and vegetables."
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "description": "A popular street food where meat (chicken, lamb, or beef) is seasoned and stacked on a vertical rotisserie, then slow-roasted. Thin slices are shaved off and served in a flatbread with garlic sauce and vegetables.",
+    "originCity": "Riyadh",
+    "city": "Riyadh",
+    "location": "Saudi Arabia"
   },
   {
     "id": 120,
@@ -1672,9 +2020,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830982/food-guessing-game/south-africa/biltong/biltong-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -30.5595,
-    "lng": 22.9375,
-    "description": "A form of dried, cured meat that originated with Dutch settlers in the 17th century. It's typically made from beef or game, and its unique flavor comes from being cured in vinegar, salt, and spices like coriander."
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "description": "A form of dried, cured meat that originated with Dutch settlers in the 17th century. It's typically made from beef or game, and its unique flavor comes from being cured in vinegar, salt, and spices like coriander.",
+    "originCity": "Cape Town",
+    "city": "Cape Town",
+    "location": "South Africa"
   },
   {
     "id": 121,
@@ -1684,9 +2035,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830961/food-guessing-game/south-africa/boerewors/boerewors-1.jpg"
     ],
     "imageCount": 1,
-    "lat": -30.5595,
-    "lng": 22.9375,
-    "description": "Meaning 'farmer's sausage,' this is a traditional South African sausage that must contain at least 90% meat. It's typically formed into a continuous coil and cooked on a 'braai' (barbecue)."
+    "lat": -28.4542,
+    "lng": 26.7524,
+    "description": "Meaning 'farmer's sausage,' this is a traditional South African sausage that must contain at least 90% meat. It's typically formed into a continuous coil and cooked on a 'braai' (barbecue).",
+    "originCity": "Free State",
+    "city": "Free State",
+    "location": "South Africa"
   },
   {
     "id": 122,
@@ -1698,9 +2052,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759830949/food-guessing-game/south-africa/braai/braai-3.jpg"
     ],
     "imageCount": 3,
-    "lat": -30.5595,
-    "lng": 22.9375,
-    "description": "A braai is a South African outdoor barbecue tradition and social custom where meat, fish, and vegetables are grilled over an open fire or coals. Beyond a meal, it is a significant cultural experience, embodying a way of life centered around community, fellowship, and the distinctive flavors imparted by cooking with wood. "
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "description": "A braai is a South African outdoor barbecue tradition and social custom where meat, fish, and vegetables are grilled over an open fire or coals. Beyond a meal, it is a significant cultural experience, embodying a way of life centered around community, fellowship, and the distinctive flavors imparted by cooking with wood. ",
+    "originCity": "Cape Town",
+    "city": "Cape Town",
+    "location": "South Africa"
   },
   {
     "id": 123,
@@ -1712,9 +2069,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832254/food-guessing-game/spain/churros/churros-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 40.4637,
-    "lng": -3.7492,
-    "description": "A popular breakfast or snack, especially in Madrid where they are dipped in thick hot chocolate. These are fried-dough pastries, typically extruded into long, ridged sticks and sprinkled with sugar."
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "description": "A popular breakfast or snack, especially in Madrid where they are dipped in thick hot chocolate. These are fried-dough pastries, typically extruded into long, ridged sticks and sprinkled with sugar.",
+    "originCity": "Madrid",
+    "city": "Madrid",
+    "location": "Spain"
   },
   {
     "id": 124,
@@ -1726,9 +2086,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832193/food-guessing-game/spain/croquetas/croquetas-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 40.4637,
-    "lng": -3.7492,
-    "description": "A staple in every tapas bar in Spain, croquetas are small, lightly breaded and fried rolls with a creamy béchamel sauce filling. While originating in France, Spain perfected them into a national treasure. The most classic filling is diced jamón (cured ham), but you can find them made with chicken, cod, or mushrooms. They are the ultimate comfort food—crispy on the outside and rich and gooey on the inside."
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "description": "A staple in every tapas bar in Spain, croquetas are small, lightly breaded and fried rolls with a creamy béchamel sauce filling. While originating in France, Spain perfected them into a national treasure. The most classic filling is diced jamón (cured ham), but you can find them made with chicken, cod, or mushrooms. They are the ultimate comfort food—crispy on the outside and rich and gooey on the inside.",
+    "originCity": "Madrid",
+    "city": "Madrid",
+    "location": "Spain"
   },
   {
     "id": 125,
@@ -1740,9 +2103,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832218/food-guessing-game/spain/gazpacho/gazpacho-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 40.4637,
-    "lng": -3.7492,
-    "description": "A refreshing cold soup from the southern region of Andalusia, perfect for hot summers. It's made from a purée of raw, blended vegetables, primarily tomato, peppers, cucumber, garlic, and onion."
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "description": "A refreshing cold soup from the southern region of Andalusia, perfect for hot summers. It's made from a purée of raw, blended vegetables, primarily tomato, peppers, cucumber, garlic, and onion.",
+    "originCity": "Andalusia",
+    "city": "Andalusia",
+    "location": "Spain"
   },
   {
     "id": 126,
@@ -1754,9 +2120,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832274/food-guessing-game/spain/paella/paella-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 40.4637,
-    "lng": -3.7492,
-    "description": "Spain's most famous rice dish, originating as a farmer's lunch in the fields of Valencia. The authentic 'Paella Valenciana' is made with rabbit, chicken, and local beans, cooked in a wide, shallow pan."
+    "lat": 39.4699,
+    "lng": -0.3763,
+    "description": "Spain's most famous rice dish, originating as a farmer's lunch in the fields of Valencia. The authentic 'Paella Valenciana' is made with rabbit, chicken, and local beans, cooked in a wide, shallow pan.",
+    "originCity": "Valencia",
+    "city": "Valencia",
+    "location": "Spain"
   },
   {
     "id": 127,
@@ -1768,9 +2137,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832206/food-guessing-game/spain/patatas-bravas/patatas-bravas-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 40.4637,
-    "lng": -3.7492,
-    "description": "A classic Spanish tapa dish. It consists of white potatoes that have been cut into chunks, fried in oil, and served warm with a spicy tomato-based sauce (salsa brava)."
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "description": "A classic Spanish tapa dish. It consists of white potatoes that have been cut into chunks, fried in oil, and served warm with a spicy tomato-based sauce (salsa brava).",
+    "originCity": "Madrid",
+    "city": "Madrid",
+    "location": "Spain"
   },
   {
     "id": 128,
@@ -1797,7 +2169,10 @@
     "imageCount": 3,
     "lat": 15.87,
     "lng": 100.9925,
-    "description": "Known as 'Gaeng Keow Wan,' this is a central Thai curry. Its signature green color comes from fresh green chilies, and it's typically sweeter than red curries, with a coconut milk base and Thai basil."
+    "description": "Known as 'Gaeng Keow Wan,' this is a central Thai curry. Its signature green color comes from fresh green chilies, and it's typically sweeter than red curries, with a coconut milk base and Thai basil.",
+    "originCity": "Central Thailand",
+    "city": "Central Thailand",
+    "location": "Thailand"
   },
   {
     "id": 130,
@@ -1809,9 +2184,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832115/food-guessing-game/thailand/mango-sticky-rice/mango-sticky-rice-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 15.87,
-    "lng": 100.9925,
-    "description": "A classic Thai dessert made from glutinous rice, fresh mango, and coconut milk. The sticky rice is steamed and then soaked in sweetened coconut milk, served alongside slices of ripe mango."
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "description": "A classic Thai dessert made from glutinous rice, fresh mango, and coconut milk. The sticky rice is steamed and then soaked in sweetened coconut milk, served alongside slices of ripe mango.",
+    "originCity": "Bangkok",
+    "city": "Bangkok",
+    "location": "Thailand"
   },
   {
     "id": 131,
@@ -1823,9 +2201,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832179/food-guessing-game/thailand/pad-thai/pad-thai-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 15.87,
-    "lng": 100.9925,
-    "description": "Thailand's national stir-fried noodle dish. It's a delightful mix of rice noodles, shrimp or tofu, bean sprouts, and eggs, all tossed in a sweet, sour, and salty tamarind-based sauce."
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "description": "Thailand's national stir-fried noodle dish. It's a delightful mix of rice noodles, shrimp or tofu, bean sprouts, and eggs, all tossed in a sweet, sour, and salty tamarind-based sauce.",
+    "originCity": "Bangkok",
+    "city": "Bangkok",
+    "location": "Thailand"
   },
   {
     "id": 132,
@@ -1837,9 +2218,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832100/food-guessing-game/thailand/satay/satay-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 15.87,
-    "lng": 100.9925,
-    "description": "While found across Southeast Asia, Thai satay features smaller skewers of marinated meat (usually pork or chicken). It's grilled and served with a distinctive peanut sauce and a cucumber relish."
+    "lat": 14.3548,
+    "lng": 100.5693,
+    "description": "While found across Southeast Asia, Thai satay features smaller skewers of marinated meat (usually pork or chicken). It's grilled and served with a distinctive peanut sauce and a cucumber relish.",
+    "originCity": "Ayutthaya",
+    "city": "Ayutthaya",
+    "location": "Thailand"
   },
   {
     "id": 133,
@@ -1851,9 +2235,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832085/food-guessing-game/thailand/som-tum/som-tum-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 15.87,
-    "lng": 100.9925,
-    "description": "A spicy green papaya salad from the Isan region of northeastern Thailand. It's a flavor explosion, pounding shredded unripe papaya with chilies, garlic, lime juice, and fish sauce in a mortar and pestle."
+    "lat": 16.0371,
+    "lng": 103.5434,
+    "description": "A spicy green papaya salad from the Isan region of northeastern Thailand. It's a flavor explosion, pounding shredded unripe papaya with chilies, garlic, lime juice, and fish sauce in a mortar and pestle.",
+    "originCity": "Isan",
+    "city": "Isan",
+    "location": "Thailand"
   },
   {
     "id": 134,
@@ -1867,7 +2254,10 @@
     "imageCount": 3,
     "lat": 15.87,
     "lng": 100.9925,
-    "description": "A famous hot and sour soup, its name literally means 'boiling' and 'mixed.' The fragrant broth is a symphony of lemongrass, galangal, kaffir lime leaves, lime juice, and chili peppers."
+    "description": "A famous hot and sour soup, its name literally means 'boiling' and 'mixed.' The fragrant broth is a symphony of lemongrass, galangal, kaffir lime leaves, lime juice, and chili peppers.",
+    "originCity": "Central Thailand",
+    "city": "Central Thailand",
+    "location": "Thailand"
   },
   {
     "id": 135,
@@ -1879,9 +2269,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831866/food-guessing-game/turkey/baklava/baklava-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 38.9637,
-    "lng": 35.2433,
-    "description": "Gaziantep is considered the home of the world's best baklava. This sweet pastry is made of layers of filo filled with chopped pistachios (for which the region is famous) and sweetened with a light sugar syrup."
+    "lat": 37.0662,
+    "lng": 37.3833,
+    "description": "Gaziantep is considered the home of the world's best baklava. This sweet pastry is made of layers of filo filled with chopped pistachios (for which the region is famous) and sweetened with a light sugar syrup.",
+    "originCity": "Gaziantep",
+    "city": "Gaziantep",
+    "location": "Turkey"
   },
   {
     "id": 136,
@@ -1893,9 +2286,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831882/food-guessing-game/turkey/kebabs/kebabs-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 38.9637,
-    "lng": 35.2433,
-    "description": "While 'kebab' just means cooked meat, Turkish kebabs are world-famous. The Adana kebab is a long, hand-minced meat kebab mounted on a wide skewer and grilled, known for its spicy flavor from red peppers."
+    "lat": 37,
+    "lng": 35.3213,
+    "description": "While 'kebab' just means cooked meat, Turkish kebabs are world-famous. The Adana kebab is a long, hand-minced meat kebab mounted on a wide skewer and grilled, known for its spicy flavor from red peppers.",
+    "originCity": "Adana",
+    "city": "Adana",
+    "location": "Turkey"
   },
   {
     "id": 137,
@@ -1907,9 +2303,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831840/food-guessing-game/turkey/lahmacun/lahmacun-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 38.9637,
-    "lng": 35.2433,
-    "description": "Often called 'Turkish pizza,' Lahmacun is a thin, crispy piece of round dough topped with minced meat (most commonly beef or lamb), minced vegetables, and herbs, then baked."
+    "lat": 37.1583,
+    "lng": 38.7917,
+    "description": "Often called 'Turkish pizza,' Lahmacun is a thin, crispy piece of round dough topped with minced meat (most commonly beef or lamb), minced vegetables, and herbs, then baked.",
+    "originCity": "?anl?urfa",
+    "city": "?anl?urfa",
+    "location": "Turkey"
   },
   {
     "id": 138,
@@ -1921,9 +2320,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831852/food-guessing-game/turkey/meze/meze-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 38.9637,
-    "lng": 35.2433,
-    "description": "Meze is a style of dining, similar to Spanish tapas, involving a selection of small dishes served as an appetizer. Common Turkish meze include dips like hummus, stuffed vine leaves, and salads."
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "description": "Meze is a style of dining, similar to Spanish tapas, involving a selection of small dishes served as an appetizer. Common Turkish meze include dips like hummus, stuffed vine leaves, and salads.",
+    "originCity": "Istanbul",
+    "city": "Istanbul",
+    "location": "Turkey"
   },
   {
     "id": 139,
@@ -1935,9 +2337,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831803/food-guessing-game/turkey/pide/pide-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 38.9637,
-    "lng": 35.2433,
-    "description": "A boat-shaped Turkish flatbread that is baked in a stone oven. The dough is topped with a variety of ingredients, with the most popular being 'sucuklu' (with spicy sausage) and 'k?ymal?' (with minced meat)."
+    "lat": 40.9767,
+    "lng": 39.7167,
+    "description": "A boat-shaped Turkish flatbread that is baked in a stone oven. The dough is topped with a variety of ingredients, with the most popular being 'sucuklu' (with spicy sausage) and 'k?ymal?' (with minced meat).",
+    "originCity": "Black Sea Region",
+    "city": "Black Sea Region",
+    "location": "Turkey"
   },
   {
     "id": 140,
@@ -1948,176 +2353,215 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831816/food-guessing-game/turkey/turkish-delight/turkish-delight-2.jpg"
     ],
     "imageCount": 2,
-    "lat": 38.9637,
-    "lng": 35.2433,
-    "description": "Known as 'Lokum,' this is a family of confections based on a gel of starch and sugar. Premium varieties consist of chopped dates, pistachios, or hazelnuts bound by the gel, often flavored with rosewater or lemon."
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "description": "Known as 'Lokum,' this is a family of confections based on a gel of starch and sugar. Premium varieties consist of chopped dates, pistachios, or hazelnuts bound by the gel, often flavored with rosewater or lemon.",
+    "originCity": "Istanbul",
+    "city": "Istanbul",
+    "location": "Turkey"
   },
   {
     "id": 141,
     "name": "Chicken Tikka Masala",
-    "country": "Uk",
+    "country": "UK",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831579/food-guessing-game/uk/chicken-tikka-masala/chicken-tikka-masala-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831584/food-guessing-game/uk/chicken-tikka-masala/chicken-tikka-masala-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831587/food-guessing-game/uk/chicken-tikka-masala/chicken-tikka-masala-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 55.3781,
-    "lng": -3.436,
-    "description": "Often called \"Britain's true national dish,\" Chicken Tikka Masala is a fantastic example of the country's multicultural cuisine. Legend says it was invented in Glasgow in the 1970s when a chef improvised a sauce using tomato soup and spices for a customer who found his chicken tikka too dry. It consists of roasted chunks of marinated chicken in a creamy, spiced curry sauce."
+    "lat": 55.8642,
+    "lng": -4.2518,
+    "description": "Often called \"Britain's true national dish,\" Chicken Tikka Masala is a fantastic example of the country's multicultural cuisine. Legend says it was invented in Glasgow in the 1970s when a chef improvised a sauce using tomato soup and spices for a customer who found his chicken tikka too dry. It consists of roasted chunks of marinated chicken in a creamy, spiced curry sauce.",
+    "originCity": "Glasgow, Scotland",
+    "city": "Glasgow, Scotland",
+    "location": "UK"
   },
   {
     "id": 142,
     "name": "Fish And Chips",
-    "country": "Uk",
+    "country": "UK",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831658/food-guessing-game/uk/fish-and-chips/fish-and-chips-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831686/food-guessing-game/uk/fish-and-chips/fish-and-chips-3.jpg"
     ],
     "imageCount": 2,
-    "lat": 55.3781,
-    "lng": -3.436,
-    "description": "A quintessential British takeaway meal that emerged in the 1860s. It consists of battered and deep-fried fish (traditionally cod or haddock) served with hot, thick-cut fries (chips)."
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "description": "A quintessential British takeaway meal that emerged in the 1860s. It consists of battered and deep-fried fish (traditionally cod or haddock) served with hot, thick-cut fries (chips).",
+    "originCity": "London",
+    "city": "London",
+    "location": "UK"
   },
   {
     "id": 143,
     "name": "Full English Breakfast",
-    "country": "Uk",
+    "country": "UK",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831618/food-guessing-game/uk/full-english-breakfast/full-english-breakfast-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831623/food-guessing-game/uk/full-english-breakfast/full-english-breakfast-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831630/food-guessing-game/uk/full-english-breakfast/full-english-breakfast-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 55.3781,
-    "lng": -3.436,
-    "description": "A hearty, traditional breakfast, often called a 'fry-up.' It typically includes bacon, sausages, eggs, black pudding, baked beans, tomatoes, mushrooms, and fried bread or toast."
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "description": "A hearty, traditional breakfast, often called a 'fry-up.' It typically includes bacon, sausages, eggs, black pudding, baked beans, tomatoes, mushrooms, and fried bread or toast.",
+    "originCity": "London",
+    "city": "London",
+    "location": "UK"
   },
   {
     "id": 144,
     "name": "Scones",
-    "country": "Uk",
+    "country": "UK",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831605/food-guessing-game/uk/scones/scones-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831608/food-guessing-game/uk/scones/scones-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831611/food-guessing-game/uk/scones/scones-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 55.3781,
-    "lng": -3.436,
-    "description": "A single-serving baked good, usually made of wheat or oatmeal. It's a key component of a cream tea, famously served with clotted cream and jam. The Devon vs. Cornwall debate is about which is applied first!"
+    "lat": 50.7153,
+    "lng": -3.5293,
+    "description": "A single-serving baked good, usually made of wheat or oatmeal. It's a key component of a cream tea, famously served with clotted cream and jam. The Devon vs. Cornwall debate is about which is applied first!",
+    "originCity": "Devon",
+    "city": "Devon",
+    "location": "UK"
   },
   {
     "id": 145,
     "name": "Sunday Roast",
-    "country": "Uk",
+    "country": "UK",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831635/food-guessing-game/uk/sunday-roast/sunday-roast-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831643/food-guessing-game/uk/sunday-roast/sunday-roast-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831647/food-guessing-game/uk/sunday-roast/sunday-roast-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 55.3781,
-    "lng": -3.436,
-    "description": "A traditional British main meal that is served on Sundays. It consists of roasted meat, roast potatoes, and accompaniments such as Yorkshire pudding, stuffing, vegetables, and gravy."
+    "lat": 53.959,
+    "lng": -1.0815,
+    "description": "A traditional British main meal that is served on Sundays. It consists of roasted meat, roast potatoes, and accompaniments such as Yorkshire pudding, stuffing, vegetables, and gravy.",
+    "originCity": "Yorkshire",
+    "city": "Yorkshire",
+    "location": "UK"
   },
   {
     "id": 146,
     "name": "Yorkshire Pudding",
-    "country": "Uk",
+    "country": "UK",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831590/food-guessing-game/uk/yorkshire-pudding/yorkshire-pudding-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831594/food-guessing-game/uk/yorkshire-pudding/yorkshire-pudding-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831600/food-guessing-game/uk/yorkshire-pudding/yorkshire-pudding-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 55.3781,
-    "lng": -3.436,
-    "description": "A common British side dish, this is a baked pudding made from a batter of eggs, flour, and milk or water. It's an essential part of a Sunday Roast, often served with beef and gravy."
+    "lat": 53.959,
+    "lng": -1.0815,
+    "description": "A common British side dish, this is a baked pudding made from a batter of eggs, flour, and milk or water. It's an essential part of a Sunday Roast, often served with beef and gravy.",
+    "originCity": "Yorkshire",
+    "city": "Yorkshire",
+    "location": "UK"
   },
   {
     "id": 147,
     "name": "Apple Pie",
-    "country": "Usa",
+    "country": "USA",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832705/food-guessing-game/usa/apple-pie/apple-pie-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832718/food-guessing-game/usa/apple-pie/apple-pie-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832726/food-guessing-game/usa/apple-pie/apple-pie-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.8283,
-    "lng": -98.5795,
-    "description": "Despite the saying 'as American as apple pie,' the dish originated in Europe. However, it became a symbol of American prosperity and pride, with a flaky pastry crust and a filling of sliced, spiced apples."
+    "lat": 42.4072,
+    "lng": -71.3824,
+    "description": "Despite the saying 'as American as apple pie,' the dish originated in Europe. However, it became a symbol of American prosperity and pride, with a flaky pastry crust and a filling of sliced, spiced apples.",
+    "originCity": "New England",
+    "city": "New England",
+    "location": "USA"
   },
   {
     "id": 148,
     "name": "Bbq Ribs",
-    "country": "Usa",
+    "country": "USA",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832759/food-guessing-game/usa/bbq-ribs/bbq-ribs-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832767/food-guessing-game/usa/bbq-ribs/bbq-ribs-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832777/food-guessing-game/usa/bbq-ribs/bbq-ribs-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.8283,
-    "lng": -98.5795,
-    "description": "Barbecue is a serious tradition in the American South. Memphis-style ribs are famous for being slow-cooked until tender and can be served 'wet' with a tangy tomato-based sauce or 'dry' with just a flavorful spice rub."
+    "lat": 35.1495,
+    "lng": -90.049,
+    "description": "Barbecue is a serious tradition in the American South. Memphis-style ribs are famous for being slow-cooked until tender and can be served 'wet' with a tangy tomato-based sauce or 'dry' with just a flavorful spice rub.",
+    "originCity": "Memphis, TN",
+    "city": "Memphis, TN",
+    "location": "USA"
   },
   {
     "id": 149,
     "name": "Burger",
-    "country": "Usa",
+    "country": "USA",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832849/food-guessing-game/usa/burger/burger-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832855/food-guessing-game/usa/burger/burger-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832858/food-guessing-game/usa/burger/burger-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.8283,
-    "lng": -98.5795,
-    "description": "While its exact origin is debated, the modern American hamburger is a global icon of fast food. It's a simple concept of a ground meat patty served in a sliced bun, allowing for endless variations and toppings."
+    "lat": 41.3083,
+    "lng": -72.9279,
+    "description": "While its exact origin is debated, the modern American hamburger is a global icon of fast food. It's a simple concept of a ground meat patty served in a sliced bun, allowing for endless variations and toppings.",
+    "originCity": "New Haven, CT",
+    "city": "New Haven, CT",
+    "location": "USA"
   },
   {
     "id": 150,
     "name": "Fried Chicken",
-    "country": "Usa",
+    "country": "USA",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832787/food-guessing-game/usa/fried-chicken/fried-chicken-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832796/food-guessing-game/usa/fried-chicken/fried-chicken-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832814/food-guessing-game/usa/fried-chicken/fried-chicken-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.8283,
-    "lng": -98.5795,
-    "description": "While frying chicken has ancient roots, the Southern American style, seasoned with a unique blend of spices and known for its crispy coating, was developed by both Scottish immigrants and enslaved African-Americans in the colonial era."
+    "lat": 33.749,
+    "lng": -84.388,
+    "description": "While frying chicken has ancient roots, the Southern American style, seasoned with a unique blend of spices and known for its crispy coating, was developed by both Scottish immigrants and enslaved African-Americans in the colonial era.",
+    "originCity": "Southern USA",
+    "city": "Southern USA",
+    "location": "USA"
   },
   {
     "id": 151,
     "name": "Hot Dog",
-    "country": "Usa",
+    "country": "USA",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832824/food-guessing-game/usa/hot-dog/hot-dog-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832832/food-guessing-game/usa/hot-dog/hot-dog-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832842/food-guessing-game/usa/hot-dog/hot-dog-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.8283,
-    "lng": -98.5795,
-    "description": "Popularized by German immigrants in New York in the 19th century, the hot dog is a cooked sausage served in a sliced bun. It's a staple at American sporting events and backyard cookouts."
+    "lat": 40.7128,
+    "lng": -74.006,
+    "description": "Popularized by German immigrants in New York in the 19th century, the hot dog is a cooked sausage served in a sliced bun. It's a staple at American sporting events and backyard cookouts.",
+    "originCity": "New York City, NY",
+    "city": "New York City, NY",
+    "location": "USA"
   },
   {
     "id": 152,
     "name": "Mac And Cheese",
-    "country": "Usa",
+    "country": "USA",
     "images": [
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832733/food-guessing-game/usa/mac-and-cheese/mac-and-cheese-1.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832739/food-guessing-game/usa/mac-and-cheese/mac-and-cheese-2.jpg",
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759832749/food-guessing-game/usa/mac-and-cheese/mac-and-cheese-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 39.8283,
-    "lng": -98.5795,
-    "description": "Though an old European dish, its popularity in the US can be traced to Thomas Jefferson, who served it at a state dinner. It's a classic comfort food made with macaroni pasta and a rich cheese sauce."
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "description": "Though an old European dish, its popularity in the US can be traced to Thomas Jefferson, who served it at a state dinner. It's a classic comfort food made with macaroni pasta and a rich cheese sauce.",
+    "originCity": "Philadelphia, PA",
+    "city": "Philadelphia, PA",
+    "location": "USA"
   },
   {
     "id": 153,
@@ -2129,9 +2573,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831277/food-guessing-game/vietnam/banh-mi/banh-mi-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 14.0583,
-    "lng": 108.2772,
-    "description": "A delicious legacy of French colonialism, the Banh Mi is a Vietnamese sandwich. It's served in a crispy baguette and filled with a fusion of flavors: savory meats, pickled vegetables, cilantro, and chili."
+    "lat": 10.8231,
+    "lng": 106.6297,
+    "description": "A delicious legacy of French colonialism, the Banh Mi is a Vietnamese sandwich. It's served in a crispy baguette and filled with a fusion of flavors: savory meats, pickled vegetables, cilantro, and chili.",
+    "originCity": "Saigon (Ho Chi Minh City)",
+    "city": "Saigon (Ho Chi Minh City)",
+    "location": "Vietnam"
   },
   {
     "id": 154,
@@ -2156,9 +2603,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831213/food-guessing-game/vietnam/com-tam/com-tam-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 14.0583,
-    "lng": 108.2772,
-    "description": "Meaning 'broken rice,' this was traditionally a cheaper grade of rice eaten by farmers. It's a popular dish from Southern Vietnam, served with various toppings like grilled pork chops, shredded pork skin, and a steamed egg meatloaf."
+    "lat": 10.8231,
+    "lng": 106.6297,
+    "description": "Meaning 'broken rice,' this was traditionally a cheaper grade of rice eaten by farmers. It's a popular dish from Southern Vietnam, served with various toppings like grilled pork chops, shredded pork skin, and a steamed egg meatloaf.",
+    "originCity": "Saigon (Ho Chi Minh City)",
+    "city": "Saigon (Ho Chi Minh City)",
+    "location": "Vietnam"
   },
   {
     "id": 156,
@@ -2170,9 +2620,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831222/food-guessing-game/vietnam/egg-coffee/egg-coffee-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 14.0583,
-    "lng": 108.2772,
-    "description": "Invented in the 1940s due to a milk shortage, this is a Hanoi specialty. Vietnamese robusta coffee is topped with a thick, creamy, meringue-like froth made from egg yolks whipped with sugar and condensed milk."
+    "lat": 21.0285,
+    "lng": 105.8542,
+    "description": "Invented in the 1940s due to a milk shortage, this is a Hanoi specialty. Vietnamese robusta coffee is topped with a thick, creamy, meringue-like froth made from egg yolks whipped with sugar and condensed milk.",
+    "originCity": "Hanoi",
+    "city": "Hanoi",
+    "location": "Vietnam"
   },
   {
     "id": 157,
@@ -2184,9 +2637,12 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831289/food-guessing-game/vietnam/pho/pho-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 14.0583,
-    "lng": 108.2772,
-    "description": "Vietnam's national dish, this is a noodle soup consisting of a rich, aromatic broth, rice noodles, herbs, and meat (usually beef or chicken). Its complex flavor comes from simmering bones and spices for hours."
+    "lat": 20.4344,
+    "lng": 106.1681,
+    "description": "Vietnam's national dish, this is a noodle soup consisting of a rich, aromatic broth, rice noodles, herbs, and meat (usually beef or chicken). Its complex flavor comes from simmering bones and spices for hours.",
+    "originCity": "Nam Dinh",
+    "city": "Nam Dinh",
+    "location": "Vietnam"
   },
   {
     "id": 158,
@@ -2198,8 +2654,11 @@
       "https://res.cloudinary.com/dwav84wrk/image/upload/v1759831246/food-guessing-game/vietnam/spring-rolls/spring-rolls-3.jpg"
     ],
     "imageCount": 3,
-    "lat": 14.0583,
-    "lng": 108.2772,
-    "description": "In Southern Vietnam, these are typically the fresh 'G?i cu?n' or summer rolls. Rice paper is wrapped around pork, shrimp, herbs, and vermicelli noodles, and served chilled with a peanut dipping sauce."
+    "lat": 10.8231,
+    "lng": 106.6297,
+    "description": "In Southern Vietnam, these are typically the fresh 'G?i cu?n' or summer rolls. Rice paper is wrapped around pork, shrimp, herbs, and vermicelli noodles, and served chilled with a peanut dipping sauce.",
+    "originCity": "Saigon (Ho Chi Minh City)",
+    "city": "Saigon (Ho Chi Minh City)",
+    "location": "Vietnam"
   }
 ]
