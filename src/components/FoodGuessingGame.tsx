@@ -2207,6 +2207,14 @@ export default function FoodGuessingGame() {
   }, [bellSound, bell1Sound, gameState.usedFoods, preloadedImage, selectImage, resetZoomClicks, setMapKey, updateImageHistory, setFoodImageScale, setFoodImagePosition, setFoodZoomInClicks, setFoodZoomOutClicks, setPreloadedImage, gameScreenMusic, currentBgMusic, stopCurrentMusic, setCurrentBgMusic, playMusic, refreshFoodsData]);
 
   const submitGuess = useCallback(() => {
+    console.log('🔄 submitGuess called', { 
+      hasCurrentFood: !!gameState.currentFood, 
+      hasGuessPosition: !!gameState.guessPosition,
+      gamePhase: gameState.gamePhase,
+      currentFood: gameState.currentFood,
+      guessPosition: gameState.guessPosition
+    });
+    
     if (gameState.currentFood) {
       let distanceKm = 0;
       let roundScore = 0;
@@ -2468,6 +2476,11 @@ export default function FoodGuessingGame() {
           // and not on nickname screen (where timer isn't visible)
           if (newTimeLeft === 0 && !showNicknameScreen) {
             playBell1Sound();
+            // Auto-submit when timer reaches 0
+            setTimeout(() => {
+              console.log('🔄 Auto-submitting guess due to timer reaching 0');
+              submitGuess();
+            }, 1000);
           }
           
           return {
@@ -2478,11 +2491,6 @@ export default function FoodGuessingGame() {
       }, 1000);
 
       return () => clearTimeout(timer);
-    } else if (gameState.gamePhase === 'playing' && gameState.timeLeft === 0 && !isGamePaused) {
-      // Wait 1 second before submitting guess (same as countdown 0)
-      setTimeout(() => {
-        submitGuess();
-      }, 1000);
     }
   }, [gameState.timeLeft, gameState.gamePhase, gameState.currentFood, submitGuess, hasPlayedTenSecondsSound, isGamePaused, beepSounds, playBell1Sound, showNicknameScreen]);
 
@@ -2556,10 +2564,18 @@ export default function FoodGuessingGame() {
 
   // Simple click handler with hotspot adjustment
   const handleMapClick = useCallback((event: google.maps.MapMouseEvent) => {
+    console.log('🗺️ Map clicked!', { 
+      gamePhase: gameState.gamePhase, 
+      hasLatLng: !!event.latLng,
+      latLng: event.latLng
+    });
+    
     if (gameState.gamePhase === 'playing' && event.latLng) {
       // Get the original click coordinates
       const lat = event.latLng.lat();
       const lng = event.latLng.lng();
+      
+      console.log('📍 Setting guess position:', { lat, lng });
       
       // Play map click sound for all clicks
       playMapClickSound();
@@ -2572,6 +2588,8 @@ export default function FoodGuessingGame() {
       const adjustedLat = lat - offsetDegrees; // Move down slightly
       const adjustedLng = lng; // No horizontal offset needed
       
+      console.log('📍 Adjusted guess position:', { adjustedLat, adjustedLng });
+      
       setGameState(prev => ({
         ...prev,
         guessPosition: { lat: adjustedLat, lng: adjustedLng },
@@ -2581,8 +2599,17 @@ export default function FoodGuessingGame() {
 
 
   const handleGuessNow = () => {
+    console.log('🎯 Guess button clicked!', { 
+      hasGuessPosition: !!gameState.guessPosition, 
+      guessPosition: gameState.guessPosition,
+      gamePhase: gameState.gamePhase,
+      timeLeft: gameState.timeLeft
+    });
     if (gameState.guessPosition) {
+      console.log('✅ Submitting guess...');
       submitGuess();
+    } else {
+      console.log('❌ No guess position set');
     }
   };
 
