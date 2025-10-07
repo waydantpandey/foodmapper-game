@@ -20,13 +20,13 @@ async function generateFavicon() {
     const buffers = [];
     
     for (const size of sizes) {
-      // Create a purple square background with rounded corners
+      // Create a dark purple square background with rounded corners
       const backgroundBuffer = await sharp({
         create: {
           width: size,
           height: size,
           channels: 4,
-          background: { r: 139, g: 92, b: 246, alpha: 1 } // #8B5CF6 purple
+          background: { r: 26, g: 17, b: 42, alpha: 1 } // #1A112A dark purple from nickname screen
         }
       })
       .png()
@@ -51,11 +51,10 @@ async function generateFavicon() {
       .png()
       .toBuffer();
 
-      // Resize logo to fit within the background (with some padding)
-      const logoSize = Math.floor(size * 0.7); // Logo takes 70% of the space
+      // Resize logo to full size (no reduction) - let it crop if needed
       const logoBuffer = await sharp(logoPath)
-        .resize(logoSize, logoSize, { 
-          fit: 'contain',
+        .resize(size, size, { 
+          fit: 'cover', // Use cover to fill the entire space, cropping if needed
           background: { r: 0, g: 0, b: 0, alpha: 0 }
         })
         .png()
