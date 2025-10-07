@@ -20,11 +20,59 @@ async function generateFavicon() {
     const buffers = [];
     
     for (const size of sizes) {
-      const buffer = await sharp(logoPath)
-        .resize(size, size, { 
+      // Create a purple square background with rounded corners
+      const backgroundBuffer = await sharp({
+        create: {
+          width: size,
+          height: size,
+          channels: 4,
+          background: { r: 139, g: 92, b: 246, alpha: 1 } // #8B5CF6 purple
+        }
+      })
+      .png()
+      .toBuffer();
+
+      // Create rounded corners mask
+      const roundedMask = await sharp({
+        create: {
+          width: size,
+          height: size,
+          channels: 4,
+          background: { r: 0, g: 0, b: 0, alpha: 0 }
+        }
+      })
+      .composite([{
+        input: Buffer.from(`<svg width="${size}" height="${size}">
+          <rect width="${size}" height="${size}" rx="${size * 0.15}" ry="${size * 0.15}" fill="white"/>
+        </svg>`),
+        top: 0,
+        left: 0
+      }])
+      .png()
+      .toBuffer();
+
+      // Resize logo to fit within the background (with some padding)
+      const logoSize = Math.floor(size * 0.7); // Logo takes 70% of the space
+      const logoBuffer = await sharp(logoPath)
+        .resize(logoSize, logoSize, { 
           fit: 'contain',
-          background: { r: 0, g: 0, b: 0, alpha: 0 } // Transparent background
+          background: { r: 0, g: 0, b: 0, alpha: 0 }
         })
+        .png()
+        .toBuffer();
+
+      // Composite: background + logo + rounded mask
+      const buffer = await sharp(backgroundBuffer)
+        .composite([
+          {
+            input: logoBuffer,
+            gravity: 'center'
+          },
+          {
+            input: roundedMask,
+            blend: 'dest-in'
+          }
+        ])
         .png()
         .toBuffer();
       
