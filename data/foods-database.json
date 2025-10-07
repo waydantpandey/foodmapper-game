@@ -10,7 +10,8 @@
     ],
     "imageCount": 3,
     "lat": -38.4161,
-    "lng": -63.6167
+    "lng": -63.6167,
+    "description": "More than just a barbecue, Asado is the heart of Argentine social life. It involves slow-cooking various cuts of beef and sausages over hot coals on a grill called a 'parrilla'."
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     ],
     "imageCount": 3,
     "lat": -38.4161,
-    "lng": -63.6167
+    "lng": -63.6167,
+    "description": "An uncooked, herb-based sauce that is the essential accompaniment to an Asado. It's made of finely chopped parsley, minced garlic, olive oil, oregano, and red wine vinegar."
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     ],
     "imageCount": 3,
     "lat": -38.4161,
-    "lng": -63.6167
+    "lng": -63.6167,
+    "description": "A thick, sweet, caramel-like sauce made by slowly heating sweetened milk. It's a national obsession, used as a spread for toast and a filling for countless desserts and pastries."
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     ],
     "imageCount": 3,
     "lat": -38.4161,
-    "lng": -63.6167
+    "lng": -63.6167,
+    "description": "These stuffed pastries are a staple across the country, with each province having its own signature version. Salta is famous for its small, juicy, and flavorful baked empanadas."
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     ],
     "imageCount": 3,
     "lat": -38.4161,
-    "lng": -63.6167
+    "lng": -63.6167,
+    "description": "A thin slice of beef that is breaded and fried. The 'Milanesa a la Napolitana' is a popular variation, topped with ham, tomato sauce, and melted mozzarella cheese."
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     ],
     "imageCount": 3,
     "lat": -38.4161,
-    "lng": -63.6167
+    "lng": -63.6167,
+    "description": "A popular appetizer at an Asado, this is Argentina's version of grilled provolone cheese. A thick slice of cheese is cooked on the grill until it's crispy on the outside and melted on the inside, then seasoned with herbs."
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     ],
     "imageCount": 3,
     "lat": -25.2744,
-    "lng": 133.7751
+    "lng": 133.7751,
+    "description": "A species of sea bass native to Australia and the Indo-Pacific. Its firm, white, flaky flesh and mild flavor make it a popular fish, often served grilled or pan-fried with lemon."
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     ],
     "imageCount": 3,
     "lat": -25.2744,
-    "lng": 133.7751
+    "lng": 133.7751,
+    "description": "A classic Australian cake, believed to be named after Lord Lamington, a former Governor of Queensland. It's a square of sponge cake coated in a layer of chocolate icing and rolled in desiccated coconut."
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     ],
     "imageCount": 3,
     "lat": -25.2744,
-    "lng": 133.7751
+    "lng": 133.7751,
+    "description": "An iconic Australian food, this hand-sized pie is filled with minced meat and gravy. It's a staple at sporting events and is often enjoyed with a generous dollop of tomato sauce (ketchup)."
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     ],
     "imageCount": 3,
     "lat": -25.2744,
-    "lng": 133.7751
+    "lng": 133.7751,
+    "description": "The subject of a long-standing culinary debate with New Zealand, Pavlova is a meringue dessert with a crisp crust and soft, marshmallowy inside, topped with whipped cream and fruit."
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     ],
     "imageCount": 3,
     "lat": -14.235,
-    "lng": -51.9253
+    "lng": -51.9253,
+    "description": "Brazil's favorite homemade treat, created in the 1940s. These are simple chocolate truffles made by simmering condensed milk, cocoa powder, and butter, then rolled into balls and covered in chocolate sprinkles."
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     ],
     "imageCount": 3,
     "lat": -14.235,
-    "lng": -51.9253
+    "lng": -51.9253,
+    "description": "The Brazilian style of barbecue, originating with the gaúchos (cowboys) of Southern Brazil. It involves grilling various cuts of meat on long skewers over hot coals, often seasoned with just coarse salt to let the meat's flavor shine."
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     ],
     "imageCount": 3,
     "lat": -14.235,
-    "lng": -51.9253
+    "lng": -51.9253,
+    "description": "A popular Brazilian street food, this is a savory dough, shaped into a chicken leg, which is battered and fried. It's filled with shredded, seasoned chicken meat and sometimes creamy catupiry cheese."
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     ],
     "imageCount": 3,
     "lat": -14.235,
-    "lng": -51.9253
+    "lng": -51.9253,
+    "description": "Considered Brazil's national dish, Feijoada is a rich stew of black beans with a variety of salted and smoked pork and beef products. It's a hearty, celebratory meal often served with rice and collard greens."
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     ],
     "imageCount": 3,
     "lat": -14.235,
-    "lng": -51.9253
+    "lng": -51.9253,
+    "description": "A vibrant and fragrant fish stew from the Bahia region. Its distinctive flavor comes from slowly cooking fish or seafood in a coconut milk and palm oil (dendê) base with tomatoes, onions, and peppers."
   },
   {
     "id": 16,
@@ -218,7 +233,8 @@
     ],
     "imageCount": 3,
     "lat": 56.1304,
-    "lng": -106.3468
+    "lng": -106.3468,
+    "description": "A quintessential Canadian dessert. It's a small pastry tart with a semi-solid filling made from butter, sugar, syrup, and egg. The great Canadian debate is whether they should contain raisins or not."
   },
   {
     "id": 18,
@@ -231,7 +247,8 @@
     ],
     "imageCount": 3,
     "lat": 56.1304,
-    "lng": -106.3468
+    "lng": -106.3468,
+    "description": "While pancakes are global, pancakes drenched in real Canadian maple syrup, produced primarily in Quebec, are a national ritual. Maple taffy, made by pouring hot syrup on snow, is another classic treat."
   },
   {
     "id": 19,
@@ -244,7 +261,8 @@
     ],
     "imageCount": 3,
     "lat": 56.1304,
-    "lng": -106.3468
+    "lng": -106.3468,
+    "description": "Canada's most famous comfort food, originating from rural Quebec. It consists of french fries and fresh cheese curds, all topped with a rich brown gravy. The curds should be 'squeaky' and soften but not fully melt."
   },
   {
     "id": 20,
@@ -257,7 +275,8 @@
     ],
     "imageCount": 3,
     "lat": 35.8617,
-    "lng": 104.1954
+    "lng": 104.1954,
+    "description": "A Cantonese style of brunch involving small, bite-sized portions of food served in steamer baskets or on small plates. It's a social occasion meant for sharing a wide variety of dumplings, buns, and rolls."
   },
   {
     "id": 21,
@@ -270,7 +289,8 @@
     ],
     "imageCount": 3,
     "lat": 35.8617,
-    "lng": 104.1954
+    "lng": 104.1954,
+    "description": "An ancient dish born from the need to use leftover rice. Yangzhou fried rice is one of the most famous varieties, featuring a mix of ingredients like shrimp, scrambled egg, and diced meats all stir-fried together."
   },
   {
     "id": 22,
@@ -283,7 +303,8 @@
     ],
     "imageCount": 3,
     "lat": 35.8617,
-    "lng": 104.1954
+    "lng": 104.1954,
+    "description": "A classic spicy, stir-fried dish from Sichuan province. It features diced chicken, peanuts, vegetables, and chili peppers, all tossed in a sauce that balances salty, sweet, and Sichuan peppercorn's unique numbing spiciness."
   },
   {
     "id": 23,
@@ -296,7 +317,8 @@
     ],
     "imageCount": 3,
     "lat": 35.8617,
-    "lng": 104.1954
+    "lng": 104.1954,
+    "description": "A famous dish from Beijing that was once reserved for emperors. It's prized for its thin, crispy skin, which is achieved through a meticulous preparation process before roasting. It's typically served with pancakes and hoisin sauce."
   },
   {
     "id": 24,
@@ -309,7 +331,8 @@
     ],
     "imageCount": 3,
     "lat": 35.8617,
-    "lng": 104.1954
+    "lng": 104.1954,
+    "description": "A traditional appetizer for the Chinese New Year, symbolizing wealth and prosperity. These are savory rolls filled with shredded vegetables and sometimes meat, wrapped in a thin pastry and fried until golden and crispy."
   },
   {
     "id": 25,
@@ -322,7 +345,8 @@
     ],
     "imageCount": 3,
     "lat": 35.8617,
-    "lng": 104.1954
+    "lng": 104.1954,
+    "description": "A classic Cantonese dish that has become a staple in Chinese restaurants worldwide. It consists of deep-fried pork pieces tossed in a bright sauce made from sugar, ketchup, white vinegar, and soy sauce."
   },
   {
     "id": 26,
@@ -335,7 +359,8 @@
     ],
     "imageCount": 3,
     "lat": 26.0975,
-    "lng": 30.0444
+    "lng": 30.0444,
+    "description": "Popular throughout the former Ottoman territories, Egyptian baklava, often called 'gollash,' is typically filled with a simple nut mixture and soaked in a fragrant sugar syrup ('attar')."
   },
   {
     "id": 27,
@@ -348,7 +373,8 @@
     ],
     "imageCount": 3,
     "lat": 26.0975,
-    "lng": 30.0444
+    "lng": 30.0444,
+    "description": "In Egypt, falafel is known as 'Ta'ameya' and is distinctly made from fava beans rather than chickpeas. This gives it a lighter, fluffier texture and a green interior. It's a staple breakfast food."
   },
   {
     "id": 28,
@@ -361,7 +387,8 @@
     ],
     "imageCount": 3,
     "lat": 26.0975,
-    "lng": 30.0444
+    "lng": 30.0444,
+    "description": "A celebratory dish, especially for Eid al-Adha. It consists of layers of toasted flatbread, rice, and a tomato or vinegar-based sauce, often topped with pieces of boiled lamb or beef."
   },
   {
     "id": 29,
@@ -374,7 +401,8 @@
     ],
     "imageCount": 3,
     "lat": 26.0975,
-    "lng": 30.0444
+    "lng": 30.0444,
+    "description": "Egypt's national dish and a beloved street food. It's a unique and hearty mix of rice, macaroni, and lentils, topped with a spicy tomato sauce, garlic vinegar, chickpeas, and crispy fried onions."
   },
   {
     "id": 30,
@@ -387,7 +415,8 @@
     ],
     "imageCount": 3,
     "lat": 26.0975,
-    "lng": 30.0444
+    "lng": 30.0444,
+    "description": "A traditional dish made from the leaves of the jute plant, which are chopped and cooked into a thick, somewhat slimy green soup or stew. It's an ancient dish often served with rice or bread."
   },
   {
     "id": 31,
@@ -400,7 +429,8 @@
     ],
     "imageCount": 3,
     "lat": 26.0975,
-    "lng": 30.0444
+    "lng": 30.0444,
+    "description": "Though Levantine in origin, shawarma is an extremely popular street food in Egypt. Meat is stacked on a vertical spit and slow-roasted, with thin slices shaved off and served in a flatbread."
   },
   {
     "id": 32,
@@ -413,7 +443,8 @@
     ],
     "imageCount": 3,
     "lat": 46.2276,
-    "lng": 2.2137
+    "lng": 2.2137,
+    "description": "A long, thin loaf of French bread that is an icon of French culture. Its crispy crust and soft, chewy interior are the result of a simple recipe of flour, water, yeast, and salt, with its quality protected by French law."
   },
   {
     "id": 33,
@@ -426,7 +457,8 @@
     ],
     "imageCount": 3,
     "lat": 46.2276,
-    "lng": 2.2137
+    "lng": 2.2137,
+    "description": "A classic French stew meaning 'rooster in wine.' It involves slow-braising chicken (traditionally a tough old rooster) in red wine, usually Burgundy, with mushrooms, onions, and lardons (bacon)."
   },
   {
     "id": 34,
@@ -439,7 +471,8 @@
     ],
     "imageCount": 3,
     "lat": 46.2276,
-    "lng": 2.2137
+    "lng": 2.2137,
+    "description": "Though it has roots in Vienna, Austria (the kipferl), this buttery, flaky pastry was perfected in Paris. It's a viennoiserie pastry made from a layered yeast-leavened dough, creating its signature crescent shape."
   },
   {
     "id": 35,
@@ -465,7 +498,8 @@
     ],
     "imageCount": 3,
     "lat": 46.2276,
-    "lng": 2.2137
+    "lng": 2.2137,
+    "description": "A sweet meringue-based confection made with egg white, icing sugar, granulated sugar, and almond powder. The Parisian-style macaron consists of two cookies filled with ganache or buttercream, popularized by the bakery Ladurée."
   },
   {
     "id": 37,
@@ -478,7 +512,8 @@
     ],
     "imageCount": 3,
     "lat": 46.2276,
-    "lng": 2.2137
+    "lng": 2.2137,
+    "description": "A rustic vegetable stew from the Provence region, famously associated with Nice. It's a bright and flavorful dish made with tomatoes, zucchini, eggplant, bell peppers, and onions, all slow-cooked in olive oil."
   },
   {
     "id": 38,
@@ -491,7 +526,8 @@
     ],
     "imageCount": 3,
     "lat": 51.1657,
-    "lng": 10.4515
+    "lng": 10.4515,
+    "description": "A famous German dessert, its name is 'Schwarzwälder Kirschtorte.' It consists of several layers of chocolate sponge cake with whipped cream and cherries, decorated with more cream, maraschino cherries, and chocolate shavings."
   },
   {
     "id": 39,
@@ -504,7 +540,8 @@
     ],
     "imageCount": 3,
     "lat": 51.1657,
-    "lng": 10.4515
+    "lng": 10.4515,
+    "description": "A type of German sausage made from veal, beef, or most commonly pork. The small, thin Nürnberger Rostbratwurst, seasoned with marjoram, is a famous regional variety."
   },
   {
     "id": 40,
@@ -517,7 +554,8 @@
     ],
     "imageCount": 3,
     "lat": 51.1657,
-    "lng": 10.4515
+    "lng": 10.4515,
+    "description": "German potato salad. Unlike the mayonnaise-based American version, the Southern German style (Schwäbischer Kartoffelsalat) is typically served warm and dressed with a vinaigrette made of vinegar, oil, and beef broth."
   },
   {
     "id": 41,
@@ -530,7 +568,8 @@
     ],
     "imageCount": 3,
     "lat": 51.1657,
-    "lng": 10.4515
+    "lng": 10.4515,
+    "description": "A baked pastry made from dough that is commonly shaped into a knot. The traditional German pretzel has a distinctive chewy texture and is often sprinkled with coarse salt."
   },
   {
     "id": 42,
@@ -543,7 +582,8 @@
     ],
     "imageCount": 3,
     "lat": 51.1657,
-    "lng": 10.4515
+    "lng": 10.4515,
+    "description": "Meaning 'sour cabbage,' this is finely cut raw cabbage that has been fermented by lactic acid bacteria. It's a traditional side dish, often served with pork dishes and sausages."
   },
   {
     "id": 43,
@@ -556,7 +596,8 @@
     ],
     "imageCount": 3,
     "lat": 51.1657,
-    "lng": 10.4515
+    "lng": 10.4515,
+    "description": "While Wiener Schnitzel is Austrian, the concept of a breaded meat cutlet is a staple in Germany. A German Schnitzel is typically made with pork, pounded thin, breaded, and fried until golden."
   },
   {
     "id": 44,
@@ -569,7 +610,8 @@
     ],
     "imageCount": 3,
     "lat": 39.0742,
-    "lng": 21.8243
+    "lng": 21.8243,
+    "description": "While part of a shared Ottoman heritage, Greek baklava is distinct. It's typically made with a honey-based syrup scented with cinnamon and cloves, and the filling is often rich with walnuts."
   },
   {
     "id": 45,
@@ -582,7 +624,8 @@
     ],
     "imageCount": 3,
     "lat": 39.0742,
-    "lng": 21.8243
+    "lng": 21.8243,
+    "description": "Known in Greece as 'Horiatiki' (village salad), the authentic version consists of tomatoes, cucumbers, onions, feta cheese, and olives, typically seasoned with salt and oregano and dressed with olive oil."
   },
   {
     "id": 46,
@@ -595,7 +638,8 @@
     ],
     "imageCount": 3,
     "lat": 39.0742,
-    "lng": 21.8243
+    "lng": 21.8243,
+    "description": "Similar to the Turkish Döner kebab, a gyro is meat (usually pork or chicken in Greece) cooked on a vertical rotisserie. The meat is sliced off and served wrapped in a pita with tomato, onion, and tzatziki sauce."
   },
   {
     "id": 47,
@@ -608,7 +652,8 @@
     ],
     "imageCount": 3,
     "lat": 39.0742,
-    "lng": 21.8243
+    "lng": 21.8243,
+    "description": "The iconic Greek baked dish, though its modern version was created in the 1920s. It consists of layers of savory minced lamb, sautéed eggplant or potato, and a rich tomato sauce, all topped with a creamy Béchamel sauce."
   },
   {
     "id": 48,
@@ -621,7 +666,8 @@
     ],
     "imageCount": 3,
     "lat": 39.0742,
-    "lng": 21.8243
+    "lng": 21.8243,
+    "description": "A popular Greek fast food consisting of small pieces of meat, and sometimes vegetables, grilled on a skewer. It can be eaten directly off the skewer or served in a pita wrap with toppings and tzatziki sauce."
   },
   {
     "id": 49,
@@ -634,7 +680,8 @@
     ],
     "imageCount": 3,
     "lat": 39.0742,
-    "lng": 21.8243
+    "lng": 21.8243,
+    "description": "A creamy and refreshing dip or sauce made from salted strained yogurt mixed with cucumbers, garlic, olive oil, salt, and usually a touch of vinegar or lemon juice. It's an essential part of Greek meze."
   },
   {
     "id": 50,
@@ -647,7 +694,8 @@
     ],
     "imageCount": 3,
     "lat": 20.5937,
-    "lng": 78.9629
+    "lng": 78.9629,
+    "description": "While its origins are traced to the Mughal Empire, Hyderabadi Biryani is iconic. It's a magnificent one-pot dish of fragrant basmati rice and marinated meat, slow-cooked with saffron, herbs, and spices."
   },
   {
     "id": 51,
@@ -660,7 +708,8 @@
     ],
     "imageCount": 3,
     "lat": 20.5937,
-    "lng": 78.9629
+    "lng": 78.9629,
+    "description": "Invented somewhat by accident in the 1950s at the Moti Mahal restaurant in Delhi, this world-famous dish features tandoori chicken simmered in a rich, mildly spiced tomato and butter (makhan) gravy."
   },
   {
     "id": 52,
@@ -673,7 +722,8 @@
     ],
     "imageCount": 3,
     "lat": 20.5937,
-    "lng": 78.9629
+    "lng": 78.9629,
+    "description": "A classic Punjabi dish especially popular in Delhi, this is a hearty combination of a spicy chickpea curry (Chole) served with a fluffy, deep-fried bread called Bhature."
   },
   {
     "id": 53,
@@ -686,7 +736,8 @@
     ],
     "imageCount": 3,
     "lat": 20.5937,
-    "lng": 78.9629
+    "lng": 78.9629,
+    "description": "A staple from Southern India, the Masala Dosa is a thin, crispy crepe made from fermented rice and lentil batter, filled with a savory spiced potato mixture and served with chutney and sambar."
   },
   {
     "id": 54,
@@ -699,7 +750,8 @@
     ],
     "imageCount": 3,
     "lat": 20.5937,
-    "lng": 78.9629
+    "lng": 78.9629,
+    "description": "A vegetarian delight, this dish consists of chunks of paneer (Indian cheese) marinated in spices and yogurt, then threaded onto skewers with vegetables and grilled in a tandoor oven."
   },
   {
     "id": 55,
@@ -712,7 +764,8 @@
     ],
     "imageCount": 3,
     "lat": 20.5937,
-    "lng": 78.9629
+    "lng": 78.9629,
+    "description": "This beloved triangular pastry, with origins in the Middle East, is a quintessential Indian snack. It's typically stuffed with a savory mixture of spiced potatoes, onions, and peas before being deep-fried to golden perfection."
   },
   {
     "id": 56,
@@ -725,7 +778,8 @@
     ],
     "imageCount": 3,
     "lat": -0.7893,
-    "lng": 113.9213
+    "lng": 113.9213,
+    "description": "A popular Indonesian meatball soup, famously sold from street carts. The meatballs are made from ground beef and tapioca flour, giving them a firm, bouncy texture, and are served in a hot broth with noodles and vegetables."
   },
   {
     "id": 57,
@@ -751,7 +805,8 @@
     ],
     "imageCount": 3,
     "lat": -0.7893,
-    "lng": 113.9213
+    "lng": 113.9213,
+    "description": "Indonesia's national dish, meaning 'fried rice.' It's a flavorful and smoky version of fried rice, distinguished by its use of sweet soy sauce (kecap manis), shrimp paste, and various garnishes like a fried egg and pickled vegetables."
   },
   {
     "id": 59,
@@ -764,7 +819,8 @@
     ],
     "imageCount": 3,
     "lat": -0.7893,
-    "lng": 113.9213
+    "lng": 113.9213,
+    "description": "Originating from the Minangkabau people, Rendang is a rich and aromatic slow-cooked meat dish. Beef is braised for hours in coconut milk and a complex spice paste until the liquid evaporates and the meat is tender."
   },
   {
     "id": 60,
@@ -777,7 +833,8 @@
     ],
     "imageCount": 3,
     "lat": -0.7893,
-    "lng": 113.9213
+    "lng": 113.9213,
+    "description": "While satay is found everywhere, it's believed to have originated on the island of Java. Skewered and grilled meats are served with a spicy peanut sauce, and each region has its own unique variation."
   },
   {
     "id": 61,
@@ -790,7 +847,8 @@
     ],
     "imageCount": 3,
     "lat": -0.7893,
-    "lng": 113.9213
+    "lng": 113.9213,
+    "description": "A traditional Indonesian soup composed of broth, meat, and vegetables. There are countless regional variations, with Soto Ayam (chicken soto) being one of the most popular, often served with rice cakes and a hard-boiled egg."
   },
   {
     "id": 62,
@@ -803,7 +861,8 @@
     ],
     "imageCount": 3,
     "lat": 32.4279,
-    "lng": 53.688
+    "lng": 53.688,
+    "description": "While kebabs are common throughout the Middle East, 'Kebab Koobideh' is a signature Iranian style. It's made from ground lamb, beef, or chicken mixed with chopped onions, grilled on a wide, flat skewer."
   },
   {
     "id": 63,
@@ -816,7 +875,8 @@
     ],
     "imageCount": 3,
     "lat": 31.0461,
-    "lng": 34.8516
+    "lng": 34.8516,
+    "description": "Savory pastries made of flaky dough with various fillings, with roots in the cuisine of Balkan and Turkish Jews. Popular fillings include cheese, mashed potatoes, and spinach."
   },
   {
     "id": 64,
@@ -829,7 +889,8 @@
     ],
     "imageCount": 3,
     "lat": 31.0461,
-    "lng": 34.8516
+    "lng": 34.8516,
+    "description": "An iconic Israeli street food, these deep-fried balls are made from ground chickpeas, herbs, and spices. They are most famously served stuffed inside a pita pocket with hummus, salad, and tahini sauce."
   },
   {
     "id": 65,
@@ -842,7 +903,8 @@
     ],
     "imageCount": 3,
     "lat": 31.0461,
-    "lng": 34.8516
+    "lng": 34.8516,
+    "description": "While a staple across the Middle East, hummus is a cornerstone of Israeli cuisine. It's a creamy dip of chickpeas and tahini, and in Israel, it's often served as a main dish, topped with olive oil, paprika, and whole chickpeas."
   },
   {
     "id": 66,
@@ -855,7 +917,8 @@
     ],
     "imageCount": 3,
     "lat": 31.0461,
-    "lng": 34.8516
+    "lng": 34.8516,
+    "description": "A creamy, milk-based pudding with a texture similar to panna cotta, with roots in Persian cuisine. It's typically flavored with rosewater and served chilled, topped with a sweet syrup and chopped nuts."
   },
   {
     "id": 67,
@@ -868,7 +931,8 @@
     ],
     "imageCount": 3,
     "lat": 31.0461,
-    "lng": 34.8516
+    "lng": 34.8516,
+    "description": "A sandwich brought to Israel by Iraqi Jewish immigrants. It consists of a pita stuffed with fried eggplant, hard-boiled eggs, hummus, tahini, and an Israeli salad. It's a popular street food, especially in Tel Aviv."
   },
   {
     "id": 68,
@@ -881,7 +945,8 @@
     ],
     "imageCount": 3,
     "lat": 31.0461,
-    "lng": 34.8516
+    "lng": 34.8516,
+    "description": "Though North African in origin, shakshuka is an immensely popular dish in Israel. It features eggs poached in a flavorful and spicy tomato, pepper, and onion sauce, often seasoned with cumin. It's typically eaten for breakfast."
   },
   {
     "id": 69,
@@ -894,7 +959,8 @@
     ],
     "imageCount": 3,
     "lat": 41.8719,
-    "lng": 12.5674
+    "lng": 12.5674,
+    "description": "Italian ice cream, which was popularized by Bernardo Buontalenti in Florence during the Renaissance. Gelato has a lower fat content and is served at a warmer temperature than regular ice cream, giving it a denser, more intense flavor."
   },
   {
     "id": 70,
@@ -907,7 +973,8 @@
     ],
     "imageCount": 3,
     "lat": 41.8719,
-    "lng": 12.5674
+    "lng": 12.5674,
+    "description": "Dating back to the Middle Ages, this beloved baked dish from the Emilia-Romagna region consists of wide, flat pasta sheets layered with ragù (a slow-cooked meat sauce), Béchamel sauce, and Parmesan cheese."
   },
   {
     "id": 71,
@@ -920,7 +987,8 @@
     ],
     "imageCount": 3,
     "lat": 41.8719,
-    "lng": 12.5674
+    "lng": 12.5674,
+    "description": "A classic Roman pasta dish, its name is believed to come from 'carbonaro' (charcoal burner). It gets its creamy texture not from cream, but from a rich sauce of raw eggs, Pecorino Romano cheese, black pepper, and cured pork (guanciale)."
   },
   {
     "id": 72,
@@ -933,7 +1001,8 @@
     ],
     "imageCount": 3,
     "lat": 41.8719,
-    "lng": 12.5674
+    "lng": 12.5674,
+    "description": "Originating in Naples as a simple, affordable food for the working class, pizza has become a global phenomenon. The Neapolitan style, with its soft, chewy crust, is protected by UNESCO as a cultural heritage item."
   },
   {
     "id": 73,
@@ -946,7 +1015,8 @@
     ],
     "imageCount": 3,
     "lat": 41.8719,
-    "lng": 12.5674
+    "lng": 12.5674,
+    "description": "A northern Italian rice dish cooked in broth to a creamy consistency. The famous Risotto alla Milanese is known for its distinct yellow color, which comes from the addition of saffron."
   },
   {
     "id": 74,
@@ -959,7 +1029,8 @@
     ],
     "imageCount": 3,
     "lat": 41.8719,
-    "lng": 12.5674
+    "lng": 12.5674,
+    "description": "Meaning 'pick me up,' this famous coffee-flavored dessert was invented in the 1960s. It consists of ladyfinger biscuits dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, and dusted with cocoa."
   },
   {
     "id": 75,
@@ -972,7 +1043,8 @@
     ],
     "imageCount": 3,
     "lat": 36.2048,
-    "lng": 138.2529
+    "lng": 138.2529,
+    "description": "An essential part of a traditional Japanese meal, this soup is made from a stock called 'dashi' into which softened miso paste is mixed. Tofu, seaweed, and other seasonal ingredients are often added."
   },
   {
     "id": 76,
@@ -985,7 +1057,8 @@
     ],
     "imageCount": 3,
     "lat": 36.2048,
-    "lng": 138.2529
+    "lng": 138.2529,
+    "description": "A savory Japanese pancake, its name means 'grilled as you like it.' It's made from a wheat-flour batter mixed with cabbage and other ingredients, cooked on a griddle, and topped with a special sauce, mayonnaise, and bonito flakes."
   },
   {
     "id": 77,
@@ -998,7 +1071,8 @@
     ],
     "imageCount": 3,
     "lat": 36.2048,
-    "lng": 138.2529
+    "lng": 138.2529,
+    "description": "A noodle soup dish adapted from Chinese cuisine that has become a Japanese obsession. It consists of Chinese-style wheat noodles served in a rich broth, often flavored with soy sauce or miso, and topped with various ingredients."
   },
   {
     "id": 78,
@@ -1011,7 +1085,8 @@
     ],
     "imageCount": 3,
     "lat": 36.2048,
-    "lng": 138.2529
+    "lng": 138.2529,
+    "description": "Originating as a way to preserve fish in fermented rice, sushi evolved in Edo-period Japan into a culinary art. It refers to dishes made with vinegared rice, often paired with raw seafood and other ingredients."
   },
   {
     "id": 79,
@@ -1024,7 +1099,8 @@
     ],
     "imageCount": 3,
     "lat": 36.2048,
-    "lng": 138.2529
+    "lng": 138.2529,
+    "description": "A dish of lightly battered and deep-fried seafood and vegetables, introduced to Japan by Portuguese missionaries in the 16th century. The batter is kept light and cold to create a distinctively crispy texture."
   },
   {
     "id": 80,
@@ -1037,7 +1113,8 @@
     ],
     "imageCount": 3,
     "lat": 36.2048,
-    "lng": 138.2529
+    "lng": 138.2529,
+    "description": "A type of thick, chewy noodle made from wheat flour. Udon can be served in many ways, from hot in a savory broth to chilled with a dipping sauce, making it a versatile and comforting meal."
   },
   {
     "id": 81,
@@ -1050,7 +1127,8 @@
     ],
     "imageCount": 3,
     "lat": 35.9078,
-    "lng": 127.7669
+    "lng": 127.7669,
+    "description": "Meaning 'mixed rice,' this is a vibrant and healthy Korean dish. It's a bowl of warm rice topped with an array of seasoned vegetables, chili paste, a fried egg, and sliced meat, meant to be mixed together before eating."
   },
   {
     "id": 82,
@@ -1063,7 +1141,8 @@
     ],
     "imageCount": 3,
     "lat": 35.9078,
-    "lng": 127.7669
+    "lng": 127.7669,
+    "description": "Meaning 'fire meat,' bulgogi is made of thin, marinated slices of beef or pork grilled on a barbecue. The marinade is typically a sweet and savory mixture of soy sauce, sugar, and pear juice."
   },
   {
     "id": 83,
@@ -1076,7 +1155,8 @@
     ],
     "imageCount": 3,
     "lat": 35.9078,
-    "lng": 127.7669
+    "lng": 127.7669,
+    "description": "A savory and slightly sweet dish of stir-fried glass noodles and vegetables that is popular at Korean celebrations. The noodles are made from sweet potato starch, giving them a distinctively chewy texture."
   },
   {
     "id": 84,
@@ -1089,7 +1169,8 @@
     ],
     "imageCount": 3,
     "lat": 35.9078,
-    "lng": 127.7669
+    "lng": 127.7669,
+    "description": "The national dish of Korea, kimchi is a traditional side of salted and fermented vegetables, most famously napa cabbage and Korean radishes, seasoned with spices like gochugaru (chili powder)."
   },
   {
     "id": 85,
@@ -1102,7 +1183,8 @@
     ],
     "imageCount": 3,
     "lat": 35.9078,
-    "lng": 127.7669
+    "lng": 127.7669,
+    "description": "A popular Korean BBQ dish, its name means 'three-layer flesh,' referring to the layers of fat and meat in pork belly. Slices of pork belly are grilled at the diner's table and eaten with various dipping sauces and sides."
   },
   {
     "id": 86,
@@ -1115,7 +1197,8 @@
     ],
     "imageCount": 3,
     "lat": 35.9078,
-    "lng": 127.7669
+    "lng": 127.7669,
+    "description": "A popular Korean street food made from small, cylindrical rice cakes (tteok). They are stir-fried in a fiery gochujang (chili paste) sauce, often with fish cakes and scallions."
   },
   {
     "id": 87,
@@ -1128,7 +1211,8 @@
     ],
     "imageCount": 3,
     "lat": 33.8547,
-    "lng": 35.8623
+    "lng": 35.8623,
+    "description": "Lebanese baklava is known for being less syrupy than other regional versions. It's made with layers of filo pastry, filled with nuts, and sweetened with a fragrant sugar syrup ('attar') infused with rosewater or orange blossom water."
   },
   {
     "id": 88,
@@ -1141,7 +1225,8 @@
     ],
     "imageCount": 3,
     "lat": 33.8547,
-    "lng": 35.8623
+    "lng": 35.8623,
+    "description": "A Levantine 'bread salad' made from toasted or fried pieces of khubz (flatbread) combined with mixed greens and other vegetables, such as radishes and tomatoes. It's dressed with a zesty sumac vinaigrette."
   },
   {
     "id": 89,
@@ -1154,7 +1239,8 @@
     ],
     "imageCount": 3,
     "lat": 33.8547,
-    "lng": 35.8623
+    "lng": 35.8623,
+    "description": "A staple of Lebanese and Middle Eastern cuisine, this is a smooth, creamy dip made from cooked, mashed chickpeas blended with tahini (sesame paste), lemon juice, and garlic."
   },
   {
     "id": 90,
@@ -1167,7 +1253,8 @@
     ],
     "imageCount": 3,
     "lat": 33.8547,
-    "lng": 35.8623
+    "lng": 35.8623,
+    "description": "The national dish of Lebanon, Kibbeh is a family of dishes made of bulgur, minced onions, and finely ground lean beef or lamb. Kibbeh Nayyeh (raw kibbeh) is a famous meze dish."
   },
   {
     "id": 91,
@@ -1180,7 +1267,8 @@
     ],
     "imageCount": 3,
     "lat": 33.8547,
-    "lng": 35.8623
+    "lng": 35.8623,
+    "description": "Cubes of chicken that are marinated in a mixture of yogurt, lemon juice, and garlic, then skewered and grilled. It's a popular barbecue and sandwich dish."
   },
   {
     "id": 92,
@@ -1193,7 +1281,8 @@
     ],
     "imageCount": 3,
     "lat": 33.8547,
-    "lng": 35.8623
+    "lng": 35.8623,
+    "description": "A vibrant Levantine vegetarian salad. Authentic Lebanese tabbouleh is primarily made of finely chopped parsley, with tomatoes, mint, onion, and a small amount of bulgur, dressed simply with olive oil and lemon juice."
   },
   {
     "id": 93,
@@ -1206,7 +1295,8 @@
     ],
     "imageCount": 3,
     "lat": 4.2105,
-    "lng": 101.9758
+    "lng": 101.9758,
+    "description": "The national dish of Malaysia. Its name, 'fatty rice,' refers to the fragrant rice cooked in coconut milk and pandan leaf. It's served with a spicy sambal, fried anchovies, peanuts, and a hard-boiled egg."
   },
   {
     "id": 94,
@@ -1219,7 +1309,8 @@
     ],
     "imageCount": 3,
     "lat": 23.6345,
-    "lng": -102.5528
+    "lng": -102.5528,
+    "description": "A popular dish from Northern Mexico, the name means 'little donkey.' It consists of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients, most commonly a savory filling of meat, beans, and rice."
   },
   {
     "id": 95,
@@ -1232,7 +1323,8 @@
     ],
     "imageCount": 3,
     "lat": 23.6345,
-    "lng": -102.5528
+    "lng": -102.5528,
+    "description": "Though originating in Spain and Portugal, churros are an immensely popular treat in Mexico. The fried dough pastry is often coated in cinnamon sugar and served with dipping sauces like chocolate or dulce de leche."
   },
   {
     "id": 96,
@@ -1245,7 +1337,8 @@
     ],
     "imageCount": 3,
     "lat": 23.6345,
-    "lng": -102.5528
+    "lng": -102.5528,
+    "description": "A traditional dish with Mayan roots, enchiladas are corn tortillas that are rolled around a filling and covered with a savory chili pepper sauce (salsa). Toppings often include cheese, sour cream, and onions."
   },
   {
     "id": 97,
@@ -1258,7 +1351,8 @@
     ],
     "imageCount": 3,
     "lat": 23.6345,
-    "lng": -102.5528
+    "lng": -102.5528,
+    "description": "This iconic dip has Aztec origins. It's made from mashed ripe avocados and typically mixed with chopped onion, tomatoes, cilantro, lime juice, and chili peppers."
   },
   {
     "id": 98,
@@ -1271,7 +1365,8 @@
     ],
     "imageCount": 3,
     "lat": 23.6345,
-    "lng": -102.5528
+    "lng": -102.5528,
+    "description": "A simple yet satisfying dish, its name means 'little cheesy thing.' A corn or flour tortilla is filled with cheese, folded in half, and cooked on a griddle until the cheese is melted and the tortilla is crispy."
   },
   {
     "id": 99,
@@ -1284,7 +1379,8 @@
     ],
     "imageCount": 3,
     "lat": 23.6345,
-    "lng": -102.5528
+    "lng": -102.5528,
+    "description": "Dating back to Mexican silver miners who needed a simple, portable meal, tacos are the heart of Mexican street food. A small corn tortilla is folded around a filling, which can range from grilled meat to fish or vegetables."
   },
   {
     "id": 100,
@@ -1297,7 +1393,8 @@
     ],
     "imageCount": 3,
     "lat": 31.6295,
-    "lng": -7.9811
+    "lng": -7.9811,
+    "description": "Small, sweet or savory pastries made with thin warqa pastry. Savory briouats can be filled with meat or cheese, while sweet versions are filled with almond paste and soaked in honey."
   },
   {
     "id": 101,
@@ -1310,7 +1407,8 @@
     ],
     "imageCount": 3,
     "lat": 31.6295,
-    "lng": -7.9811
+    "lng": -7.9811,
+    "description": "A Moroccan sesame cookie that is shaped into a flower, fried, and then coated with honey. It's a sticky, sweet, and fragrant treat that is essential during Ramadan."
   },
   {
     "id": 102,
@@ -1323,7 +1421,8 @@
     ],
     "imageCount": 3,
     "lat": 31.6295,
-    "lng": -7.9811
+    "lng": -7.9811,
+    "description": "A staple of North African cuisine, couscous consists of small granules of steamed semolina. It is traditionally served on Fridays with a hearty seven-vegetable stew spooned over the top."
   },
   {
     "id": 103,
@@ -1336,7 +1435,8 @@
     ],
     "imageCount": 3,
     "lat": 31.6295,
-    "lng": -7.9811
+    "lng": -7.9811,
+    "description": "A traditional Moroccan soup, especially popular during Ramadan to break the fast. It's a rich, tomato-based soup with lentils, chickpeas, and sometimes meat, flavored with a blend of fragrant spices."
   },
   {
     "id": 104,
@@ -1349,7 +1449,8 @@
     ],
     "imageCount": 3,
     "lat": 31.6295,
-    "lng": -7.9811
+    "lng": -7.9811,
+    "description": "Also known as B'stilla, this is a traditional and elaborate sweet and savory pie. It features flaky layers of warqa pastry filled with shredded pigeon or chicken, almonds, and spices, and dusted with powdered sugar and cinnamon."
   },
   {
     "id": 105,
@@ -1362,7 +1463,8 @@
     ],
     "imageCount": 3,
     "lat": 31.6295,
-    "lng": -7.9811
+    "lng": -7.9811,
+    "description": "Named for the conical earthenware pot in which it's cooked, a tagine is a slow-simmered, aromatic stew. Popular combinations include chicken with preserved lemons and olives, or lamb with prunes and almonds."
   },
   {
     "id": 106,
@@ -1375,7 +1477,8 @@
     ],
     "imageCount": 3,
     "lat": 12.8797,
-    "lng": 121.774
+    "lng": 121.774,
+    "description": "A whole pig, spit-roasted over charcoal for hours. Lechon is a fixture at any Filipino celebration, prized for its incredibly tender meat and the perfectly crispy, golden-brown skin, which is considered the best part."
   },
   {
     "id": 107,
@@ -1388,7 +1491,8 @@
     ],
     "imageCount": 3,
     "lat": 12.8797,
-    "lng": 121.774
+    "lng": 121.774,
+    "description": "Filipino spring rolls, with influences from Chinese cuisine. 'Lumpiang Shanghai' is a popular version, a savory, fried roll filled with minced meat and vegetables, served with a sweet and sour dipping sauce."
   },
   {
     "id": 108,
@@ -1401,7 +1505,8 @@
     ],
     "imageCount": 3,
     "lat": 12.8797,
-    "lng": 121.774
+    "lng": 121.774,
+    "description": "A Filipino noodle dish that is a staple at birthday celebrations, symbolizing a long life. There are many variations, with 'Pancit Canton' (using egg noodles) and 'Pancit Bihon' (using rice noodles) being two of the most popular."
   },
   {
     "id": 109,
@@ -1414,7 +1519,8 @@
     ],
     "imageCount": 3,
     "lat": 12.8797,
-    "lng": 121.774
+    "lng": 121.774,
+    "description": "A traditional Filipino soup characterized by its sour and savory taste. The sourness typically comes from tamarind, but other fruits like guava or calamansi can be used. It's often made with pork, beef, or seafood."
   },
   {
     "id": 110,
@@ -1427,7 +1533,8 @@
     ],
     "imageCount": 3,
     "lat": 61.524,
-    "lng": 105.3188
+    "lng": 105.3188,
+    "description": "Russian-style pancakes or crepes, with a history dating back to pre-Christian times. They can be served simply with butter, or elaborately with sour cream, jam, or savory toppings like caviar."
   },
   {
     "id": 111,
@@ -1440,7 +1547,8 @@
     ],
     "imageCount": 3,
     "lat": 61.524,
-    "lng": 105.3188
+    "lng": 105.3188,
+    "description": "While strongly associated with Russia, this sour soup is of Ukrainian origin and popular across Eastern Europe. The most famous variety is made with beetroot as the main ingredient, giving it a deep red color."
   },
   {
     "id": 112,
@@ -1453,7 +1561,8 @@
     ],
     "imageCount": 3,
     "lat": 61.524,
-    "lng": 105.3188
+    "lng": 105.3188,
+    "description": "Heart-shaped dumplings from Siberia, traditionally filled with minced meat. They are a beloved comfort food, often served boiled and topped with sour cream or butter."
   },
   {
     "id": 113,
@@ -1466,7 +1575,8 @@
     ],
     "imageCount": 3,
     "lat": 61.524,
-    "lng": 105.3188
+    "lng": 105.3188,
+    "description": "Small baked or fried buns stuffed with a variety of fillings, from meat and potatoes to cabbage or fruit. They are a common homemade snack and street food."
   },
   {
     "id": 114,
@@ -1479,7 +1589,8 @@
     ],
     "imageCount": 3,
     "lat": 61.524,
-    "lng": 105.3188
+    "lng": 105.3188,
+    "description": "A form of shish kebab popular in Russia and former Soviet countries, with roots in the Caucasus region. It consists of cubes of marinated meat grilled on skewers over a charcoal fire."
   },
   {
     "id": 115,
@@ -1492,7 +1603,8 @@
     ],
     "imageCount": 3,
     "lat": 61.524,
-    "lng": 105.3188
+    "lng": 105.3188,
+    "description": "A beloved comfort food for breakfast or dessert across Russia, Syrniki are small, sweet pancakes made from quark (a fresh, creamy cheese). The name comes from the old Slavic word for cheese, \"syr.\" They are pan-fried until golden and have a texture that is wonderfully soft on the inside and slightly crisp on the outside. They are almost always served with sour cream (smetana), jam, or honey."
   },
   {
     "id": 116,
@@ -1505,7 +1617,8 @@
     ],
     "imageCount": 3,
     "lat": 23.8859,
-    "lng": 45.0792
+    "lng": 45.0792,
+    "description": "In Saudi Arabia, falafel is typically made from ground chickpeas, following the Levantine style. These deep-fried balls are a common breakfast item or sandwich filling, served with tahini sauce."
   },
   {
     "id": 117,
@@ -1518,7 +1631,8 @@
     ],
     "imageCount": 3,
     "lat": 23.8859,
-    "lng": 45.0792
+    "lng": 45.0792,
+    "description": "A traditional and simple dish, especially popular during Ramadan. It's made by slowly cooking wheat with meat (usually chicken or lamb) until it reaches a thick, porridge-like consistency."
   },
   {
     "id": 118,
@@ -1531,7 +1645,8 @@
     ],
     "imageCount": 3,
     "lat": 23.8859,
-    "lng": 45.0792
+    "lng": 45.0792,
+    "description": "The national dish of Saudi Arabia. It's a mixed rice dish made with long-grain rice and meat (chicken, lamb, or goat), cooked in a broth of aromatic spices. It's often garnished with raisins, nuts, and onions."
   },
   {
     "id": 119,
@@ -1544,7 +1659,8 @@
     ],
     "imageCount": 3,
     "lat": 23.8859,
-    "lng": 45.0792
+    "lng": 45.0792,
+    "description": "A popular street food where meat (chicken, lamb, or beef) is seasoned and stacked on a vertical rotisserie, then slow-roasted. Thin slices are shaved off and served in a flatbread with garlic sauce and vegetables."
   },
   {
     "id": 120,
@@ -1557,7 +1673,8 @@
     ],
     "imageCount": 3,
     "lat": -30.5595,
-    "lng": 22.9375
+    "lng": 22.9375,
+    "description": "A form of dried, cured meat that originated with Dutch settlers in the 17th century. It's typically made from beef or game, and its unique flavor comes from being cured in vinegar, salt, and spices like coriander."
   },
   {
     "id": 121,
@@ -1568,7 +1685,8 @@
     ],
     "imageCount": 1,
     "lat": -30.5595,
-    "lng": 22.9375
+    "lng": 22.9375,
+    "description": "Meaning 'farmer's sausage,' this is a traditional South African sausage that must contain at least 90% meat. It's typically formed into a continuous coil and cooked on a 'braai' (barbecue)."
   },
   {
     "id": 122,
@@ -1581,7 +1699,8 @@
     ],
     "imageCount": 3,
     "lat": -30.5595,
-    "lng": 22.9375
+    "lng": 22.9375,
+    "description": "A braai is a South African outdoor barbecue tradition and social custom where meat, fish, and vegetables are grilled over an open fire or coals. Beyond a meal, it is a significant cultural experience, embodying a way of life centered around community, fellowship, and the distinctive flavors imparted by cooking with wood. "
   },
   {
     "id": 123,
@@ -1594,7 +1713,8 @@
     ],
     "imageCount": 3,
     "lat": 40.4637,
-    "lng": -3.7492
+    "lng": -3.7492,
+    "description": "A popular breakfast or snack, especially in Madrid where they are dipped in thick hot chocolate. These are fried-dough pastries, typically extruded into long, ridged sticks and sprinkled with sugar."
   },
   {
     "id": 124,
@@ -1607,7 +1727,8 @@
     ],
     "imageCount": 3,
     "lat": 40.4637,
-    "lng": -3.7492
+    "lng": -3.7492,
+    "description": "A staple in every tapas bar in Spain, croquetas are small, lightly breaded and fried rolls with a creamy béchamel sauce filling. While originating in France, Spain perfected them into a national treasure. The most classic filling is diced jamón (cured ham), but you can find them made with chicken, cod, or mushrooms. They are the ultimate comfort food—crispy on the outside and rich and gooey on the inside."
   },
   {
     "id": 125,
@@ -1620,7 +1741,8 @@
     ],
     "imageCount": 3,
     "lat": 40.4637,
-    "lng": -3.7492
+    "lng": -3.7492,
+    "description": "A refreshing cold soup from the southern region of Andalusia, perfect for hot summers. It's made from a purée of raw, blended vegetables, primarily tomato, peppers, cucumber, garlic, and onion."
   },
   {
     "id": 126,
@@ -1633,7 +1755,8 @@
     ],
     "imageCount": 3,
     "lat": 40.4637,
-    "lng": -3.7492
+    "lng": -3.7492,
+    "description": "Spain's most famous rice dish, originating as a farmer's lunch in the fields of Valencia. The authentic 'Paella Valenciana' is made with rabbit, chicken, and local beans, cooked in a wide, shallow pan."
   },
   {
     "id": 127,
@@ -1646,7 +1769,8 @@
     ],
     "imageCount": 3,
     "lat": 40.4637,
-    "lng": -3.7492
+    "lng": -3.7492,
+    "description": "A classic Spanish tapa dish. It consists of white potatoes that have been cut into chunks, fried in oil, and served warm with a spicy tomato-based sauce (salsa brava)."
   },
   {
     "id": 128,
@@ -1672,7 +1796,8 @@
     ],
     "imageCount": 3,
     "lat": 15.87,
-    "lng": 100.9925
+    "lng": 100.9925,
+    "description": "Known as 'Gaeng Keow Wan,' this is a central Thai curry. Its signature green color comes from fresh green chilies, and it's typically sweeter than red curries, with a coconut milk base and Thai basil."
   },
   {
     "id": 130,
@@ -1685,7 +1810,8 @@
     ],
     "imageCount": 3,
     "lat": 15.87,
-    "lng": 100.9925
+    "lng": 100.9925,
+    "description": "A classic Thai dessert made from glutinous rice, fresh mango, and coconut milk. The sticky rice is steamed and then soaked in sweetened coconut milk, served alongside slices of ripe mango."
   },
   {
     "id": 131,
@@ -1698,7 +1824,8 @@
     ],
     "imageCount": 3,
     "lat": 15.87,
-    "lng": 100.9925
+    "lng": 100.9925,
+    "description": "Thailand's national stir-fried noodle dish. It's a delightful mix of rice noodles, shrimp or tofu, bean sprouts, and eggs, all tossed in a sweet, sour, and salty tamarind-based sauce."
   },
   {
     "id": 132,
@@ -1711,7 +1838,8 @@
     ],
     "imageCount": 3,
     "lat": 15.87,
-    "lng": 100.9925
+    "lng": 100.9925,
+    "description": "While found across Southeast Asia, Thai satay features smaller skewers of marinated meat (usually pork or chicken). It's grilled and served with a distinctive peanut sauce and a cucumber relish."
   },
   {
     "id": 133,
@@ -1724,7 +1852,8 @@
     ],
     "imageCount": 3,
     "lat": 15.87,
-    "lng": 100.9925
+    "lng": 100.9925,
+    "description": "A spicy green papaya salad from the Isan region of northeastern Thailand. It's a flavor explosion, pounding shredded unripe papaya with chilies, garlic, lime juice, and fish sauce in a mortar and pestle."
   },
   {
     "id": 134,
@@ -1737,7 +1866,8 @@
     ],
     "imageCount": 3,
     "lat": 15.87,
-    "lng": 100.9925
+    "lng": 100.9925,
+    "description": "A famous hot and sour soup, its name literally means 'boiling' and 'mixed.' The fragrant broth is a symphony of lemongrass, galangal, kaffir lime leaves, lime juice, and chili peppers."
   },
   {
     "id": 135,
@@ -1750,7 +1880,8 @@
     ],
     "imageCount": 3,
     "lat": 38.9637,
-    "lng": 35.2433
+    "lng": 35.2433,
+    "description": "Gaziantep is considered the home of the world's best baklava. This sweet pastry is made of layers of filo filled with chopped pistachios (for which the region is famous) and sweetened with a light sugar syrup."
   },
   {
     "id": 136,
@@ -1763,7 +1894,8 @@
     ],
     "imageCount": 3,
     "lat": 38.9637,
-    "lng": 35.2433
+    "lng": 35.2433,
+    "description": "While 'kebab' just means cooked meat, Turkish kebabs are world-famous. The Adana kebab is a long, hand-minced meat kebab mounted on a wide skewer and grilled, known for its spicy flavor from red peppers."
   },
   {
     "id": 137,
@@ -1776,7 +1908,8 @@
     ],
     "imageCount": 3,
     "lat": 38.9637,
-    "lng": 35.2433
+    "lng": 35.2433,
+    "description": "Often called 'Turkish pizza,' Lahmacun is a thin, crispy piece of round dough topped with minced meat (most commonly beef or lamb), minced vegetables, and herbs, then baked."
   },
   {
     "id": 138,
@@ -1789,7 +1922,8 @@
     ],
     "imageCount": 3,
     "lat": 38.9637,
-    "lng": 35.2433
+    "lng": 35.2433,
+    "description": "Meze is a style of dining, similar to Spanish tapas, involving a selection of small dishes served as an appetizer. Common Turkish meze include dips like hummus, stuffed vine leaves, and salads."
   },
   {
     "id": 139,
@@ -1802,7 +1936,8 @@
     ],
     "imageCount": 3,
     "lat": 38.9637,
-    "lng": 35.2433
+    "lng": 35.2433,
+    "description": "A boat-shaped Turkish flatbread that is baked in a stone oven. The dough is topped with a variety of ingredients, with the most popular being 'sucuklu' (with spicy sausage) and 'k?ymal?' (with minced meat)."
   },
   {
     "id": 140,
@@ -1814,7 +1949,8 @@
     ],
     "imageCount": 2,
     "lat": 38.9637,
-    "lng": 35.2433
+    "lng": 35.2433,
+    "description": "Known as 'Lokum,' this is a family of confections based on a gel of starch and sugar. Premium varieties consist of chopped dates, pistachios, or hazelnuts bound by the gel, often flavored with rosewater or lemon."
   },
   {
     "id": 141,
@@ -1827,7 +1963,8 @@
     ],
     "imageCount": 3,
     "lat": 55.3781,
-    "lng": -3.436
+    "lng": -3.436,
+    "description": "Often called \"Britain's true national dish,\" Chicken Tikka Masala is a fantastic example of the country's multicultural cuisine. Legend says it was invented in Glasgow in the 1970s when a chef improvised a sauce using tomato soup and spices for a customer who found his chicken tikka too dry. It consists of roasted chunks of marinated chicken in a creamy, spiced curry sauce."
   },
   {
     "id": 142,
@@ -1839,7 +1976,8 @@
     ],
     "imageCount": 2,
     "lat": 55.3781,
-    "lng": -3.436
+    "lng": -3.436,
+    "description": "A quintessential British takeaway meal that emerged in the 1860s. It consists of battered and deep-fried fish (traditionally cod or haddock) served with hot, thick-cut fries (chips)."
   },
   {
     "id": 143,
@@ -1852,7 +1990,8 @@
     ],
     "imageCount": 3,
     "lat": 55.3781,
-    "lng": -3.436
+    "lng": -3.436,
+    "description": "A hearty, traditional breakfast, often called a 'fry-up.' It typically includes bacon, sausages, eggs, black pudding, baked beans, tomatoes, mushrooms, and fried bread or toast."
   },
   {
     "id": 144,
@@ -1865,7 +2004,8 @@
     ],
     "imageCount": 3,
     "lat": 55.3781,
-    "lng": -3.436
+    "lng": -3.436,
+    "description": "A single-serving baked good, usually made of wheat or oatmeal. It's a key component of a cream tea, famously served with clotted cream and jam. The Devon vs. Cornwall debate is about which is applied first!"
   },
   {
     "id": 145,
@@ -1878,7 +2018,8 @@
     ],
     "imageCount": 3,
     "lat": 55.3781,
-    "lng": -3.436
+    "lng": -3.436,
+    "description": "A traditional British main meal that is served on Sundays. It consists of roasted meat, roast potatoes, and accompaniments such as Yorkshire pudding, stuffing, vegetables, and gravy."
   },
   {
     "id": 146,
@@ -1891,7 +2032,8 @@
     ],
     "imageCount": 3,
     "lat": 55.3781,
-    "lng": -3.436
+    "lng": -3.436,
+    "description": "A common British side dish, this is a baked pudding made from a batter of eggs, flour, and milk or water. It's an essential part of a Sunday Roast, often served with beef and gravy."
   },
   {
     "id": 147,
@@ -1904,7 +2046,8 @@
     ],
     "imageCount": 3,
     "lat": 39.8283,
-    "lng": -98.5795
+    "lng": -98.5795,
+    "description": "Despite the saying 'as American as apple pie,' the dish originated in Europe. However, it became a symbol of American prosperity and pride, with a flaky pastry crust and a filling of sliced, spiced apples."
   },
   {
     "id": 148,
@@ -1917,7 +2060,8 @@
     ],
     "imageCount": 3,
     "lat": 39.8283,
-    "lng": -98.5795
+    "lng": -98.5795,
+    "description": "Barbecue is a serious tradition in the American South. Memphis-style ribs are famous for being slow-cooked until tender and can be served 'wet' with a tangy tomato-based sauce or 'dry' with just a flavorful spice rub."
   },
   {
     "id": 149,
@@ -1930,7 +2074,8 @@
     ],
     "imageCount": 3,
     "lat": 39.8283,
-    "lng": -98.5795
+    "lng": -98.5795,
+    "description": "While its exact origin is debated, the modern American hamburger is a global icon of fast food. It's a simple concept of a ground meat patty served in a sliced bun, allowing for endless variations and toppings."
   },
   {
     "id": 150,
@@ -1943,7 +2088,8 @@
     ],
     "imageCount": 3,
     "lat": 39.8283,
-    "lng": -98.5795
+    "lng": -98.5795,
+    "description": "While frying chicken has ancient roots, the Southern American style, seasoned with a unique blend of spices and known for its crispy coating, was developed by both Scottish immigrants and enslaved African-Americans in the colonial era."
   },
   {
     "id": 151,
@@ -1956,7 +2102,8 @@
     ],
     "imageCount": 3,
     "lat": 39.8283,
-    "lng": -98.5795
+    "lng": -98.5795,
+    "description": "Popularized by German immigrants in New York in the 19th century, the hot dog is a cooked sausage served in a sliced bun. It's a staple at American sporting events and backyard cookouts."
   },
   {
     "id": 152,
@@ -1969,7 +2116,8 @@
     ],
     "imageCount": 3,
     "lat": 39.8283,
-    "lng": -98.5795
+    "lng": -98.5795,
+    "description": "Though an old European dish, its popularity in the US can be traced to Thomas Jefferson, who served it at a state dinner. It's a classic comfort food made with macaroni pasta and a rich cheese sauce."
   },
   {
     "id": 153,
@@ -1982,7 +2130,8 @@
     ],
     "imageCount": 3,
     "lat": 14.0583,
-    "lng": 108.2772
+    "lng": 108.2772,
+    "description": "A delicious legacy of French colonialism, the Banh Mi is a Vietnamese sandwich. It's served in a crispy baguette and filled with a fusion of flavors: savory meats, pickled vegetables, cilantro, and chili."
   },
   {
     "id": 154,
@@ -2008,7 +2157,8 @@
     ],
     "imageCount": 3,
     "lat": 14.0583,
-    "lng": 108.2772
+    "lng": 108.2772,
+    "description": "Meaning 'broken rice,' this was traditionally a cheaper grade of rice eaten by farmers. It's a popular dish from Southern Vietnam, served with various toppings like grilled pork chops, shredded pork skin, and a steamed egg meatloaf."
   },
   {
     "id": 156,
@@ -2021,7 +2171,8 @@
     ],
     "imageCount": 3,
     "lat": 14.0583,
-    "lng": 108.2772
+    "lng": 108.2772,
+    "description": "Invented in the 1940s due to a milk shortage, this is a Hanoi specialty. Vietnamese robusta coffee is topped with a thick, creamy, meringue-like froth made from egg yolks whipped with sugar and condensed milk."
   },
   {
     "id": 157,
@@ -2034,7 +2185,8 @@
     ],
     "imageCount": 3,
     "lat": 14.0583,
-    "lng": 108.2772
+    "lng": 108.2772,
+    "description": "Vietnam's national dish, this is a noodle soup consisting of a rich, aromatic broth, rice noodles, herbs, and meat (usually beef or chicken). Its complex flavor comes from simmering bones and spices for hours."
   },
   {
     "id": 158,
@@ -2047,6 +2199,7 @@
     ],
     "imageCount": 3,
     "lat": 14.0583,
-    "lng": 108.2772
+    "lng": 108.2772,
+    "description": "In Southern Vietnam, these are typically the fresh 'G?i cu?n' or summer rolls. Rice paper is wrapped around pork, shrimp, herbs, and vermicelli noodles, and served chilled with a peanut dipping sauce."
   }
 ]

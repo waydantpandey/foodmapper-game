@@ -4823,7 +4823,7 @@ export default function FoodGuessingGame() {
                       textShadow: '1px 1px 2px rgba(0, 0, 0, 0.7)',
                       textAlign: 'left'
                     }}>
-                      {gameState.currentFood?.fact}
+                      {gameState.currentFood?.description || gameState.currentFood?.fact}
                     </p>
                   </div>
               </div>
