@@ -184,11 +184,62 @@ html {
   }
 }
 
-/* Responsive design helpers */
+/* Mobile-first responsive design */
 @media (max-width: 768px) {
+  /* Prevent zoom on input focus */
+  input, textarea, select {
+    font-size: 16px !important;
+  }
+  
+  /* Mobile map container */
+  .map-container {
+    height: 60vh !important;
+    min-height: 300px !important;
+  }
+  
+  /* Mobile game UI adjustments */
+  .game-ui {
+    padding: 0.5rem !important;
+    gap: 0.5rem !important;
+  }
+  
+  /* Mobile timer */
+  .timer-display {
+    font-size: 1.5rem !important;
+    padding: 0.5rem 1rem !important;
+  }
+  
+  /* Mobile buttons */
+  .game-button {
+    min-height: 44px !important;
+    min-width: 44px !important;
+    font-size: 1rem !important;
+    padding: 0.75rem 1.5rem !important;
+  }
+  
+  .mobile-guess-button {
+    position: fixed !important;
+    bottom: 1rem !important;
+    left: 1rem !important;
+    right: 1rem !important;
+    width: calc(100vw - 2rem) !important;
+    z-index: 1000 !important;
+    font-size: 1.1rem !important;
+    padding: 1rem 1.5rem !important;
+    min-height: 50px !important;
+  }
+  
+  /* Mobile food image */
+  .food-image-container {
+    height: 40vh !important;
+    min-height: 200px !important;
+  }
+  
+  /* Mobile results panel */
   .results-panel {
     flex-direction: column !important;
     gap: 1rem !important;
+    padding: 1rem !important;
   }
   
   .dish-image {
@@ -199,10 +250,113 @@ html {
   
   .dish-info {
     text-align: center !important;
+    font-size: 0.9rem !important;
   }
   
   .score-section {
     flex: none !important;
     width: 100% !important;
+  }
+  
+  /* Mobile nickname screen */
+  .nickname-screen {
+    padding: 1rem !important;
+  }
+  
+  .nickname-input {
+    font-size: 1.1rem !important;
+    padding: 0.75rem !important;
+    min-height: 44px !important;
+  }
+  
+  /* Mobile avatar grid */
+  .avatar-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 0.5rem !important;
+  }
+  
+  .avatar-option {
+    width: 60px !important;
+    height: 60px !important;
+  }
+  
+  /* Mobile controls */
+  .mobile-controls {
+    position: fixed !important;
+    bottom: 1rem !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    z-index: 1000 !important;
+    display: flex !important;
+    gap: 0.5rem !important;
+  }
+  
+  /* Touch-friendly elements */
+  .touch-target {
+    min-height: 44px !important;
+    min-width: 44px !important;
+  }
+  
+  /* Mobile text sizing */
+  .mobile-text-sm {
+    font-size: 0.875rem !important;
+  }
+  
+  .mobile-text-base {
+    font-size: 1rem !important;
+  }
+  
+  .mobile-text-lg {
+    font-size: 1.125rem !important;
+  }
+  
+  .mobile-text-xl {
+    font-size: 1.25rem !important;
+  }
+}
+
+/* Extra small mobile devices */
+@media (max-width: 480px) {
+  .map-container {
+    height: 50vh !important;
+    min-height: 250px !important;
+  }
+  
+  .food-image-container {
+    height: 35vh !important;
+    min-height: 180px !important;
+  }
+  
+  .timer-display {
+    font-size: 1.25rem !important;
+  }
+  
+  .game-button {
+    font-size: 0.9rem !important;
+    padding: 0.5rem 1rem !important;
+  }
+  
+  .nickname-input {
+    font-size: 1rem !important;
+  }
+  
+  .avatar-option {
+    width: 50px !important;
+    height: 50px !important;
+  }
+}
+
+/* Landscape mobile orientation */
+@media (max-width: 768px) and (orientation: landscape) {
+  .map-container {
+    height: 70vh !important;
+  }
+  
+  .food-image-container {
+    height: 30vh !important;
+  }
+  
+  .mobile-controls {
+    bottom: 0.5rem !important;
   }
 }
