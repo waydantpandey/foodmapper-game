@@ -88,6 +88,7 @@ export default function FoodGuessingGame() {
   const [soundOn, setSoundOn] = useState(true);
   const [animationsOn, setAnimationsOn] = useState(true);
   const [isMobile, setIsMobile] = useState(false);
+  const [isClient, setIsClient] = useState(false);
   
   // Game pause state
   const [isGamePaused, setIsGamePaused] = useState(false);
@@ -2507,8 +2508,15 @@ export default function FoodGuessingGame() {
     }
   }, [gameState.timeLeft, gameState.gamePhase, gameState.currentFood, submitGuess, hasPlayedTenSecondsSound, isGamePaused, beepSounds, playBell1Sound, showNicknameScreen]);
 
-  // Mobile detection
+  // Client-side detection to prevent hydration mismatch
   useEffect(() => {
+    setIsClient(true);
+  }, []);
+
+  // Mobile detection - client-side only to prevent hydration mismatch
+  useEffect(() => {
+    if (!isClient) return;
+    
     const checkMobile = () => {
       const isMobileDevice = window.innerWidth <= 768 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
       setIsMobile(isMobileDevice);
@@ -2518,7 +2526,7 @@ export default function FoodGuessingGame() {
     window.addEventListener('resize', checkMobile);
     
     return () => window.removeEventListener('resize', checkMobile);
-  }, []);
+  }, [isClient]);
 
   // Background music management based on game phase - DISABLED to test direct triggering
   // useEffect(() => {
@@ -3446,7 +3454,7 @@ export default function FoodGuessingGame() {
           transition: 'opacity 0.8s ease-in-out'
         }}>
           <GoogleMap
-            mapContainerStyle={getMapContainerStyle(isMobile)}
+            mapContainerStyle={getMapContainerStyle(isClient && isMobile)}
             center={center}
             zoom={2}
             options={{
@@ -4055,20 +4063,20 @@ export default function FoodGuessingGame() {
 
       {/* Timer - Fixed position, not affected by food image zoom */}
         {gameState.gamePhase === 'playing' && (
-          <div className={`timer-display ${isMobile ? 'mobile-timer' : ''}`} style={{
+          <div className={`timer-display ${isClient && isMobile ? 'mobile-timer' : ''}`} style={{
           position: 'fixed',
-          top: isMobile ? '1rem' : '5rem',
-          right: isMobile ? '1rem' : 'min(2rem, 4vw)',
+          top: isClient && isMobile ? '1rem' : '5rem',
+          right: isClient && isMobile ? '1rem' : 'min(2rem, 4vw)',
           zIndex: 40,
             backgroundColor: 'rgba(0, 0, 0, 0.7)',
             color: 'white',
-          padding: isMobile ? '0.5rem 1rem' : 'min(0.75rem, 1.5vw) min(1.5rem, 3vw)',
+          padding: isClient && isMobile ? '0.5rem 1rem' : 'min(0.75rem, 1.5vw) min(1.5rem, 3vw)',
           borderRadius: '0.75rem',
-          fontSize: isMobile ? '1.5rem' : 'min(1.5rem, 4vw)',
+          fontSize: isClient && isMobile ? '1.5rem' : 'min(1.5rem, 4vw)',
           fontWeight: 800,
           fontFamily: "'Alan Sans', sans-serif",
-          width: isMobile ? 'auto' : 'min(4rem, 10vw)',
-          height: isMobile ? 'auto' : 'min(3rem, 7.5vw)',
+          width: isClient && isMobile ? 'auto' : 'min(4rem, 10vw)',
+          height: isClient && isMobile ? 'auto' : 'min(3rem, 7.5vw)',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
@@ -4378,22 +4386,22 @@ export default function FoodGuessingGame() {
       {/* Guess Button */}
       {gameState.gamePhase === 'playing' && (
           <button
-            className={`game-button ${isMobile ? 'mobile-guess-button' : ''}`}
+            className={`game-button ${isClient && isMobile ? 'mobile-guess-button' : ''}`}
             onClick={handleGuessNow}
             disabled={!gameState.guessPosition}
             style={{
-              width: isMobile ? 'calc(100vw - 2rem)' : (() => {
+              width: isClient && isMobile ? 'calc(100vw - 2rem)' : (() => {
                 const baseWidth = mapSize === 'extraSmall' ? 250 : mapSize === 'small' ? 300 : mapSize === 'default' ? 350 : mapSize === 'large' ? 450 : 550;
                 const hoverWidth = mapSize === 'extraSmall' ? 270 : mapSize === 'small' ? 320 : mapSize === 'default' ? 370 : mapSize === 'large' ? 470 : 570;
                 // Only allow hover effects when at default size and not pinned
                 return (isMapHovered && !isMapPinned && mapSize === 'default') ? `min(${hoverWidth}px, calc(100vw - 4rem))` : `min(${baseWidth}px, calc(100vw - 4rem))`;
               })(),
-              padding: isMobile ? '1rem 1.5rem' : '1rem 2rem',
+              padding: isClient && isMobile ? '1rem 1.5rem' : '1rem 2rem',
               backgroundColor: gameState.guessPosition ? '#10b981' : '#9ca3af',
               color: 'white',
               borderRadius: '0.75rem',
               fontWeight: 'bold',
-              fontSize: isMobile ? '1rem' : (() => {
+              fontSize: isClient && isMobile ? '1rem' : (() => {
                 // Responsive font size based on map size
                 const baseFontSize = mapSize === 'extraSmall' ? '0.75rem' : mapSize === 'small' ? '0.875rem' : '1rem';
                 return baseFontSize;
